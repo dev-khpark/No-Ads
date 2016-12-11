@@ -7,6 +7,7 @@
 
 
 {"_comment": "2016.12.11 Update","action": {"type": "css-display-none","selector": "DIV[id='sticky-banner-2055251'], DIV[class='footer-ad']"},"trigger": {"url-filter": "kflix.tv"}},
+{"_comment": "2016.12.11 Update","action": {"type": "css-display-none","selector": "DIV[class='xWUJWaenQlxTyehpIRbJNAUeNPdzeVLy']"},"trigger": {"url-filter": "http://kflix.gryfindor.com"}},
 
 {"_comment": "2016.12.11 Update","action": {"type": "css-display-none","selector": "DIV[class='pwmBVsNdKYoPqzheSkScaFGgCghgXyam'],DIV[class='RRvvxIrPjfHZjnOjSdtpQZvqFvWVNMCJ'], DIV[id='imobile_adspotdiv1']"},"trigger": {"url-filter": "anigod.gryfindor.com"}},
 
