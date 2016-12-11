@@ -1,5 +1,5 @@
  [
-  {"action": {"type": "block"},"trigger": {"url-filter": "clien.net"}},
+  {"action": {"type": "block"},"trigger": {"url-filter": "tistory.com"}},
   {"action": {"type": "css-display-none","selector": "#module module_plugin"},"trigger": {"url-filter": "macguyver.kr"}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.11st.co.kr"]}}
   ]
