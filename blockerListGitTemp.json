@@ -2,5 +2,7 @@
   {"action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
   {"action": {"type": "css-display-none","selector": "#module module_plugin"},"trigger": {"url-filter": "macguyver12.kr"}},
 
-  {"_comment": "2016.12.11 Update","action": {"type": "css-display-none","selector": "DIV[id='sticky-banner-2055251'], DIV[class='footer-ad']"},"trigger": {"url-filter": "kflix.tv"}}
+
+  {"_comment": "2016.12.11 Update","action": {"type": "css-display-none","selector": "DIV[id='sticky-banner-2055251'], DIV[class='footer-ad']"},"trigger": {"url-filter": "kflix.tv"}},
+{"_comment": "2016.12.11 Update","action": {"type": "css-display-none","selector": "DIV[id='sticky-banner-2028756'], DIV[class='footer-ad']"},"trigger": {"url-filter": "anigod.com"}}
   ]
