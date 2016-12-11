@@ -1,5 +1,17 @@
  [
   {"action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
   {"action": {"type": "css-display-none","selector": "#module module_plugin"},"trigger": {"url-filter": "macguyver12.kr"}},
-  {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": "if-domain": ["m.12st.co.kr"]}}
+
+{"_comment": "Check!! 2016.12.11 Update","action": {"type": "css-display-none","selector": "DIV[id='sticky-banner-2028756']"},"trigger": {"url-filter": "anigod.com"}},
+
+
+
+{"_comment": "2016.12.11 Update","action": {"type": "css-display-none","selector": "DIV[id='sticky-banner-2055251'], DIV[class='footer-ad']"},"trigger": {"url-filter": "kflix.tv"}},
+{"_comment": "2016.12.11 Update","action": {"type": "css-display-none","selector": "DIV[class='xWUJWaenQlxTyehpIRbJNAUeNPdzeVLy']"},"trigger": {"url-filter": "http://kflix.gryfindor.com"}},
+
+{"_comment": "2016.12.11 Update","action": {"type": "css-display-none","selector": "DIV[class='pwmBVsNdKYoPqzheSkScaFGgCghgXyam'],DIV[class='RRvvxIrPjfHZjnOjSdtpQZvqFvWVNMCJ'], DIV[id='imobile_adspotdiv1']"},"trigger": {"url-filter": "anigod.gryfindor.com"}},
+
+{"_comment": "2016.12.11 Update","action": {"type": "css-display-none","selector": "DIV[class='wXoXBdkPeBgKzZmWqIYTgVRXqMxMyULN'],DIV[class='wXoXBdkPeBgKzZmWqIYTgVRXqMxMyULN'], DIV[id='imobile_adspotdiv1']"},"trigger": {"url-filter": "anigod.gryfindor.com"}},
+{"_comment": "2016.12.11 Update","action": {"type": "css-display-none","selector": "DIV[style='position:fixed; bottom:0; left:50%; margin-left:-160px;']"},"trigger": {"url-filter": "viid.me"}},
+{"_comment": "2016.12.11 Update","action": {"type": "css-display-none","selector": "DIV[id='sticky-banner-2028756'], DIV[class='footer-ad']"},"trigger": {"url-filter": "anigod.com"}}
   ]
