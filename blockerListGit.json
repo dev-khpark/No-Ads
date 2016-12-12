@@ -2,6 +2,7 @@
   {"action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
   {"action": {"type": "css-display-none","selector": "#module module_plugin"},"trigger": {"url-filter": "macguyver12.kr"}},
 
+{"_comment": "Check!! 2016.12.12 Update","action": {"type": "css-display-none","selector": "DIV[style='text-align: center;padding:20px 0;background-color:#e5e5e5']"},"trigger": {"url-filter": "m.todayhumor.co.kr"}},
 {"_comment": "2016.12.12 Update","action": {"type": "block"},"trigger": {"url-filter": "cucudas.com/img/freebody.gif"}},
 {"_comment": "2016.12.12 Update","action": {"type": "block"},"trigger": {"url-filter": "cucudas.com/img/ffxitrack2.gif"}},
 {"_comment": "2016.12.12 Update","action": {"type": "block"},"trigger": {"url-filter": "cucudas.com/img/tvnori2.jpg"}},
