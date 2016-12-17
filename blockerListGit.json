@@ -3,6 +3,9 @@
   {"action": {"type": "css-display-none","selector": "#module module_plugin"},"trigger": {"url-filter": "macguyver12.kr"}},
 
 
+{"_comment": "Check!! 2016.12.17 Update","action": {"type": "css-display-none","selector": "DIV[class='fixed_ad_wrapper line_h_50']"},"trigger": {"url-filter": "m.ruliweb.com"}},
+
+
 {"_comment": "2016.12.16 Update","action": {"type": "block"},"trigger": {"url-filter": "cdnprism.pandora.tv/_adv_img/prism_ad/prismSDK/prismADP/js/PrismADP_1.3.1.min.js"}},
 
 
