@@ -2,6 +2,7 @@
   {"action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
   {"action": {"type": "css-display-none","selector": "#module module_plugin"},"trigger": {"url-filter": "macguyver12.kr"}},
 
+{"_comment": "Check!! 2016.12.17 Update","action": {"type": "css-display-none","selector": "DIV[class='hitomi-horizontal']"},"trigger": {"url-filter": "hitomi.la"}},
 
 {"_comment": "Check!! 2016.12.17 Update","action": {"type": "css-display-none","selector": "DIV[class='fixed_ad_wrapper line_h_50']"},"trigger": {"url-filter": "m.ruliweb.com"}},
 
