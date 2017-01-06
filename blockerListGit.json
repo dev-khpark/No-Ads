@@ -2,17 +2,8 @@
   {"action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
   {"action": {"type": "css-display-none","selector": "#module module_plugin"},"trigger": {"url-filter": "macguyver12.kr"}},
 
-
-
-{"_comment": "2016.12.19,23 Update","action": {"type": "css-display-none","selector": "DIV[style='padding-top:10px;text-align:center;'],DIV[class='emoticon-popup']"},"trigger": {"url-filter": "http://m.ppomppu.co.kr"}},
-
-{"_comment": "Check!! 2016.12.17 Update","action": {"type": "css-display-none","selector": "DIV[class='hitomi-horizontal']"},"trigger": {"url-filter": "hitomi.la"}},
-
-{"_comment": "Check!! 2016.12.17 Update","action": {"type": "css-display-none","selector": "DIV[class='fixed_ad_wrapper line_h_50']"},"trigger": {"url-filter": "m.ruliweb.com"}},
-
-
-{"_comment": "2016.12.16 Update","action": {"type": "block"},"trigger": {"url-filter": "cdnprism.pandora.tv/_adv_img/prism_ad/prismSDK/prismADP/js/PrismADP_1.3.1.min.js"}},
-
+{"_comment": "Check!! 2017.01.06 Update","action": {"type": "css-display-none","selector": "DIV[id='NeoInteractiveScreenViewLayer']"},"trigger": {"url-filter": "minitoon.net"}},
+{"_comment": "Check!! 2017.01.06 Update","action": {"type": "css-display-none","selector": "table[class='bg1']"},"trigger": {"url-filter": "humoruniv.com"}},
 
 {"_comment": "2016.12.15 Update","action": {"type": "block"},"trigger": {"url-filter": "4.bp.blogspot.com/-nH9FU8APrWg/WB_x04U8-WI/AAAAAAAGjSE/jJdVFGhfKekMKYkSwoJZXYEOYa7JHDE4ACLcB/s1600/%25EC%2588%2598%25EC%25A0%2595.gif"}},
 {"_comment": "2016.12.15 Update","action": {"type": "block"},"trigger": {"url-filter": "1.bp.blogspot.com/-KpehLUNeN3c/V-fdzE9LiUI/AAAAAAAGfj0/b-76kETlW4snxhjwde5igH2Icosd7JTzwCLcB/s1600/%25EB%25B0%25B0%25EB%2584%2588.gif"}}
