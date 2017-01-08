@@ -2,6 +2,71 @@
   {"action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
   {"action": {"type": "css-display-none","selector": "#module module_plugin"},"trigger": {"url-filter": "macguyver12.kr"}},
 
+  {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.11st.co.kr"]}},
+
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "DIV[class='footer-ad']"},"trigger": {"url-filter": "netmics.com"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "DIV[class='enaEvTzzbbMMcQRwPBFqfDGHRCQeZrqT']"},"trigger": {"url-filter": "netmics.gryfindor.com"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "DIV[class='enaEvTzzbbMMcQRwPBFqfDGHRCQeZrqT']"},"trigger": {"url-filter": "netmics.gryfindor.com"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "DIV[class='quZTPPsCFUwBdwEioqyIhlpArDJfDdHc']"},"trigger": {"url-filter": "netmics.gryfindor.com"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "DIV[class='quZTPPsCFUwBdwEioqyIhlpArDJfDdHc']"},"trigger": {"url-filter": "netmics.gryfindor.com"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "DIV[class='fullscreen-ad-container']"},"trigger": {"url-filter": "netmics.com"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "DIV[class='footer-sticky-ad']"},"trigger": {"url-filter": "netmics.com"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "span[class='admax-banner']"},"trigger": {"url-filter": "netmics.gryfindor.com"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "span[id='84127AS6839']"},"trigger": {"url-filter": "netmics.gryfindor.com"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "span[id='83875AS8376']"},"trigger": {"url-filter": "netmics.gryfindor.com"}},
+
+
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "div[style='width:320px; height:50px; position:fixed; top:0px; left:20px;background:rgb(255, 255, 255)']"},"trigger": {"url-filter": "hushtag.kr"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "div[id='back']"},"trigger": {"url-filter": "hushtag.kr"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "div[id='skyBanner_view']"},"trigger": {"url-filter": "hushtag.kr"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "div[id='div_adnmore_area']"},"trigger": {"url-filter": "hushtag.kr"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "ins[class='adsbygoogle']"},"trigger": {"url-filter": "hushtag.kr"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "form[class='trc-hidden']"},"trigger": {"url-filter": "hushtag.kr"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "iframe[id='tb-trc-transportFrame-9872']"},"trigger": {"url-filter": "hushtag.kr"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "a[id='toTop']"},"trigger": {"url-filter": "hushtag.kr"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "div[id='tbl-aug-ym805h']"},"trigger": {"url-filter": "hushtag.kr"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "form[class='trc-hidden']"},"trigger": {"url-filter": "hushtag.kr"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "iframe[id='tb-trc-transportFrame-6903']"},"trigger": {"url-filter": "hushtag.kr"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "div[id='_cm-css-reset']"},"trigger": {"url-filter": "hushtag.kr"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "div[id='Container3']"},"trigger": {"url-filter": "hushtag.kr"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "div[style='width:152px; height:152px; position:fixed;bottom:210px; left:10px; z-index:9000; border:1px solid #bbb']"},"trigger": {"url-filter": "hushtag.kr"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "div[id='top_ad_div']"},"trigger": {"url-filter": "hushtag.kr"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "iframe[src='http://ad.tpmn.co.kr/adReqSb.tpmn?ii=2787&out=ifr&pi=SYNC']"},"trigger": {"url-filter": "hushtag.kr"}},
+
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "div[id='mmaDisplay5']"},"trigger": {"url-filter": "hushtag.kr"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "div[id='mmaDisplay']"},"trigger": {"url-filter": "hushtag.kr"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "div[class='panel panel-default view-head no-attach']"},"trigger": {"url-filter": "hushtag.kr"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "block"},"trigger": {"url-filter": "tpmn.co.kr"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "block"},"trigger": {"url-filter": "limetv.co.kr"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "block"},"trigger": {"url-filter": "taboola.com"}},
+
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "div[id='taboola-below-article-text-links']"},"trigger": {"url-filter": "hushtag.kr"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "div[id='taboola-widget-1']"},"trigger": {"url-filter": "hushtag.kr"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "iframe[style='display: none !important;']"},"trigger": {"url-filter": "hushtag.kr"}},
+
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "iframe[id='1c0dcc86-abb3-4d96-abf2-45b1943106ae']"},"trigger": {"url-filter": "mobile.newsis.com"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "div[style='padding:30px 0 0 12px;']"},"trigger": {"url-filter": "mobile.newsis.com"}},
+
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "div[class='col-md-3']"},"trigger": {"url-filter": "cucudas.com"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "html > body > #thema_wrapper > div > div > div > div > div > center"},"trigger": {"url-filter": "cucudas.com"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "html > body > #thema_wrapper > div > div > div > div > section.board-list.font-14 > center"},"trigger": {"url-filter": "cucudas.com"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "div[class='clearfix']"},"trigger": {"url-filter": "cucudas.com"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "div[class='view-btn text-right']"},"trigger": {"url-filter": "cucudas.com"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "div[class='col-md-3 at-col at-side']"},"trigger": {"url-filter": "cucudas.com"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "div[id='AD_LIVE_AREA_16953877']"},"trigger": {"url-filter": "cucudas.com"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "div[class='h20']"},"trigger": {"url-filter": "cucudas.com"}},
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "html > body > #thema_wrapper > div > div > div > div > div.col-md-9 > div.row > div.col-sm-6 > center"},"trigger": {"url-filter": "cucudas.com"}},
+
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "iframe[src='http://adpingpong2.co.kr/betanews_mby.html']"},"trigger": {"url-filter": "heraldcorp.com"}},
+
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "html > body > div > div > div > iframe"},"trigger": {"url-filter": "heraldcorp.com"}},
+
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "div[id='bo_v_img']"},"trigger": {"url-filter": "minitoon.net"}},
+
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "div[class='g_banner']"},"trigger": {"url-filter": "minitoon.net"}},
+
+{"_comment": "Check!! 2017.01.08 Update","action": {"type": "css-display-none","selector": "div[class='s_banner']"},"trigger": {"url-filter": "minitoon.net"}},
+
 {"_comment": "Check!! 2017.01.06 Update","action": {"type": "css-display-none","selector": "DIV[id='NeoInteractiveScreenViewLayer']"},"trigger": {"url-filter": "minitoon.net"}},
 {"_comment": "Check!! 2017.01.06 Update","action": {"type": "css-display-none","selector": "table[class='bg1']"},"trigger": {"url-filter": "humoruniv.com"}},
 {"_comment": "Check!! 2017.01.06 Update","action": {"type": "css-display-none","selector": "div[style='margin:10 0 10;text-align:center']"},"trigger": {"url-filter": "todayhumor.co.kr"}},
