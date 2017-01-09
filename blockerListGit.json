@@ -5,6 +5,29 @@
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.11st.co.kr"]}},
 
 
+{"_comment": "Check!! 2017.01.09 Update","action": {"type": "css-display-none","selector": "DIV[id='NeoInteractiveScreenViewLayer']"},"trigger": {"url-filter": "g-enews.com"}},
+{"_comment": "Check!! 2017.01.09 Update","action": {"type": "css-display-none","selector": "DIV[id='mobitree']"},"trigger": {"url-filter": "g-enews.com"}},
+{"_comment": "Check!! 2017.01.09 Update","action": {"type": "css-display-none","selector": "DIV[id='waveAd']"},"trigger": {"url-filter": "g-enews.com"}},
+{"_comment": "Check!! 2017.01.09 Update","action": {"type": "css-display-none","selector": "DIV[id='SHOWUP']"},"trigger": {"url-filter": "g-enews.com"}},
+{"_comment": "Check!! 2017.01.09 Update","action": {"type": "css-display-none","selector": "DIV[id='showupP']"},"trigger": {"url-filter": "g-enews.com"}},
+{"_comment": "Check!! 2017.01.09 Update","action": {"type": "css-display-none","selector": "DIV[style='text-align:center;width:100%;']"},"trigger": {"url-filter": "g-enews.com"}},
+{"_comment": "Check!! 2017.01.09 Update","action": {"type": "css-display-none","selector": "DIV[id='div_32977']"},"trigger": {"url-filter": "g-enews.com"}},
+{"_comment": "Check!! 2017.01.09 Update","action": {"type": "css-display-none","selector": "DIV[class='fancybox-wrap fancybox-desktop fancybox-type-inline fancybox-opened']"},"trigger": {"url-filter": "ssul82.com"}},
+{"_comment": "Check!! 2017.01.09 Update","action": {"type": "css-display-none","selector": "DIV[class='fancybox-skin']"},"trigger": {"url-filter": "ssul82.com"}},
+{"_comment": "Check!! 2017.01.09 Update","action": {"type": "css-display-none","selector": "DIV[class='ss_ad_left pc_ver']"},"trigger": {"url-filter": "ssul82.com"}},
+{"_comment": "Check!! 2017.01.09 Update","action": {"type": "css-display-none","selector": "DIV[class='ss_ad_left mb_ver']"},"trigger": {"url-filter": "ssul82.com"}},
+{"_comment": "Check!! 2017.01.09 Update","action": {"type": "css-display-none","selector": "DIV[class='teads-inread']"},"trigger": {"url-filter": "hankyung.com"}},
+
+{"_comment": "Check!! 2017.01.09 Update","action": {"type": "css-display-none","selector": "DIV[id='NeoInteractiveScreenViewLayer']"},"trigger": {"url-filter": "ohfun.net"}},
+{"_comment": "Check!! 2017.01.09 Update","action": {"type": "css-display-none","selector": "DIV[id='mobitree']"},"trigger": {"url-filter": "ohfun.net"}},
+{"_comment": "Check!! 2017.01.09 Update","action": {"type": "css-display-none","selector": "DIV[id='waveAd']"},"trigger": {"url-filter": "ohfun.net"}},
+{"_comment": "Check!! 2017.01.09 Update","action": {"type": "css-display-none","selector": "DIV[id='SHOWUP']"},"trigger": {"url-filter": "ohfun.net"}},
+{"_comment": "Check!! 2017.01.09 Update","action": {"type": "css-display-none","selector": "DIV[id='showupP']"},"trigger": {"url-filter": "ohfun.net"}},
+{"_comment": "Check!! 2017.01.09 Update","action": {"type": "css-display-none","selector": "DIV[style='text-align:center;width:100%;']"},"trigger": {"url-filter": "ohfun.net"}},
+{"_comment": "Check!! 2017.01.09 Update","action": {"type": "css-display-none","selector": "DIV[id='div_32977']"},"trigger": {"url-filter": "ohfun.net"}},
+{"_comment": "Check!! 2017.01.09 Update","action": {"type": "css-display-none","selector": "DIV[class='adw']"},"trigger": {"url-filter": "ohfun.net"}},
+
+
 {"_comment": "2017.01.09 Update","action": {"type": "css-display-none","selector": "div[id='ggAd']"},"trigger": {"url-filter": "chulpost.com"}},
 {"_comment": "2017.01.09 Update","action": {"type": "css-display-none","selector": "div[id='buttomBenner']"},"trigger": {"url-filter": "chulpost.com"}},
 {"_comment": "2017.01.09 Update","action": {"type": "css-display-none","selector": "div[id='caulyNativeAd1']"},"trigger": {"url-filter": "chulpost.com"}},
