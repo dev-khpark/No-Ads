@@ -4,6 +4,23 @@
 
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.11st.co.kr"]}},
 
+{"_comment": "Check!! 2017.01.12 Update","action": {"type": "css-display-none","selector": "a[id='toTop']"},"trigger": {"url-filter": "daissue.kr"}},
+{"_comment": "2016.12.12 Update","action": {"type": "block"},"trigger": {"url-filter": "4.bp.blogspot.com/--3IqT1CeqIo/V9kUAAPsWnI/AAAAAAAADsw/fngsBA3ugeAJrcgEu6U_yvnRVd937eFtACK4B/s400/320x125.gif"}},
+{"_comment": "Check!! 2017.01.12 Update","action": {"type": "css-display-none","selector": "div[class='cover_ad']"},"trigger": {"url-filter": "pickis.co.kr"}},
+{"_comment": "Check!! 2017.01.12 Update","action": {"type": "css-display-none","selector": "div[style='width: 100%; background-color:rgb(255, 255, 255); text-align: center; padding: 8px 0 5px;']"},"trigger": {"url-filter": "pickis.co.kr"}},
+{"_comment": "Check!! 2017.01.12 Update","action": {"type": "css-display-none","selector": "div[id='AD_LIVE_AREA_20583083']"},"trigger": {"url-filter": "pickis.co.kr"}},
+{"_comment": "Check!! 2017.01.12 Update","action": {"type": "css-display-none","selector": "div[style='max-width: 400px; width: 100%; position: relative; display: inline-block;']"},"trigger": {"url-filter": "pickis.co.kr"}},
+{"_comment": "Check!! 2017.01.12 Update","action": {"type": "css-display-none","selector": "div[style='text-align: center; position: relative;']"},"trigger": {"url-filter": "pickis.co.kr"}},
+{"_comment": "Check!! 2017.01.12 Update","action": {"type": "css-display-none","selector": "div[class='adnwMRectRoot fbANRoot fbVideoType']"},"trigger": {"url-filter": "pickis.co.kr"}},
+{"_comment": "Check!! 2017.01.12 Update","action": {"type": "css-display-none","selector": "div[class='fbAdChoices']"},"trigger": {"url-filter": "pickis.co.kr"}},
+{"_comment": "Check!! 2017.01.12 Update","action": {"type": "css-display-none","selector": "div[style='display: block; position: relative;']"},"trigger": {"url-filter": "pickis.co.kr"}},
+{"_comment": "Check!! 2017.01.12 Update","action": {"type": "css-display-none","selector": "div[class='aud_sub']"},"trigger": {"url-filter": "pickis.co.kr"}},
+{"_comment": "Check!! 2017.01.12 Update","action": {"type": "css-display-none","selector": "div[id='banner-container']"},"trigger": {"url-filter": "pickis.co.kr"}},
+{"_comment": "Check!! 2017.01.12 Update","action": {"type": "css-display-none","selector": "div[style='display: block; position: relative; width: 100%; height: 240px;']"},"trigger": {"url-filter": "pickis.co.kr"}},
+{"_comment": "Check!! 2017.01.12 Update","action": {"type": "css-display-none","selector": "div[class='thirdPartyRoot fbDisplayType']"},"trigger": {"url-filter": "pickis.co.kr"}},
+
+{"_comment": "Check!! 2017.01.12 Update","action": {"type": "css-display-none","selector": "ins[class='adsbygoogle']"},"trigger": {"url-filter": "issuein.com"}},
+
 
 {"_comment": "Check!! 2017.01.09 Update","action": {"type": "css-display-none","selector": "DIV[id='NeoInteractiveScreenViewLayer']"},"trigger": {"url-filter": "g-enews.com"}},
 {"_comment": "Check!! 2017.01.09 Update","action": {"type": "css-display-none","selector": "DIV[id='mobitree']"},"trigger": {"url-filter": "g-enews.com"}},
