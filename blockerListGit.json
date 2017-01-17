@@ -4,7 +4,6 @@
 
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.11st.co.kr"]}},
 
-{"_comment": "2016.01.15 Update","action": {"type": "block"},"trigger": {"url-filter": "damovie.dn.naver.com"}},
 
 {"_comment": "Check!! 2017.01.12 Update","action": {"type": "css-display-none","selector": "a[id='toTop']"},"trigger": {"url-filter": "daissue.kr"}},
 {"_comment": "2016.12.12 Update","action": {"type": "block"},"trigger": {"url-filter": "4.bp.blogspot.com/--3IqT1CeqIo/V9kUAAPsWnI/AAAAAAAADsw/fngsBA3ugeAJrcgEu6U_yvnRVd937eFtACK4B/s400/320x125.gif"}},
