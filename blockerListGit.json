@@ -4,6 +4,23 @@
 
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.11st.co.kr"]}},
 
+{"_comment": "Check!! 2017.01.17 Update","action": {"type": "css-display-none","selector": "div[id='SHOWUP']"},"trigger": {"url-filter": "enewstoday.co.kr"}},
+{"_comment": "Check!! 2017.01.17 Update","action": {"type": "css-display-none","selector": "div[id='waveAd']"},"trigger": {"url-filter": "enewstoday.co.kr"}},
+
+
+{"_comment": "Check!! 2017.01.17 Update","action": {"type": "css-display-none", "selector": "A[href*='adv-ssvv.com'], HTML > BODY > center"},"trigger": {"url-filter": "torrentkim5.net"}},
+{"_comment": "2017.01.17 Update","action": {"type": "block"},"trigger": {"url-filter": "torrentkim5.net/banner/toto.jpg"}},
+
+{"_comment": "Check!! 2017.01.17 Update","action": {"type": "css-display-none","selector": "div[class='adalign']"},"trigger": {"url-filter": "xportsnews.com"}},
+{"_comment": "Check!! 2017.01.17 Update","action": {"type": "css-display-none","selector": "ins[class='adsByIdn33288']"},"trigger": {"url-filter": "xportsnews.com"}},
+{"_comment": "Check!! 2017.01.17 Update","action": {"type": "css-display-none","selector": "div[id='now-sence']"},"trigger": {"url-filter": "xportsnews.com"}},
+{"_comment": "Check!! 2017.01.17 Update","action": {"type": "css-display-none","selector": "div[id='in_10lines']"},"trigger": {"url-filter": "xportsnews.com"}},
+{"_comment": "Check!! 2017.01.17 Update","action": {"type": "css-display-none","selector": "div[id='under10line']"},"trigger": {"url-filter": "xportsnews.com"}},
+{"_comment": "Check!! 2017.01.17 Update","action": {"type": "css-display-none","selector": "div[id='div-gpt-ad-1447036943393-0']"},"trigger": {"url-filter": "xportsnews.com"}},
+
+{"_comment": "2017.01.17 Update","action": {"type": "block"},"trigger": {"url-filter": "tvetamovie.dn.naver.net/ad*mp4"}},
+
+
 {"_comment": "Check!! 2017.01.12 Update","action": {"type": "css-display-none","selector": "a[id='toTop']"},"trigger": {"url-filter": "daissue.kr"}},
 {"_comment": "2016.12.12 Update","action": {"type": "block"},"trigger": {"url-filter": "4.bp.blogspot.com/--3IqT1CeqIo/V9kUAAPsWnI/AAAAAAAADsw/fngsBA3ugeAJrcgEu6U_yvnRVd937eFtACK4B/s400/320x125.gif"}},
 {"_comment": "Check!! 2017.01.12 Update","action": {"type": "css-display-none","selector": "div[class='cover_ad']"},"trigger": {"url-filter": "pickis.co.kr"}},
