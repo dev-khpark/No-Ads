@@ -4,6 +4,21 @@
 
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.11st.co.kr"]}},
 
+
+{"_comment": "Check!! 2017.01.20 Update","action": {"type": "css-display-none","selector": "html > body > center"},"trigger": {"url-filter": "zangsisi.net"}},
+{"_comment": "Check!! 2017.01.20 Update","action": {"type": "css-display-none","selector": "div[class='navbar-fixed-bottom']"},"trigger": {"url-filter": "storyschool.kr"}},
+{"_comment": "Check!! 2017.01.20 Update","action": {"type": "css-display-none","selector": "div[id='bottomrollbanner']"},"trigger": {"url-filter": "storyschool.kr"}},
+{"_comment": "Check!! 2017.01.20 Update","action": {"type": "css-display-none","selector": "div[id='geniee_overlay']"},"trigger": {"url-filter": "storyschool.kr"}},
+{"_comment": "Check!! 2017.01.20 Update","action": {"type": "css-display-none","selector": "div[class='col-md-6 integ']"},"trigger": {"url-filter": "storyschool.kr"}},
+{"_comment": "Check!! 2017.01.20 Update","action": {"type": "css-display-none","selector": "li[style='text-align:center; padding:8px 0 8px 0']"},"trigger": {"url-filter": "storyschool.kr"}},
+{"_comment": "Check!! 2017.01.20 Update","action": {"type": "css-display-none","selector": "html > body > div > #lazyload > article > div.panel.panel-default > div.panel-body"},"trigger": {"url-filter": "storyschool.kr"}},
+{"_comment": "Check!! 2017.01.20 Update","action": {"type": "css-display-none","selector": "div[style='text-align:right; padding:3px 7px 3px 0']"},"trigger": {"url-filter": "storyschool.kr"}},
+{"_comment": "Check!! 2017.01.20 Update","action": {"type": "css-display-none","selector": "p[style='padding-left:5px']"},"trigger": {"url-filter": "storyschool.kr"}},
+
+{"_comment": "Check!! 2017.01.20 Update","action": {"type": "css-display-none","selector": "div[id='mz_wrap']"},"trigger": {"url-filter": "pickers.co.kr"}},
+
+{"_comment": "Check!! 2017.01.20 Update","action": {"type": "css-display-none","selector": "div[class='cover_ad']"},"trigger": {"url-filter": "unnya.com"}},
+
 {"_comment": "Check!! 2017.01.17 Update","action": {"type": "css-display-none","selector": "div[id='SHOWUP']"},"trigger": {"url-filter": "enewstoday.co.kr"}},
 {"_comment": "Check!! 2017.01.17 Update","action": {"type": "css-display-none","selector": "div[id='waveAd']"},"trigger": {"url-filter": "enewstoday.co.kr"}},
 
