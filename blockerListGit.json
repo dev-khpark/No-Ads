@@ -5,6 +5,33 @@
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.11st.co.kr"]}},
 
 
+
+{"_comment": "Check!! 2017.01.22 Update","action": {"type": "css-display-none","selector": "div[style='text-align:center; margin-top:10px;height:60px;']"},"trigger": {"url-filter": "nocutnews.co.kr"}},
+{"_comment": "Check!! 2017.01.22 Update","action": {"type": "css-display-none","selector": "div[style='width:200px; height:200px;float:right; padding:5px 0 0 5px;']"},"trigger": {"url-filter": "nocutnews.co.kr"}},
+{"_comment": "Check!! 2017.01.22 Update","action": {"type": "css-display-none","selector": "div[style='width:90%; padding-left:10px;']"},"trigger": {"url-filter": "nocutnews.co.kr"}},
+{"_comment": "Check!! 2017.01.22 Update","action": {"type": "css-display-none","selector": "iframe[src='http://plugin.2beon.co.kr/iframe/B6LLLLLF.html?rnd=1419560118']"},"trigger": {"url-filter": "nocutnews.co.kr"}},
+{"_comment": "Check!! 2017.01.22 Update","action": {"type": "css-display-none","selector": "iframe[id='ifrmJFLLLLLF']"},"trigger": {"url-filter": "nocutnews.co.kr"}},
+
+{"_comment": "Check!! 2017.01.22 Update","action": {"type": "css-display-none","selector": "div[style='float:right; margin-left:10px; margin-top:7px;']"},"trigger": {"url-filter": "pressian.com"}},
+
+{"_comment": "Check!! 2017.01.22 Update","action": {"type": "css-display-none","selector": "div[id='view_body_middle_iframe1']"},"trigger": {"url-filter": "donga.com"}},
+
+{"_comment": "Check!! 2017.01.22 Update","action": {"type": "css-display-none","selector": "div[style='background:#fff; padding-top:5px; border-bottom:1px solid #dddddd;']"},"trigger": {"url-filter": "mydaily.co.kr"}},
+{"_comment": "Check!! 2017.01.22 Update","action": {"type": "css-display-none","selector": "div[style='margin-top:10px; margin-bottom:-20px; text-align:center;']"},"trigger": {"url-filter": "mydaily.co.kr"}},
+{"_comment": "Check!! 2017.01.22 Update","action": {"type": "css-display-none","selector": "div[style='float:right; width:202px; height:202px; margin:0 !important; padding:0 !important; background:#fff; border:1px solid #ccc;']"},"trigger": {"url-filter": "mydaily.co.kr"}},
+{"_comment": "Check!! 2017.01.22 Update","action": {"type": "css-display-none","selector": "iframe[src='http://adexpert.ad4989.co.kr/cgi-bin/PelicanC.dll?impr?pageid=01fE&out=iframe']"},"trigger": {"url-filter": "mydaily.co.kr"}},
+{"_comment": "Check!! 2017.01.22 Update","action": {"type": "css-display-none","selector": "iframe[src='http://adexpert.ad4989.co.kr/cgi-bin/PelicanC.dll?impr?pageid=01Sv&out=iframe']"},"trigger": {"url-filter": "mydaily.co.kr"}},
+{"_comment": "Check!! 2017.01.22 Update","action": {"type": "css-display-none","selector": "iframe[src='http://adexpert.ad4989.co.kr/cgi-bin/PelicanC.dll?impr?pageid=01wU&out=iframe']"},"trigger": {"url-filter": "mydaily.co.kr"}},
+{"_comment": "Check!! 2017.01.22 Update","action": {"type": "css-display-none","selector": "iframe[src='http://adex.ednplus.com/xc/h/Fz53rwQW']"},"trigger": {"url-filter": "mydaily.co.kr"}},
+{"_comment": "Check!! 2017.01.22 Update","action": {"type": "css-display-none","selector": "div[style='background:#fff; padding-top:10px; border-bottom:1px solid #dddddd; border-top:1px solid #dddddd; margin:10px 0']"},"trigger": {"url-filter": "mydaily.co.kr"}},
+
+{"_comment": "Check!! 2017.01.22 Update","action": {"type": "css-display-none","selector": "div[style='width:100%; height:60px; text-align:center;']"},"trigger": {"url-filter": "heraldcorp.com"}},
+{"_comment": "Check!! 2017.01.22 Update","action": {"type": "css-display-none","selector": "div[class='ad_2']"},"trigger": {"url-filter": "heraldcorp.com"}},
+{"_comment": "Check!! 2017.01.22 Update","action": {"type": "css-display-none","selector": "div[id='ad20160801_2']"},"trigger": {"url-filter": "heraldcorp.com"}},
+{"_comment": "Check!! 2017.01.22 Update","action": {"type": "css-display-none","selector": "div[class='photoAd150727']"},"trigger": {"url-filter": "heraldcorp.com"}},
+{"_comment": "Check!! 2017.01.22 Update","action": {"type": "css-display-none","selector": "div[class='story']"},"trigger": {"url-filter": "heraldcorp.com"}},
+{"_comment": "Check!! 2017.01.22 Update","action": {"type": "css-display-none","selector": "div[style='border-bottom:1px solid #f2f2f2;margin-top:10px']"},"trigger": {"url-filter": "heraldcorp.com"}},
+
 {"_comment": "Check!! 2017.01.20 Update","action": {"type": "css-display-none","selector": "html > body > center"},"trigger": {"url-filter": "zangsisi.net"}},
 {"_comment": "Check!! 2017.01.20 Update","action": {"type": "css-display-none","selector": "div[class='navbar-fixed-bottom']"},"trigger": {"url-filter": "storyschool.kr"}},
 {"_comment": "Check!! 2017.01.20 Update","action": {"type": "css-display-none","selector": "div[id='bottomrollbanner']"},"trigger": {"url-filter": "storyschool.kr"}},
