@@ -20,6 +20,63 @@
 {"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[class*='ad-mobile']"},"trigger": {"url-filter": "vop.co.kr"}},
 {"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[id='skyBanner_view']"},"trigger": {"url-filter": "vop.co.kr"}},
 
+
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "iframe[id='a5fb4977']"},"trigger": {"url-filter": "ceoscoredaily.com"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[class='main_curtain']"},"trigger": {"url-filter": "joins.com"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "ins[class='adsbygoogle']"},"trigger": {"url-filter": "joins.com"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[id='dablewidget_BoxrkYl8']"},"trigger": {"url-filter": "joins.com"}},
+
+
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[id='SHOWUP']"},"trigger": {"url-filter": "ilyo.co.kr"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[id='NeoInteractiveScreenViewLayer']"},"trigger": {"url-filter": "ilyo.co.kr"}},
+
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[id='mcn_contest_banner']"},"trigger": {"url-filter": "newspim.com"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "iframe[name='mobon8mb']"},"trigger": {"url-filter": "newspim.com"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[id='cardnews']"},"trigger": {"url-filter": "newspim.com"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "ins[class='adsByIdn31672']"},"trigger": {"url-filter": "newspim.com"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "iframe[src*='adinc.kr']"},"trigger": {"url-filter": "newspim.com"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "ins[class*='adsByIdn']"},"trigger": {"url-filter": "newspim.com"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "iframe[src*='dreamsearch.or.kr']"},"trigger": {"url-filter": "newspim.com"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "img[src*='newscloud.or.kr']"},"trigger": {"url-filter": "newspim.com"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "iframe[id='a8b8a275']"},"trigger": {"url-filter": "newspim.com"}},
+
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "iframe[id='ac5e179f']"},"trigger": {"url-filter": "kukinews.com"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "iframe[src*='newscloud.or.kr']"},"trigger": {"url-filter": "kukinews.com"}},
+
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "iframe[src*='ad2.mediatoday.co.kr']"},"trigger": {"url-filter": "mediatoday.co.kr"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[style='float:right;margin:0 0 10px 10px;width:200px;']"},"trigger": {"url-filter": "mediatoday.co.kr"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "iframe[src*='interworksmedia.co.kr']"},"trigger": {"url-filter": "mediatoday.co.kr"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "iframe[src*='idnad.co.kr']"},"trigger": {"url-filter": "mediatoday.co.kr"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "iframe[src*='ad4989.co.kr']"},"trigger": {"url-filter": "mediatoday.co.kr"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "iframe[src*='ednplus.com']"},"trigger": {"url-filter": "mediatoday.co.kr"}},
+
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[id='waveAd']"},"trigger": {"url-filter": "kmib.co.kr"}},
+
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[id*='adinc']"},"trigger": {"url-filter": "ebn.co.kr"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[class='box3']"},"trigger": {"url-filter": "ebn.co.kr"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "iframe[src*='adinc.kr']"},"trigger": {"url-filter": "ebn.co.kr"}},
+
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "iframe[src*='adinc.kr']"},"trigger": {"url-filter": "etoday.co.kr"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[id='view_bottom_ad']"},"trigger": {"url-filter": "etoday.co.kr"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[style='float:right;width:200px;height:200px;margin:5px 0 5px 15px']"},"trigger": {"url-filter": "etoday.co.kr"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[class='ad_text_dot']"},"trigger": {"url-filter": "etoday.co.kr"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[style='height:100px;margin-top:0;padding: 10px 0 10px 0']"},"trigger": {"url-filter": "etoday.co.kr"}},
+
+
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[class='contBn']"},"trigger": {"url-filter": "khan.co.kr"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[class='social_btm']"},"trigger": {"url-filter": "khan.co.kr"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[class='contBn art_btm']"},"trigger": {"url-filter": "khan.co.kr"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "iframe[src*='imp.mklaud.com/ad']"},"trigger": {"url-filter": "khan.co.kr"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[class='link_cartoon']"},"trigger": {"url-filter": "khan.co.kr"}},
+
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[id='pnlTopAd']"},"trigger": {"url-filter": "nocutnews.co.kr"}},
+
+
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "iframe[src*='ednplus.com']"},"trigger": {"url-filter": "segye.com"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[id='naonbot']"},"trigger": {"url-filter": "segye.com"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[id*='datasetNAONMP']"},"trigger": {"url-filter": "segye.com"}},
+
+
 {"_comment": "Check!! 2017.01.22 Update","action": {"type": "css-display-none","selector": "div[style='text-align:center; margin-top:10px;height:60px;']"},"trigger": {"url-filter": "nocutnews.co.kr"}},
 {"_comment": "Check!! 2017.01.22 Update","action": {"type": "css-display-none","selector": "div[style='width:200px; height:200px;float:right; padding:5px 0 0 5px;']"},"trigger": {"url-filter": "nocutnews.co.kr"}},
 {"_comment": "Check!! 2017.01.22 Update","action": {"type": "css-display-none","selector": "div[style='width:90%; padding-left:10px;']"},"trigger": {"url-filter": "nocutnews.co.kr"}},
