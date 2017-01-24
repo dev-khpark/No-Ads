@@ -4,7 +4,21 @@
 
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.11st.co.kr"]}},
 
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "td[class='view_r_caption']"},"trigger": {"url-filter": "siminilbo.co.kr"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "section[class='advertisment']"},"trigger": {"url-filter": "siminilbo.co.kr"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "iframe[id='parent_iframe']"},"trigger": {"url-filter": "siminilbo.co.kr"}},
 
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[id='frontAdLayer']"},"trigger": {"url-filter": "pickers.co.kr"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "iframe[src*='ad49']"},"trigger": {"url-filter": "pickers.co.kr"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "iframe[id='ifrm8JLLLLLF']"},"trigger": {"url-filter": "pickers.co.kr"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[class='bottomShopBanner']"},"trigger": {"url-filter": "pickers.co.kr"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[class='banner_box']"},"trigger": {"url-filter": "pickers.co.kr"}},
+
+
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[id='wp_adbn_root']"},"trigger": {"url-filter": "vop.co.kr"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[class='ad-mobile3']"},"trigger": {"url-filter": "vop.co.kr"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[class*='ad-mobile']"},"trigger": {"url-filter": "vop.co.kr"}},
+{"_comment": "Check!! 2017.01.24 Update","action": {"type": "css-display-none","selector": "div[id='skyBanner_view']"},"trigger": {"url-filter": "vop.co.kr"}},
 
 {"_comment": "Check!! 2017.01.22 Update","action": {"type": "css-display-none","selector": "div[style='text-align:center; margin-top:10px;height:60px;']"},"trigger": {"url-filter": "nocutnews.co.kr"}},
 {"_comment": "Check!! 2017.01.22 Update","action": {"type": "css-display-none","selector": "div[style='width:200px; height:200px;float:right; padding:5px 0 0 5px;']"},"trigger": {"url-filter": "nocutnews.co.kr"}},
