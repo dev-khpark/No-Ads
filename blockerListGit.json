@@ -4,6 +4,15 @@
 
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.11st.co.kr"]}},
 
+{"_comment": "Check!! 2017.02.03 Update","action": {"type": "css-display-none","selector": "div[id='divpop']"},"trigger": {"url-filter": "darkmarin.com"}},
+
+{"_comment": "Check!! 2017.02.03 Update","action": {"type": "css-display-none","selector": "div[class='fixedAd']"},"trigger": {"url-filter": "newsnjoy.or.kr"}},
+{"_comment": "Check!! 2017.02.03 Update","action": {"type": "css-display-none","selector": "div[id*='default_main_ad']"},"trigger": {"url-filter": "newsnjoy.or.kr"}},
+
+{"_comment": "Check!! 2017.02.03 Update","action": {"type": "css-display-none","selector": "table[id='sticky-footer']"},"trigger": {"url-filter": "corearoadbike.com"}},
+
+{"_comment": "Check!! 2017.02.03 Update","action": {"type": "css-display-none","selector": "div[class*='mtop_adfit mtop_adfit_channel_news']"},"trigger": {"url-filter": "daum.net"}},
+
 
 {"_comment": "Check!! 2017.02.02 Update","action": {"type": "css-display-none","selector": "ins[class='adsbygoogle']"},"trigger": {"url-filter": ".*"}},
 {"_comment": "Check!! 2017.02.02 Update","action": {"type": "css-display-none","selector": "iframe[src*='adpies.com']"},"trigger": {"url-filter": ".*"}},
