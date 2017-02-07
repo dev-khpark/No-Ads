@@ -4,6 +4,10 @@
 
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.11st.co.kr"]}},
 
+{"_comment": "Check!! 2017.02.07 Update","action": {"type": "css-display-none","selector": "#g4m_content > div > div"},"trigger": {"url-filter": "bhu.co.kr"}},
+{"_comment": "Check!! 2017.02.07 Update","action": {"type": "css-display-none","selector": "#g4m_content > article > div > div[align='center']"},"trigger": {"url-filter": "bhu.co.kr"}},
+
+
 {"_comment": "Check!! 2017.02.03 Update","action": {"type": "css-display-none","selector": "div[id='divpop']"},"trigger": {"url-filter": "darkmarin.com"}},
 
 {"_comment": "Check!! 2017.02.03 Update","action": {"type": "css-display-none","selector": "div[class='fixedAd']"},"trigger": {"url-filter": "newsnjoy.or.kr"}},
