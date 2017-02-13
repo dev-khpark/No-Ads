@@ -4,6 +4,11 @@
 
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.11st.co.kr"]}},
 
+{"_comment": "Check!! 2017.02.13 Update","action": {"type": "css-display-none","selector": "iframe[src*='adpingpong2.co.kr']"},"trigger": {"url-filter": ".*"}},
+{"_comment": "Check!! 2017.02.13 Update","action": {"type": "css-display-none","selector": "iframe[src*='lsinfo.co.kr']"},"trigger": {"url-filter": ".*"}},
+{"_comment": "Check!! 2017.02.13 Update","action": {"type": "css-display-none","selector": "div[id='NeoInteractiveScreenViewLayer']"},"trigger": {"url-filter": "honam.co.kr"}},
+
+
 {"_comment": "Check!! 2017.02.09 Update","action": {"type": "block"},"trigger": {"url-filter": "onenable.net/toy_b_*"}},
 
 
