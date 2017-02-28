@@ -4,6 +4,18 @@
 
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.11st.co.kr"]}},
 
+{"_comment": "Check!! 2017.03.01 Update","action": {"type": "css-display-none","selector": "div[class='wtrack']"},"trigger": {"url-filter": "mlbpark.donga.com"}},
+
+{"_comment": "Check!! 2017.03.01 Update","action": {"type": "css-display-none","selector": "div[class='power-link']"},"trigger": {"url-filter": "ppomppu.co.kr"}},
+
+{"_comment": "Check!! 2017.03.01 Update","action": {"type": "css-display-none","selector": "div[id*='banner']"},"trigger": {"url-filter": "pyacast.net"}},
+{"_comment": "Check!! 2017.03.01 Update","action": {"type": "css-display-none","selector": "div[class='above-list-widget-section']"},"trigger": {"url-filter": "pyacast.net"}},
+{"_comment": "Check!! 2017.03.01 Update","action": {"type": "css-display-none","selector": "div[class='floating_b_pop_row']"},"trigger": {"url-filter": "pyacast.net"}},
+{"_comment": "Check!! 2017.03.01 Update","action": {"type": "css-display-none","selector": "div[class='below-list-widget-section list-action-section']"},"trigger": {"url-filter": "pyacast.net"}},
+
+{"_comment": "Check!! 2017.03.01 Update","action": {"type": "css-display-none","selector": "iframe[src*='tjtune.com']"},"trigger": {"url-filter": ".*"}},
+
+
 {"_comment": "Check!! 2017.02.28 Update","action": {"type": "css-display-none","selector": "div[class='ad250']"},"trigger": {"url-filter": "wikitree.co.kr"}},
 {"_comment": "Check!! 2017.02.28 Update","action": {"type": "css-display-none","selector": "div[class*='adslot_']"},"trigger": {"url-filter": "eposting.co.kr"}},
 {"_comment": "Check!! 2017.02.28 Update","action": {"type": "css-display-none","selector": "div[id='mo_banner_slide']"},"trigger": {"url-filter": "eposting.co.kr"}},
