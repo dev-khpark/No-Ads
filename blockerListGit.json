@@ -4,6 +4,21 @@
 
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.11st.co.kr"]}},
 
+
+{"_comment": "Check!! 2017.03.07 Update","action": {"type": "css-display-none","selector": "div[id='scroller']"},"trigger": {"url-filter": "berlinreport.com"}},
+{"_comment": "Check!! 2017.03.07 Update","action": {"type": "css-display-none","selector": "div[style='margin-top:10px;width:98%']"},"trigger": {"url-filter": "berlinreport.com"}},
+
+{"_comment": "Check!! 2017.03.07 Update","action": {"type": "css-display-none","selector": "img[src*='aniclass.com/toy_']"},"trigger": {"url-filter": "pigbook2.com"}},
+{"_comment": "Check!! 2017.03.07 Update","action": {"type": "css-display-none","selector": "div[id='NeoInteractiveScreenViewLayer']"},"trigger": {"url-filter": "pigbook2.com"}},
+
+{"_comment": "Check!! 2017.03.07 Update","action": {"type": "css-display-none","selector": "img[src*='i.imgur.com']"},"trigger": {"url-filter": "freetoon.net"}},
+
+{"_comment": "Check!! 2017.03.07 Update","action": {"type": "css-display-none","selector": "div[class='widget-box widget-img2']"},"trigger": {"url-filter": "freestory01.com"}},
+{"_comment": "Check!! 2017.03.07 Update","action": {"type": "css-display-none","selector": "div[class='widget-box']"},"trigger": {"url-filter": "freestory01.com"}},
+{"_comment": "Check!! 2017.03.07 Update","action": {"type": "css-display-none","selector": "span[style='position:static;']"},"trigger": {"url-filter": "freestory01.com"}},
+{"_comment": "Check!! 2017.03.07 Update","action": {"type": "css-display-none","selector": "p[style='padding-top:3px;']"},"trigger": {"url-filter": "freestory01.com"}},
+
+
 {"_comment": "Check!! 2017.03.01 Update","action": {"type": "css-display-none","selector": "div[class='wtrack']"},"trigger": {"url-filter": "mlbpark.donga.com"}},
 
 {"_comment": "Check!! 2017.03.01 Update","action": {"type": "css-display-none","selector": "div[class='power-link']"},"trigger": {"url-filter": "ppomppu.co.kr"}},
