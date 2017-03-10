@@ -4,6 +4,35 @@
 
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.11st.co.kr"]}},
 
+{"_comment": "Check!! 2017.03.10 Update","action": {"type": "css-display-none","selector": "div[id='madlayer_top']"},"trigger": {"url-filter": "ilbe.com"}},
+{"_comment": "Check!! 2017.03.10 Update","action": {"type": "css-display-none","selector": "iframe[id*='ox_']"},"trigger": {"url-filter": "ilbe.com"}},
+{"_comment": "Check!! 2017.03.10 Update","action": {"type": "css-display-none","selector": "div[id='openXdummy']"},"trigger": {"url-filter": "ilbe.com"}},
+{"_comment": "Check!! 2017.03.10 Update","action": {"type": "block"},"trigger": {"url-filter": "ad.ilbe.com"}},
+{"_comment": "Check!! 2017.03.10 Update","action": {"type": "css-display-none","selector": "div[id='shoppingbox']"},"trigger": {"url-filter": "ilbe.com"}},
+
+{"_comment": "Check!! 2017.03.10 Update","action": {"type": "css-display-none","selector": "div[style='text-align:center;height:50px;']"},"trigger": {"url-filter": "inven.co.kr"}},
+{"_comment": "Check!! 2017.03.10 Update","action": {"type": "css-display-none","selector": "div[data-ad_id*='ad_']"},"trigger": {"url-filter": "inven.co.kr"}},
+
+{"_comment": "Check!! 2017.03.10 Update","action": {"type": "css-display-none","selector": "ins[id='aswift_0_expand']"},"trigger": {"url-filter": "gasengi.com"}},
+{"_comment": "Check!! 2017.03.10 Update","action": {"type": "css-display-none","selector": "footer[style='display: block; margin: 10px auto; text-align: center']"},"trigger": {"url-filter": "gasengi.com"}},
+
+{"_comment": "Check!! 2017.03.10 Update","action": {"type": "css-display-none","selector": "img[src*='aniclass.com/toy_b_']"},"trigger": {"url-filter": "pigbooks.net"}},
+{"_comment": "Check!! 2017.03.10 Update","action": {"type": "css-display-none","selector": "img[src*='anipong.com/banner']"},"trigger": {"url-filter": "pigbooks.net"}},
+{"_comment": "Check!! 2017.03.10 Update","action": {"type": "css-display-none","selector": "img[src*='event.limetv.co.kr']"},"trigger": {"url-filter": "pigbooks.net"}},
+
+{"_comment": "Check!! 2017.03.10 Update","action": {"type": "css-display-none","selector": "div[class='black_ad_back']"},"trigger": {"url-filter": "dogpan.kr"}},
+{"_comment": "Check!! 2017.03.10 Update","action": {"type": "css-display-none","selector": "div[class='add_area']"},"trigger": {"url-filter": "dogpan.kr"}},
+{"_comment": "Check!! 2017.03.10 Update","action": {"type": "css-display-none","selector": "div[class='center_ads float_center_bottom']"},"trigger": {"url-filter": "dogpan.kr"}},
+{"_comment": "Check!! 2017.03.10 Update","action": {"type": "css-display-none","selector": "div[class='float_right_ad']"},"trigger": {"url-filter": "dogpan.kr"}},
+{"_comment": "Check!! 2017.03.10 Update","action": {"type": "css-display-none","selector": "div[id='banner']"},"trigger": {"url-filter": "dogpan.kr"}},
+{"_comment": "Check!! 2017.03.10 Update","action": {"type": "css-display-none","selector": "div[class='center_ads']"},"trigger": {"url-filter": "dogpan.kr"}},
+{"_comment": "Check!! 2017.03.10 Update","action": {"type": "css-display-none","selector": "div[class='today_hot']"},"trigger": {"url-filter": "dogpan.kr"}},
+{"_comment": "Check!! 2017.03.10 Update","action": {"type": "css-display-none","selector": "div[class='center_ads']"},"trigger": {"url-filter": "dogpan.kr"}},
+{"_comment": "Check!! 2017.03.10 Update","action": {"type": "css-display-none","selector": "div[class='ad_big_img']"},"trigger": {"url-filter": "dogpan.kr"}},
+{"_comment": "Check!! 2017.03.10 Update","action": {"type": "css-display-none","selector": "div[id*='realssp_']"},"trigger": {"url-filter": "dogpan.kr"}},
+
+{"_comment": "Check!! 2017.03.09 Update","action": {"type": "css-display-none","selector": "div[id='wineareaPlanty']"},"trigger": {"url-filter": ".*"}},
+{"_comment": "Check!! 2017.03.09 Update","action": {"type": "block"},"trigger": {"url-filter": "wineplatform.co.kr"}},
 
 {"_comment": "Check!! 2017.03.07 Update","action": {"type": "css-display-none","selector": "div[id='scroller']"},"trigger": {"url-filter": "berlinreport.com"}},
 {"_comment": "Check!! 2017.03.07 Update","action": {"type": "css-display-none","selector": "div[style='margin-top:10px;width:98%']"},"trigger": {"url-filter": "berlinreport.com"}},
