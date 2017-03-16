@@ -3,6 +3,9 @@
   {"action": {"type": "css-display-none","selector": "#module module_plugin"},"trigger": {"url-filter": "macguyver12.kr"}},
 
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.11st.co.kr"]}},
+  
+{"_comment": "Check!! 2017.03.16 Update","action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.sports.naver.com"]}},
+{"_comment": "Check!! 2017.03.16 Update","action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.tv.naver.com"]}},
 
 {"_comment": "Check!! 2017.03.15 Update","action": {"type": "css-display-none","selector": "img[src*='aniclass.com/toy_b_']"},"trigger": {"url-filter": "pigbook2.com"}},
 {"_comment": "Check!! 2017.03.15 Update","action": {"type": "css-display-none","selector": "img[src*='anipong.com/banner']"},"trigger": {"url-filter": "pigbook2.com"}},
