@@ -1,5 +1,5 @@
  [
-{"action": {"type": "Start"},"trigger": {"url-filter": "tistory24.com"}},
+{"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
  {"_comment": "Check!! 2017.03.17 Update","action": {"type": "css-display-none","selector": "div[style='margin-top:1px;margin-bottom:1px;text-align:center;height:100px;']"},"trigger": {"url-filter": "dcinside.com"}},
  
@@ -10,5 +10,5 @@
 {"_comment": "Check!! 2017.03.15 Update","action": {"type": "css-display-none","selector": "img[src*='anipong.com/banner']"},"trigger": {"url-filter": "pigbook2.com"}},
 {"_comment": "Check!! 2017.03.15 Update","action": {"type": "css-display-none","selector": "img[src*='event.limetv.co.kr']"},"trigger": {"url-filter": "pigbook2.com"}},
 
-{"action": {"type": "End"},"trigger": {"url-filter": "tistory24.com"}}
+{"_comment": "End","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}}
   ]
