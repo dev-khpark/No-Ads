@@ -1,6 +1,7 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "Check!! 2017.03.23 Update","action": {"type": "block"},"trigger": {"url-filter": "anipong.com/banner*"}},
 {"_comment": "Check!! 2017.03.23 Update","action": {"type": "css-display-none","selector": "div[style='padding:10px 0 5px 0; margin:0 auto; width:300px; height:100px;']"},"trigger": {"url-filter": "m.busan.com"}},
 {"_comment": "Check!! 2017.03.23 Update","action": {"type": "css-display-none","selector": "div[style='width:96%; margin:2% 2% 1% 2%;']"},"trigger": {"url-filter": "m.busan.com"}},
 
