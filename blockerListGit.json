@@ -1,7 +1,12 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
-  
+{"_comment": "Check!! 2017.03.25 Update","action": {"type": "css-display-none","selector": "div[id='onloadAd']"},"trigger": {"url-filter": "aniclass.com"}},
+{"_comment": "Check!! 2017.03.25 Update","action": {"type": "css-display-none","selector": "div[id='skyBanner_view']"},"trigger": {"url-filter": "aniclass.com"}},
+{"_comment": "Check!! 2017.03.25 Update","action": {"type": "css-display-none","selector": "div[id='wp_adbn_root']"},"trigger": {"url-filter": "aniclass.com"}},
+{"_comment": "Check!! 2017.03.25 Update","action": {"type": "block"},"trigger": {"url-filter": "aniclass.com/toy_b*"}},
+
+
 {"_comment": "Check!! 2017.03.24 Update","action": {"type": "css-display-none","selector": "div[style='cursor: pointer; position: fixed; bottom: 0px; left: 50%; margin-left: -160px;']"},"trigger": {"url-filter": "ddanzi.com"}},
 
 {"_comment": "Check!! 2017.03.23 Update","action": {"type": "block"},"trigger": {"url-filter": "anipong.com/banner*"}},
