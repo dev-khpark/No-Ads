@@ -3,6 +3,9 @@
 
  {"_comment": "Check!! 2017.03.28 Update","action": {"type": "css-display-none","selector": "div[style='width:92%; height:84px; margin:0 auto; background-color:#eaf3e8;  padding:16px 12px 16px 12px;']"},"trigger": {"url-filter": "m.clien.net"}},
   {"_comment": "Check!! 2017.03.28 Update","action": {"type": "css-display-none","selector": "div[style='clear:both;width:90%; margin:0 auto;']"},"trigger": {"url-filter": "m.clien.net"}},
+  {"_comment": "Check!! 2017.03.28 Update","action": {"type": "css-display-none","selector": "ul[style='float:left;']"},"trigger": {"url-filter": "m.clien.net"}},
+  {"_comment": "Check!! 2017.03.28 Update","action": {"type": "css-display-none","selector": "html > body > article > div#ct > section > div > ul']"},"trigger": {"url-filter": "m.clien.net"}},
+
   
 {"_comment": "Check!! 2017.03.25 Update","action": {"type": "css-display-none","selector": "div[id='onloadAd']"},"trigger": {"url-filter": "aniclass.com"}},
 {"_comment": "Check!! 2017.03.25 Update","action": {"type": "css-display-none","selector": "div[id='skyBanner_view']"},"trigger": {"url-filter": "aniclass.com"}},
