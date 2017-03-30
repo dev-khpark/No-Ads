@@ -1,6 +1,17 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+  {"_comment": "Check!! 2017.03.20 Update","action": {"type": "css-display-none","selector": ".ad ad_304_287"},"trigger": {"url-filter": "m.ruliweb.com"}},
+  {"_comment": "Check!! 2017.03.20 Update","action": {"type": "css-display-none","selector": ".ad_header_wrapper"},"trigger": {"url-filter": "m.ruliweb.com"}},
+  {"_comment": "Check!! 2017.03.20 Update","action": {"type": "css-display-none","selector": ".fixed_ad_wrapper line_h_50"},"trigger": {"url-filter": "m.ruliweb.com"}},
+  {"_comment": "Check!! 2017.03.20 Update","action": {"type": "css-display-none","selector": ".ad_wrapper row"},"trigger": {"url-filter": "m.ruliweb.com"}},
+  {"_comment": "Check!! 2017.03.20 Update","action": {"type": "css-display-none","selector": "#mo_ad_sub_top_03"},"trigger": {"url-filter": "m.ruliweb.com"}},
+  {"_comment": "Check!! 2017.03.20 Update","action": {"type": "css-display-none","selector": "#mo_ad_sub_top_06"},"trigger": {"url-filter": "m.ruliweb.com"}},
+  {"_comment": "Check!! 2017.03.20 Update","action": {"type": "css-display-none","selector": "#fixed_ad"},"trigger": {"url-filter": "m.ruliweb.com"}},
+  {"_comment": "Check!! 2017.03.20 Update","action": {"type": "css-display-none","selector": "#adsense_on_320x100_02"},"trigger": {"url-filter": "m.ruliweb.com"}},
+  {"_comment": "Check!! 2017.03.20 Update","action": {"type": "css-display-none","selector": "#adsense_on_320x100_01"},"trigger": {"url-filter": "m.ruliweb.com"}},
+  {"_comment": "Check!! 2017.03.20 Update","action": {"type": "css-display-none","selector": "#mo_ad_board_read_09"},"trigger": {"url-filter": "m.ruliweb.com"}},
+  
 {"_comment": "Check!! 2017.03.30 Update","action": {"type": "css-display-none","selector": "#pp_ban_top"},"trigger": {"url-filter": "m.ppomppu.co.kr"}},
 {"_comment": "Check!! 2017.03.30 Update","action": {"type": "css-display-none","selector": "#if_main_bottom_bn"},"trigger": {"url-filter": "m.ppomppu.co.kr"}},
 {"_comment": "Check!! 2017.03.30 Update","action": {"type": "css-display-none","selector": "#M21401"},"trigger": {"url-filter": "m.ppomppu.co.kr"}},
