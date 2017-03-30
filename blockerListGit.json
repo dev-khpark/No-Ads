@@ -1,6 +1,17 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "Check!! 2017.03.30 Update","action": {"type": "css-display-none","selector": "#pp_ban_top"},"trigger": {"url-filter": "m.ppomppu.co.kr"}},
+{"_comment": "Check!! 2017.03.30 Update","action": {"type": "css-display-none","selector": "#if_main_bottom_bn"},"trigger": {"url-filter": "m.ppomppu.co.kr"}},
+{"_comment": "Check!! 2017.03.30 Update","action": {"type": "css-display-none","selector": "#M21401"},"trigger": {"url-filter": "m.ppomppu.co.kr"}},
+{"_comment": "Check!! 2017.03.30 Update","action": {"type": "css-display-none","selector": "#aswift_0_expand"},"trigger": {"url-filter": "m.ppomppu.co.kr"}},
+{"_comment": "Check!! 2017.03.30 Update","action": {"type": "css-display-none","selector": "#M11st"},"trigger": {"url-filter": "m.ppomppu.co.kr"}},
+{"_comment": "Check!! 2017.03.30 Update","action": {"type": "css-display-none","selector": "#pp_ban_bbs_view"},"trigger": {"url-filter": "m.ppomppu.co.kr"}},
+{"_comment": "Check!! 2017.03.30 Update","action": {"type": "css-display-none","selector": "#popupMemberInfo"},"trigger": {"url-filter": "m.ppomppu.co.kr"}},
+{"_comment": "Check!! 2017.03.30 Update","action": {"type": "css-display-none","selector": ".popup-closer"},"trigger": {"url-filter": "m.ppomppu.co.kr"}},
+{"_comment": "Check!! 2017.03.30 Update","action": {"type": "css-display-none","selector": ".emoticon-popup"},"trigger": {"url-filter": "m.ppomppu.co.kr"}},
+{"_comment": "Check!! 2017.03.30 Update","action": {"type": "css-display-none","selector": ".hot-comment-preview"},"trigger": {"url-filter": "m.ppomppu.co.kr"}},
+{"_comment": "Check!! 2017.03.30 Update","action": {"type": "css-display-none","selector": "#comment_warning"},"trigger": {"url-filter": "m.ppomppu.co.kr"}},
 
 {"_comment": "Check!! 2017.03.29 Update","action": {"type": "block"},"trigger": {"url-filter": "3.bp.blogspot.com/-XrsnspibcaY/WEEQUYw9DjI/AAAAAAAAEPc/3qjcRUBI_SoDbSo5drmgM2sqsvXyk810QCLcB/s1600/34.gif"}},
 {"_comment": "Check!! 2017.03.29 Update","action": {"type": "block"},"trigger": {"url-filter": "4.bp.blogspot.com/-WzyjVA1i8O8/WEEQUoYH94I/AAAAAAAAEPg/4SIZRx4XgXgwdmqmA9R4dYX4cV8II3gsACLcB/s0/35.jpg"}},  
