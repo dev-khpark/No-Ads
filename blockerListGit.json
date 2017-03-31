@@ -1,6 +1,12 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "Check!! 2017.03.31 Update","action": {"type": "css-display-none","selector": "#tad_iframe"},"trigger": {"url-filter": "m.humoruniv.com"}},
+{"_comment": "Check!! 2017.03.31 Update","action": {"type": "css-display-none","selector": "#daumAdWrapper"},"trigger": {"url-filter": ".*"}},
+{"_comment": "Check!! 2017.03.31 Update","action": {"type": "css-display-none","selector": "#banner_02"},"trigger": {"url-filter": "m.humoruniv.com"}},
+{"_comment": "Check!! 2017.03.31 Update","action": {"type": "css-display-none","selector": ".bt0"},"trigger": {"url-filter": "m.humoruniv.com"}},
+{"_comment": "Check!! 2017.03.31 Update","action": {"type": "css-display-none","selector": ".daum_ddn_area"},"trigger": {"url-filter": "m.humoruniv.com"}},
+
  {"_comment": "Check!! 2017.03.31 Update","action": {"type": "css-display-none","selector": "#mo_ad_main_top_06"},"trigger": {"url-filter": "m.ruliweb.com"}},
  {"_comment": "Check!! 2017.03.31 Update","action": {"type": "css-display-none","selector": "#mo_ad_main_top_03"},"trigger": {"url-filter": "m.ruliweb.com"}},
  {"_comment": "Check!! 2017.03.31 Update","action": {"type": "css-display-none","selector": "#mo_ad_main_top_04"},"trigger": {"url-filter": "m.ruliweb.com"}},
