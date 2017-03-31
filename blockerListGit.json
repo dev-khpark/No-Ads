@@ -1,6 +1,11 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "Check!! 2017.04.01 Update","action": {"type": "css-display-none","selector": ".mtop_adfit"},"trigger": {"url-filter": "m.daum.net"}},
+{"_comment": "Check!! 2017.04.01 Update","action": {"type": "block"},"trigger": {"url-filter": "4.bp.blogspot.com/-TUks62jlTWo/WNHz0p-ci5I/AAAAAAAG5yw/28bdI3xtVDoB9nQZbx0jUWjvJFs6dlNqQCLcB/s1600/320x100%25281%2529.gif"}},
+{"_comment": "Check!! 2017.04.01 Update","action": {"type": "block"},"trigger": {"url-filter": "2.bp.blogspot.com/-10J14dvIv9E/WNHz0gZ3zqI/AAAAAAAG5y0/K62nLsnsnrUZusxhqqoq8-BnceU5GPSjACLcB/s1600/250x250%25281%2529.gif"}},
+{"_comment": "Check!! 2017.04.01 Update","action": {"type": "block"},"trigger": {"url-filter": "2.bp.blogspot.com/-pDwC_VZrFfY/WI4IyNCHpZI/AAAAAAAGtxg/RXq95_ow0U8OKWBeXeDJ7ke2tRVFp0HeACLcB/s1600/%25EC%25A7%25AC%25ED%2588%25B0_%25EC%259C%25A0%25ED%2586%25A0%25ED%2594%25BC%25EC%2595%2584.gif"}},
+
 {"_comment": "Check!! 2017.03.31 Update","action": {"type": "css-display-none","selector": ".textwidget"},"trigger": {"url-filter": "marutv.com"}},
 {"_comment": "Check!! 2017.03.31 Update","action": {"type": "block"},"trigger": {"url-filter": "i.imgur.com/jFiZ1Bj.jpg"}},
 
