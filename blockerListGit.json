@@ -2,6 +2,11 @@
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
 
+{"_comment": "Check!! 2017.03.31 Update","action": {"type": "css-display-none","selector": ".daum_ddn_area"},"trigger": {"url-filter": "issuebox.net"}},
+{"_comment": "Check!! 2017.03.31 Update","action": {"type": "css-display-none","selector": "#DIV_58ddbae6lPHyUqRP"},"trigger": {"url-filter": "issuebox.net"}},
+{"_comment": "Check!! 2017.03.31 Update","action": {"type": "css-display-none","selector": "#DIV_58ddbae6XHkTgkdg"},"trigger": {"url-filter": "issuebox.net"}},
+{"_comment": "Check!! 2017.03.31 Update","action": {"type": "css-display-none","selector": ".realssp_dv"},"trigger": {"url-filter": "issuebox.net"}},
+
  {"_comment": "Check!! 2017.03.31 Update","action": {"type": "css-display-none","selector": "#madlayer_top"},"trigger": {"url-filter": "ilbe.com"}},
 {"_comment": "Check!! 2017.03.31 Update","action": {"type": "css-display-none","selector": "#ox_*"},"trigger": {"url-filter": "ilbe.com"}},
 {"_comment": "Check!! 2017.03.31 Update","action": {"type": "css-display-none","selector": "#openXdummy"},"trigger": {"url-filter": "ilbe.com"}},
