@@ -1,6 +1,9 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "Check!! 2017.04.03 Update","action": {"type": "css-display-none","selector": "#ad_newTop"},"trigger": {"url-filter": "m.nate.com"}},
+{"_comment": "Check!! 2017.04.03 Update","action": {"type": "css-display-none","selector": "#ad_newBot"},"trigger": {"url-filter": "m.nate.com"}},
+
 {"_comment": "Check!! 2017.04.01 Update","action": {"type": "css-display-none","selector": ".mtop_adfit"},"trigger": {"url-filter": "m.daum.net"}},
 {"_comment": "Check!! 2017.04.01 Update","action": {"type": "block"},"trigger": {"url-filter": "4.bp.blogspot.com/-TUks62jlTWo/WNHz0p-ci5I/AAAAAAAG5yw/28bdI3xtVDoB9nQZbx0jUWjvJFs6dlNqQCLcB/s1600/320x100%25281%2529.gif"}},
 {"_comment": "Check!! 2017.04.01 Update","action": {"type": "block"},"trigger": {"url-filter": "2.bp.blogspot.com/-10J14dvIv9E/WNHz0gZ3zqI/AAAAAAAG5y0/K62nLsnsnrUZusxhqqoq8-BnceU5GPSjACLcB/s1600/250x250%25281%2529.gif"}},
