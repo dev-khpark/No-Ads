@@ -283,7 +283,6 @@
 {"_comment": "2017.03.31 Update","action": {"type": "css-display-none","selector": ".g_banner"},"trigger": {"url-filter": "minitoon.net"}},
 {"_comment": "2017.03.31 Update","action": {"type": "css-display-none","selector": ".s_banner"},"trigger": {"url-filter": "minitoon.net"}},
 {"_comment": "2017.03.31 Update","action": {"type": "css-display-none","selector": "#NeoInteractiveScreenViewLayer"},"trigger": {"url-filter": "minitoon.net"}},
-{"_comment": "2017.03.31 Update","action": {"type": "css-display-none","selector": ".bg1"},"trigger": {"url-filter": "humoruniv.com"}},
 {"_comment": "2017.03.31 Update","action": {"type": "css-display-none","selector": ".ly_pop pop_banner"},"trigger": {"url-filter": "comico.kr"}},
 {"_comment": "2017.03.31 Update","action": {"type": "css-display-none","selector": ".hitomi-horizontal"},"trigger": {"url-filter": "hitomi.la"}},
 {"_comment": "2017.03.31 Update","action": {"type": "css-display-none","selector": ".fixed_ad_wrapper line_h_50"},"trigger": {"url-filter": "m.ruliweb.com"}},
