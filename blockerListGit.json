@@ -1,6 +1,9 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "Check!! 2017.04.06 Update","action": {"type": "css-display-none","selector": "#veta_top"},"trigger": {"url-filter": "naver.com"}},
+{"_comment": "Check!! 2017.04.06 Update","action": {"type": "css-display-none","selector": "#veta_branding"},"trigger": {"url-filter": "naver.com"}},
+
 {"_comment": "Check!! 2017.04.03 Update","action": {"type": "css-display-none","selector": "#ad_newTop"},"trigger": {"url-filter": "m.nate.com"}},
 {"_comment": "Check!! 2017.04.03 Update","action": {"type": "css-display-none","selector": "#ad_newBot"},"trigger": {"url-filter": "m.nate.com"}},
 
