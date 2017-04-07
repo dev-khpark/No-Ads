@@ -1,6 +1,14 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+
+{"_comment": "Check!! 2017.04.07 Update","action": {"type": "css-display-none","selector": "#banner-1959167941"},"trigger": {"url-filter": "ilbe.com"}},
+{"_comment": "Check!! 2017.04.07 Update","action": {"type": "block"},"trigger": {"url-filter": "img.gsspat.jp"}},
+{"_comment": "Check!! 2017.04.07 Update","action": {"type": "block"},"trigger": {"url-filter": "www.ilbe.com/images/anytoon*"}},
+{"_comment": "Check!! 2017.04.07 Update","action": {"type": "block"},"trigger": {"url-filter": "www.ilbe.com/images/bus*"}},
+{"_comment": "Check!! 2017.04.07 Update","action": {"type": "css-display-none","selector": "#madlayer_top2"},"trigger": {"url-filter": "ilbe.com"}},
+{"_comment": "Check!! 2017.04.07 Update","action": {"type": "css-display-none","selector": "#adstir_inview_55078693A34605251"},"trigger": {"url-filter": "ilbe.com"}},
+
 {"_comment": "Check!! 2017.04.06 Update","action": {"type": "css-display-none","selector": "#veta_top"},"trigger": {"url-filter": "naver.com"}},
 {"_comment": "Check!! 2017.04.06 Update","action": {"type": "css-display-none","selector": "#veta_branding"},"trigger": {"url-filter": "naver.com"}},
 
