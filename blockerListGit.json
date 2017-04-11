@@ -1,6 +1,7 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "Check!! 2017.04.11 Update","action": {"type": "css-display-none","selector": ".333056703c855e7b9ba08e23138875c87fc2163b"},"trigger": {"url-filter": "dcinside.com"}},
 {"_comment": "Check!! 2017.04.11 Update","action": {"type": "css-display-none","selector": ".ad_wrapper"},"trigger": {"url-filter": "m.naver.com"}},
 {"_comment": "Check!! 2017.04.11 Update","action": {"type": "css-display-none","selector": ".ad-wrap"},"trigger": {"url-filter": "m.inven.co.kr"}},
 
