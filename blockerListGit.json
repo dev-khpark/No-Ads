@@ -1,6 +1,9 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "Check!! 2017.04.13 Update","action": {"type": "block"},"trigger": {"url-filter": "3.bp.blogspot.com/-XMCU8rodnYk/WB_wxZvLpJI/AAAAAAAGjR8/I5JMFf6uolIcpt8VEVfS9k1kpC6u_7o0wCLcB/s1600/dd.gif"}},
+{"_comment": "Check!! 2017.04.13 Update","action": {"type": "block"},"trigger": {"url-filter": "www.cucudas.com/img/ffxitrack2.jpg"}},
+
 {"_comment": "Check!! 2017.04.11 Update","action": {"type": "css-display-none","selector": ".333056703c855e7b9ba08e23138875c87fc2163b"},"trigger": {"url-filter": "dcinside.com"}},
 {"_comment": "Check!! 2017.04.11 Update","action": {"type": "css-display-none","selector": ".ad_wrapper"},"trigger": {"url-filter": "m.naver.com"}},
 {"_comment": "Check!! 2017.04.11 Update","action": {"type": "css-display-none","selector": ".ad-wrap"},"trigger": {"url-filter": "m.inven.co.kr"}},
