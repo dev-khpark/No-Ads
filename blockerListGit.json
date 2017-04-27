@@ -1,6 +1,9 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.04.27 Update","action": {"type": "block"},"trigger": {"url-filter": "clickmon.co.kr"}},
+{"_comment": "2017.04.27 Update","action": {"type": "block"},"trigger": {"url-filter": "2mdn.net"}},
+
 {"_comment": "Check!! 2017.04.24 Update","action": {"type": "css-display-none","selector": "#dablewidget_V7aW52XB"},"trigger": {"url-filter": "m.getnews.co.kr"}},
 {"_comment": "Check!! 2017.04.24 Update","action": {"type": "css-display-none","selector": "#dablewidget_ml6EQN74"},"trigger": {"url-filter": "m.ccdn.co.kr"}},
 {"_comment": "Check!! 2017.04.24 Update","action": {"type": "css-display-none","selector": ".hjawidget"},"trigger": {"url-filter": "cnet.co.kr"}},
