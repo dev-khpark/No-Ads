@@ -1,6 +1,7 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.04.28 Update","action": {"type": "css-display-none","selector": "#aswift_0_expand"},"trigger": {"url-filter": "m.todayhumor.co.kr"}},
 {"_comment": "2017.04.28 Update","action": {"type": "css-display-none","selector": "#google_image_div"},"trigger": {"url-filter": "m.todayhumor.co.kr"}},
 
 {"_comment": "2017.04.27 Update","action": {"type": "block"},"trigger": {"url-filter": "clickmon.co.kr"}},
