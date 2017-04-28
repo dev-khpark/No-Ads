@@ -84,7 +84,7 @@
 {"_comment": "2017.04.17 Update","action": {"type": "css-display-none","selector": "#mz_wrap"},"trigger": {"url-filter": "underkg.co.kr"}},
 {"_comment": "2017.04.17 Update","action": {"type": "css-display-none","selector": ".banner"},"trigger": {"url-filter": "underkg.co.kr"}},
 {"_comment": "2017.04.17 Update","action": {"type": "css-display-none","selector": "#nuri_rukbrv_ad_layer"},"trigger": {"url-filter": "koreanz.com.au"}},
-{"_comment": "2017.04.17 Update","action": {"type": "block"},"trigger": {"url-filter": "https://googleads.g.doubleclick.net"}},
+{"_comment": "2017.04.17 Update","action": {"type": "block"},"trigger": {"url-filter": "googleads.g.doubleclick.net"}},
 
 {"_comment": "Check!! 2017.04.13 Update","action": {"type": "block"},"trigger": {"url-filter": "3.bp.blogspot.com/-XMCU8rodnYk/WB_wxZvLpJI/AAAAAAAGjR8/I5JMFf6uolIcpt8VEVfS9k1kpC6u_7o0wCLcB/s1600/dd.gif"}},
 {"_comment": "Check!! 2017.04.13 Update","action": {"type": "block"},"trigger": {"url-filter": "www.cucudas.com/img/ffxitrack2.jpg"}},
