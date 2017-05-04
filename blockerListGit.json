@@ -1,6 +1,9 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "Check!! 2017.05.04 Update","action": {"type": "block"},"trigger": {"url-filter": "exoclick.com"}},
+{"_comment": "Check!! 2017.05.04 Update","action": {"type": "css-display-none","selector": ".main-p10"},"trigger": {"url-filter": "toonsarang.com"}},
+
 {"_comment": "Check!! 2017.05.01 Update","action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["011st.com"]}},
 {"_comment": "Check!! 2017.05.01 Update","action": {"type": "css-display-none","selector": ".ad-bottom-97090"},"trigger": {"url-filter": "vop.co.kr"}},
 {"_comment": "Check!! 2017.05.01 Update","action": {"type": "css-display-none","selector": "#overlay"},"trigger": {"url-filter": "ggultip.org"}},
