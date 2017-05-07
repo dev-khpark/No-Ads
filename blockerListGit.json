@@ -8,6 +8,7 @@
 {"_comment": "2017.05.07 Update","action": {"type": "css-display-none","selector": ".header-banner"},"trigger": {"url-filter": "new.clien.net"}},
 {"_comment": "2017.05.07 Update","action": {"type": "css-display-none","selector": "#m_naverAd"},"trigger": {"url-filter": "new.clien.net"}},
 {"_comment": "2017.05.07 Update","action": {"type": "css-display-none","selector": "#div-mw-view-center"},"trigger": {"url-filter": "new.clien.net"}},
+{"_comment": "2017.05.07 Update","action": {"type": "css-display-none","selector": ".list-row list-banner"},"trigger": {"url-filter": "new.clien.net"}},
 
 {"_comment": "Check!! 2017.05.04 Update","action": {"type": "block"},"trigger": {"url-filter": "exoclick.com"}},
 {"_comment": "Check!! 2017.05.04 Update","action": {"type": "css-display-none","selector": ".main-p10"},"trigger": {"url-filter": "toonsarang.com"}},
