@@ -1,6 +1,8 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.05.13 Update","action": {"type": "block"},"trigger": {"url-filter": "ajillionmax.com"}},
+
 {"_comment": "2017.05.12 Update","action": {"type": "block"},"trigger": {"url-filter": "data.ygosu.fileofcdn.com/banner*"}},
 
 {"_comment": "Check!! 2017.05.08 Update","action": {"type": "block"},"trigger": {"url-filter": "4.bp.blogspot.com/-pYYwz-Y62-c/WQiRGAZZ4-I/AAAAAAAHDz0/QtDDLjJKJKclG4XKG7CX3R3fyA8q5YH4gCLcB/s1600/320x100.gif"}},
