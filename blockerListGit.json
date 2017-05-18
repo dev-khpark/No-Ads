@@ -1,6 +1,11 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.05.18 Update","action": {"type": "css-display-none","selector": "div[id='LEFTbaners']"},"trigger": {"url-filter": "issuetab.com"}},
+{"_comment": "2017.05.18 Update","action": {"type": "css-display-none","selector": "div[id='RIGHTbaners']"},"trigger": {"url-filter": "issuetab.com"}},
+{"_comment": "2017.05.18 Update","action": {"type": "css-display-none","selector": "iframe[src='http://issuetab.com/best.html']"},"trigger": {"url-filter": "issuetab.com"}},
+{"_comment": "2017.05.18 Update","action": {"type": "css-display-none","selector": "div[id='adPostArea']"},"trigger": {"url-filter": "naver.com"}},
+
 {"_comment": "Check!! 2017.05.16 Update","action": {"type": "css-display-none","selector": "li[id='set_list_middle_ad']"},"trigger": {"url-filter": "m.dcinside.com"}},
 {"_comment": "Check!! 2017.05.16 Update","action": {"type": "css-display-none","selector": "div[id='set_list_top']"},"trigger": {"url-filter": "m.dcinside.com"}},
 
