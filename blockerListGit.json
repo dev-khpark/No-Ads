@@ -1,6 +1,9 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "Check!! 2017.05.19 Update","action": {"type": "css-display-none","selector": "div[class='list-row list-banner']"},"trigger": {"url-filter": "clien.net"}},
+{"_comment": "Check!! 2017.05.19 Update","action": {"type": "css-display-none","selector": "div[class='div-rs-under']"},"trigger": {"url-filter": "clien.net"}},
+
 {"_comment": "2017.05.18 Update","action": {"type": "css-display-none","selector": "div[id='LEFTbaners']"},"trigger": {"url-filter": "issuetab.com"}},
 {"_comment": "2017.05.18 Update","action": {"type": "css-display-none","selector": "div[id='RIGHTbaners']"},"trigger": {"url-filter": "issuetab.com"}},
 {"_comment": "2017.05.18 Update","action": {"type": "css-display-none","selector": "iframe[src='http://issuetab.com/best.html']"},"trigger": {"url-filter": "issuetab.com"}},
