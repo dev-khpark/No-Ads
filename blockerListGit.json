@@ -1,6 +1,35 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.05.22 Update","action": {"type": "css-display-none","selector": "ins[class='adsByIdn31542']"},"trigger": {"url-filter": "dcinside.com"}},
+{"_comment": "2017.05.22 Update","action": {"type": "css-display-none","selector": "div[id='div_31542']"},"trigger": {"url-filter": "dcinside.com"}},
+
+{"_comment": "2017.05.22 Update","action": {"type": "css-display-none","selector": "div.back"},"trigger": {"url-filter": "oopsnews.kr"}},
+{"_comment": "2017.05.22 Update","action": {"type": "css-display-none","selector": "div.SHOWUP2"},"trigger": {"url-filter": "oopsnews.kr"}},
+{"_comment": "2017.05.22 Update","action": {"type": "css-display-none","selector": "#back"},"trigger": {"url-filter": "oopsnews.kr"}},
+{"_comment": "2017.05.22 Update","action": {"type": "css-display-none","selector": "#SHOWUP2"},"trigger": {"url-filter": "oopsnews.kr"}},
+{"_comment": "2017.05.22 Update","action": {"type": "css-display-none","selector": "#top_ad_div"},"trigger": {"url-filter": "oopsnews.kr"}},
+{"_comment": "2017.05.22 Update","action": {"type": "css-display-none","selector": "#sp_div"},"trigger": {"url-filter": "oopsnews.kr"}},
+{"_comment": "2017.05.22 Update","action": {"type": "css-display-none","selector": "div.sp_div"},"trigger": {"url-filter": "oopsnews.kr"}},
+{"_comment": "2017.05.22 Update","action": {"type": "css-display-none","selector": "table[id='grid2']"},"trigger": {"url-filter": "oopsnews.kr"}},
+{"_comment": "2017.05.22 Update","action": {"type": "css-display-none","selector": "table[id='grid3']"},"trigger": {"url-filter": "oopsnews.kr"}},
+{"_comment": "2017.05.22 Update","action": {"type": "css-display-none","selector": "#bottom_ad_div"},"trigger": {"url-filter": "oopsnews.kr"}},
+{"_comment": "2017.05.22 Update","action": {"type": "css-display-none","selector": "div.bottom_ad_div"},"trigger": {"url-filter": "oopsnews.kr"}},
+{"_comment": "2017.05.22 Update","action": {"type": "css-display-none","selector": "div.view-img"},"trigger": {"url-filter": "oopsnews.kr"}},
+{"_comment": "2017.05.22 Update","action": {"type": "css-display-none","selector": "div[style='color: red; font-weight: bold; font-size: 23px; text-align: center'],div[style='padding:0px 13px; margin-top:5px;'],div[style='padding:0px 13px; margin-top:5px;']"},"trigger": {"url-filter": "oopsnews.kr"}},
+{"_comment": "2017.05.22 Update","action": {"type": "css-display-none","selector": "h1[style='font-size: 25px; color: 6600CC;']"},"trigger": {"url-filter": "oopsnews.kr"}},
+{"_comment": "Check!! 2017.05.22 Update","action": {"type": "css-display-none","selector": "#toTop"},"trigger": {"url-filter": "oopsnews.kr"}},
+{"_comment": "2017.05.22 Update","action": {"type": "css-display-none","selector": "a[id='bottomhref']"},"trigger": {"url-filter": "oopsnews.kr"}},
+{"_comment": "2017.05.22 Update","action": {"type": "css-display-none","selector": "#grid1"},"trigger": {"url-filter": "oopsnews.kr"}},
+{"_comment": "Check!! 2017.05.22 Update","action": {"type": "css-display-none","selector": "a[id='toTop']"},"trigger": {"url-filter": "oopsnews.kr"}},
+{"_comment": "2017.05.22 Update","action": {"type": "css-display-none","selector": "table[id='grid1']"},"trigger": {"url-filter": "oopsnews.kr"}},
+
+{"_comment": "2017.05.22 Update","action": {"type": "css-display-none","selector": "div[id='banner-center-1']"},"trigger": {"url-filter": "bamtoki.com"}},
+{"_comment": "2017.05.22 Update","action": {"type": "block"},"trigger": {"url-filter": "mtvdaily.asiae.co.kr/ad/*"}},
+{"_comment": "2017.05.22 Update","action": {"type": "css-display-none","selector": "div[style='text-align:center;padding:15px 0;background-color:#e5e5e5']"},"trigger": {"url-filter": "todayhumor.co.kr"}},
+{"_comment": "2017.05.22 Update","action": {"type": "block"},"trigger": {"url-filter": "daissue.kr/adi/*"}},
+{"_comment": "2017.05.22 Update","action": {"type": "block"},"trigger": {"url-filter": "oopsnews.kr/adi/*"}},
+
 {"_comment": "Check!! 2017.05.19 Update","action": {"type": "css-display-none","selector": "div[class='list-row list-banner']"},"trigger": {"url-filter": "clien.net"}},
 {"_comment": "Check!! 2017.05.19 Update","action": {"type": "css-display-none","selector": "div[class='div-rs-under']"},"trigger": {"url-filter": "clien.net"}},
 
