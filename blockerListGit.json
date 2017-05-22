@@ -1,6 +1,9 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.05.22 Update","action": {"type": "css-display-none","selector": "div[class='div-rs-main-top']"},"trigger": {"url-filter": "clien.net"}},
+{"_comment": "2017.05.22 Update","action": {"type": "css-display-none","selector": "div[class='div-rs-main-center']"},"trigger": {"url-filter": "clien.net"}},
+
 {"_comment": "2017.05.22 Update","action": {"type": "css-display-none","selector": "ins[class='adsByIdn31542']"},"trigger": {"url-filter": "dcinside.com"}},
 {"_comment": "2017.05.22 Update","action": {"type": "css-display-none","selector": "div[id='div_31542']"},"trigger": {"url-filter": "dcinside.com"}},
 
