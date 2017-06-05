@@ -1,6 +1,8 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.06.05 Update","action": {"type": "css-display-none","selector": "div[class='top_ad']"},"trigger": {"url-filter": "kick-off.co.kr"}},
+
 {"_comment": "2017.06.01 Update","action": {"type": "css-display-none","selector": "div[class='fancybox-wrap fancybox-mobile fancybox-type-inline fancybox-opened']"},"trigger": {"url-filter": "gangnamman.com"}},
 {"_comment": "2017.06.01 Update","action": {"type": "css-display-none","selector": "div[id='dablewidget_QXeQvZXe']"},"trigger": {"url-filter": "kpinews.co.kr"}},
 
