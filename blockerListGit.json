@@ -1,6 +1,17 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "Check!! 2017.06.08 Update","action": {"type": "css-display-none","selector": "div[id='popUP_ZONE']"},"trigger": {"url-filter": "hungryapp.co.kr"}},
+{"_comment": "Check!! 2017.06.08 Update","action": {"type": "css-display-none","selector": "div[style='display:block;overflow:hidden;width:100%;height:85px;text-align:center;background:#003A51;']"},"trigger": {"url-filter": "hungryapp.co.kr"}},
+{"_comment": "Check!! 2017.06.08 Update","action": {"type": "css-display-none","selector": "div[class='Mibox_down']"},"trigger": {"url-filter": "hungryapp.co.kr"}},
+{"_comment": "Check!! 2017.06.08 Update","action": {"type": "css-display-none","selector": "div[class='randompop']"},"trigger": {"url-filter": "hotcast.kr"}},
+{"_comment": "Check!! 2017.06.08 Update","action": {"type": "css-display-none","selector": "div[class='gentlebanner']"},"trigger": {"url-filter": "hotcast.kr"}},
+{"_comment": "Check!! 2017.06.08 Update","action": {"type": "css-display-none","selector": "div[id='geniee_overlay']"},"trigger": {"url-filter": "ilbe.com"}},
+{"_comment": "Check!! 2017.06.08 Update","action": {"type": "css-display-none","selector": "div[id='wp_adbn_root']"},"trigger": {"url-filter": "vop.co.kr"}},
+{"_comment": "Check!! 2017.06.08 Update","action": {"type": "css-display-none","selector": "div[class='smart-banner']"},"trigger": {"url-filter": "dailymotion.com"}},
+{"_comment": "Check!! 2017.06.08 Update","action": {"type": "css-display-none","selector": "div[class='cookie-policy']"},"trigger": {"url-filter": "dailymotion.com"}},
+{"_comment": "Check!! 2017.06.08 Update","action": {"type": "css-display-none","selector": "div[id='DIV_593818dccbid1Mfw']"},"trigger": {"url-filter": "ecomedia.co.kr"}},
+
 {"_comment": "2017.06.05 Update","action": {"type": "css-display-none","selector": "div[class='top_ad']"},"trigger": {"url-filter": "kick-off.co.kr"}},
 
 {"_comment": "2017.06.01 Update","action": {"type": "css-display-none","selector": "div[class='fancybox-wrap fancybox-mobile fancybox-type-inline fancybox-opened']"},"trigger": {"url-filter": "gangnamman.com"}},
