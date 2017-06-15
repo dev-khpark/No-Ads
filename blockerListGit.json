@@ -1,6 +1,11 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.06.15 Update","action": {"type": "css-display-none","selector": "div[class='row b-scroll']"},"trigger": {"url-filter": "adulti01.com"}},
+{"_comment": "2017.06.15 Update","action": {"type": "block"},"trigger": {"url-filter": "duruwa.com/images/%ec%a0%95%ec%82%ac%ea%b0%81%ed%98%95%eb%b0%b0%eb%84%881.jpg"}},
+{"_comment": "2017.06.15 Update","action": {"type": "block"},"trigger": {"url-filter": "duruwa.com/images/%eb%aa%a8%eb%b0%94%ec%9d%bc%eb%b0%b0%eb%84%88.jpg"}},
+{"_comment": "2017.06.15 Update","action": {"type": "block"},"trigger": {"url-filter": "duruwa.com/images/%ec%a0%95%ec%82%ac%ea%b0%81%ed%98%95%eb%b0%b0%eb%84%88.jpg"}},
+
 {"_comment": "Check!! 2017.06.09 Update","action": {"type": "css-display-none","selector": "div[id='m_naverAd2']"},"trigger": {"url-filter": "clien.net"}},
 
 {"_comment": "Check!! 2017.06.08 Update","action": {"type": "css-display-none","selector": "div[id='popUP_ZONE']"},"trigger": {"url-filter": "hungryapp.co.kr"}},
