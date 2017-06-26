@@ -1,6 +1,8 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.06.26 Update","action": {"type": "css-display-none","selector": "div[id='asdsad']"},"trigger": {"url-filter": "ilbe.com"}},
+
 {"_comment": "2017.06.22 Update","action": {"type": "css-display-none","selector": "div[class='nbp_container']"},"trigger": {"url-filter": "ruliweb.com"}},
 {"_comment": "2017.06.22 Update","action": {"type": "css-display-none","selector": "div[id='div-mw-main-top']"},"trigger": {"url-filter": "clien.net"}},
 {"_comment": "2017.06.22 Update","action": {"type": "css-display-none","selector": "div[id='div-mw-main-center']"},"trigger": {"url-filter": "clien.net"}},
