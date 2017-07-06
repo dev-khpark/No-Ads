@@ -1,6 +1,14 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.07.06 Update","action": {"type": "css-display-none","selector": "span[class='article-boxad hide-appview']"},"trigger": {"url-filter": "yna.co.kr"}},
+{"_comment": "2017.07.06 Update","action": {"type": "css-display-none","selector": "div[class='wrap-ticker4 section-add-fixbt hide-appview']"},"trigger": {"url-filter": "yna.co.kr"}},
+{"_comment": "2017.07.06 Update","action": {"type": "css-display-none","selector": "div[class='list-banner']"},"trigger": {"url-filter": "clien.net"}},
+{"_comment": "2017.07.06 Update","action": {"type": "css-display-none","selector": "div[style='margin:1.5em auto 1em;text-align:center;']"},"trigger": {"url-filter": "baykoreans.net"}},
+{"_comment": "2017.07.06 Update","action": {"type": "css-display-none","selector": "div[style='margin:1.5em auto 1em;text-align:center;']"},"trigger": {"url-filter": "baykoreans.net"}},
+{"_comment": "2017.07.06 Update","action": {"type": "block"},"trigger": {"url-filter": "madadsmedia.com"}},
+
+
 {"_comment": "2017.06.29 Update","action": {"type": "css-display-none","selector": "div[class='dable_wg1']"},"trigger": {"url-filter": "vop.co.kr"}},
 {"_comment": "2017.06.29 Update","action": {"type": "css-display-none","selector": "div[class='dable_wg2']"},"trigger": {"url-filter": "vop.co.kr"}},
 
