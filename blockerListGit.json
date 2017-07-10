@@ -1,6 +1,11 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.07.10 Update","action": {"type": "block"},"trigger": {"url-filter": "2.bp.blogspot.com/-MfxN3iIqbyE/WS4-OlPL1sI/AAAAAAAHEvA/Kem1ypfnwY0VEvSmWduOSDT4g2XqXXRfQCLcB/s1600/%25EB%258C%2580%25EB%25A6%25AC%25EB%25B0%25B0%25EB%2584%2588.gif"}},
+{"_comment": "2017.07.10 Update","action": {"type": "block"},"trigger": {"url-filter": "3.bp.blogspot.com/-9pm5YPYPDEY/WV4ABsZjO2I/AAAAAAAHHfE/_2zGD2eXqZAOyfApQIed_qglWCgewLaawCLcBGAs/s1600/250x250.gif"}},
+{"_comment": "2017.07.10 Update","action": {"type": "css-display-none","selector": "div[class='ad-wrap-bottom']"},"trigger": {"url-filter": "hongikin.com"}},
+
+
 {"_comment": "2017.07.06 Update","action": {"type": "css-display-none","selector": "span[class='article-boxad hide-appview']"},"trigger": {"url-filter": "yna.co.kr"}},
 {"_comment": "2017.07.06 Update","action": {"type": "css-display-none","selector": "div[class='wrap-ticker4 section-add-fixbt hide-appview']"},"trigger": {"url-filter": "yna.co.kr"}},
 {"_comment": "2017.07.06 Update","action": {"type": "css-display-none","selector": "div[class='list-banner']"},"trigger": {"url-filter": "clien.net"}},
