@@ -1,6 +1,11 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.07.13 Update","action": {"type": "css-display-none","selector": "div[class='st_ad_center']"},"trigger": {"url-filter": "sposay.com"}},
+{"_comment": "2017.07.13 Update","action": {"type": "css-display-none","selector": "div[class='ss_ad_center']"},"trigger": {"url-filter": "sposay.com"}},
+{"_comment": "2017.07.13 Update","action": {"type": "css-display-none","selector": "div[class='mbanner']"},"trigger": {"url-filter": "sposay.com"}},
+{"_comment": "2017.07.13 Update","action": {"type": "css-display-none","selector": "div[class='adslot_5-container']"},"trigger": {"url-filter": "eposting.co.kr"}},
+
 {"_comment": "2017.07.12 Update","action": {"type": "css-display-none","selector": "div[id='afuera']"},"trigger": {"url-filter": "ruliweb.com"}},
 
 {"_comment": "End","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}}
