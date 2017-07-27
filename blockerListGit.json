@@ -1,6 +1,8 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.07.27 Update","action": {"type": "css-display-none","selector": "div[id='xPkfyHmgq']"},"trigger": {"url-filter": "boroboromi.com"}},
+
 {"_comment": "2017.07.24 Update","action": {"type": "block"},"trigger": {"url-filter": "adpingpong.co.kr"}},
 
 {"_comment": "2017.07.17 Update","action": {"type": "css-display-none","selector": "div[id='left_out']"},"trigger": {"url-filter": "tvnamu.com"}},
