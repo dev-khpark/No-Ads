@@ -1,6 +1,11 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.07.31 Update","action": {"type": "css-display-none","selector": "div[id='SZBCX']"},"trigger": {"url-filter": "0082tv.com"}},
+{"_comment": "2017.07.31 Update","action": {"type": "block"},"trigger": {"url-filter": "www.0082tv.net/userfiles/koreayhadv/P3.jpg"}},
+{"_comment": "2017.07.31 Update","action": {"type": "css-display-none","selector": "div[id='mobile-ad-T1']"},"trigger": {"url-filter": "boroboromi.com"}},
+{"_comment": "2017.07.31 Update","action": {"type": "css-display-none","selector": "div[id='lxdxJyy']"},"trigger": {"url-filter": "boroboromi.com"}},
+
 {"_comment": "2017.07.27 Update","action": {"type": "css-display-none","selector": "div[id='xPkfyHmgq']"},"trigger": {"url-filter": "boroboromi.com"}},
 
 {"_comment": "2017.07.24 Update","action": {"type": "block"},"trigger": {"url-filter": "adpingpong.co.kr"}},
