@@ -1,6 +1,9 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.08.10 Update","action": {"type": "css-display-none","selector": "iframe[id='ttx_area_1118851301_72']"},"trigger": {"url-filter": "yna.co.kr"}},
+{"_comment": "2017.08.10 Update","action": {"type": "css-display-none","selector": "div[id='mobile_recommand_banner']"},"trigger": {"url-filter": "itworld.co.kr"}},
+
 {"_comment": "2017.08.3 Update","action": {"type": "css-display-none","selector": "div[id='ad50']"},"trigger": {"url-filter": "gukjenews.com"}},
 
 {"_comment": "2017.07.31 Update","action": {"type": "css-display-none","selector": "div[id='SZBCX']"},"trigger": {"url-filter": "0082tv.com"}},
