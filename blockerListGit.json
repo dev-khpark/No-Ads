@@ -1,6 +1,8 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.08.17 Update","action": {"type": "css-display-none","selector": "body > div:nth-child(5) > center > a > img"},"trigger": {"url-filter": "dcinside.com"}},
+
 {"_comment": "2017.08.14 Update","action": {"type": "css-display-none","selector": "div[id='floatingWrap_103']"},"trigger": {"url-filter": "dcinside.com"}},
 
 {"_comment": "2017.08.10 Update","action": {"type": "css-display-none","selector": "iframe[id='ttx_area_1118851301_72']"},"trigger": {"url-filter": "yna.co.kr"}},
