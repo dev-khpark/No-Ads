@@ -1,7 +1,7 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
-{"_comment": "2017.08.17 Update","action": {"type": "css-display-none","selector": "body > div > center > a > img"},"trigger": {"url-filter": "torrentkim10.net"}},
+{"_comment": "2017.08.17 Update","action": {"type": "block"},"trigger": {"url-filter": "m.torrentkim10.net/banner/mobile.jpg"}},
 
 {"_comment": "2017.08.14 Update","action": {"type": "css-display-none","selector": "div[id='floatingWrap_103']"},"trigger": {"url-filter": "dcinside.com"}},
 
