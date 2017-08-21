@@ -7,6 +7,7 @@
 {"_comment": "2017.08.21 Update","action": {"type": "css-display-none","selector": "ins[class='adsbygoogle']"},"trigger": {"url-filter": "ksilbo.co.kr"}},
 {"_comment": "2017.08.21 Update","action": {"type": "css-display-none","selector": "section[class='advertisment']"},"trigger": {"url-filter": "ksilbo.co.kr"}},
 {"_comment": "2017.08.21 Update","action": {"type": "css-display-none","selector": "div[id='adMall_popup_MF01']"},"trigger": {"url-filter": "ksilbo.co.kr"}},
+{"_comment": "2017.08.21 Update","action": {"type": "css-display-none","selector": "div[id='tjtune_floating_b_pop']"},"trigger": {"url-filter": "ksilbo.co.kr"}},
 
 {"_comment": "2017.08.14 Update","action": {"type": "css-display-none","selector": "body > center > a > img"},"trigger": {"url-filter": "torrentkim10.net"}},
 {"_comment": "2017.08.17 Update","action": {"type": "block"},"trigger": {"url-filter": "m.torrentkim10.net/banner/mobile.jpg"}},
