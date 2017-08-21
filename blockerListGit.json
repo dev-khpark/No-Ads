@@ -1,6 +1,13 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.08.21 Update","action": {"type": "css-display-none","selector": "div[style='position:relative; bottom:-5px; width:100%']"},"trigger": {"url-filter": "ksilbo.co.kr"}},
+{"_comment": "2017.08.21 Update","action": {"type": "css-display-none","selector": "div[style='float:right; padding:20px 0 10px 10px; width:200px !important; height:200px !important;']"},"trigger": {"url-filter": "ksilbo.co.kr"}},
+{"_comment": "2017.08.21 Update","action": {"type": "css-display-none","selector": "div[id='dablewidget_QXeGa17e']"},"trigger": {"url-filter": "ksilbo.co.kr"}},
+{"_comment": "2017.08.21 Update","action": {"type": "css-display-none","selector": "ins[class='adsbygoogle']"},"trigger": {"url-filter": "ksilbo.co.kr"}},
+{"_comment": "2017.08.21 Update","action": {"type": "css-display-none","selector": "section[class='advertisment']"},"trigger": {"url-filter": "ksilbo.co.kr"}},
+{"_comment": "2017.08.21 Update","action": {"type": "css-display-none","selector": "div[id='adMall_popup_MF01']"},"trigger": {"url-filter": "ksilbo.co.kr"}},
+
 {"_comment": "2017.08.14 Update","action": {"type": "css-display-none","selector": "body > center > a > img"},"trigger": {"url-filter": "torrentkim10.net"}},
 {"_comment": "2017.08.17 Update","action": {"type": "block"},"trigger": {"url-filter": "m.torrentkim10.net/banner/mobile.jpg"}},
 
