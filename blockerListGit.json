@@ -1,6 +1,12 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.09.04 Update","action": {"type": "block"},"trigger": {"url-filter": "corearoadbike.com/data/banner/BN_M_B_C_1504246121706_KmuFn_1sO46_Nh9UP_vPMMK_EGLGr_XfoKu.jpg"}},
+{"_comment": "2017.09.04 Update","action": {"type": "css-display-none","selector": "section[class='container gray-bg b-scroll']"},"trigger": {"url-filter": "adulti01.com"}},
+{"_comment": "2017.09.04 Update","action": {"type": "css-display-none","selector": "div[id='addon-popup-layer']"},"trigger": {"url-filter": "hite888.net"}},
+{"_comment": "2017.09.04 Update","action": {"type": "block"},"trigger": {"url-filter": "anisaja7.com"}},
+
+
 {"_comment": "2017.08.28 Update","action": {"type": "css-display-none","selector": "div[style='display:block;overflow:hidden;width:100%;height:85px;text-align:center;background:#495168;']"},"trigger": {"url-filter": "hungryapp.co.kr"}},
 {"_comment": "2017.08.28 Update","action": {"type": "css-display-none","selector": "div[style='display:block;overflow:hidden;width:100%;height:85px;text-align:center;background:#FFFFFF;']"},"trigger": {"url-filter": "hungryapp.co.kr"}},
 
