@@ -1,6 +1,8 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.09.07 Update","action": {"type": "css-display-none","selector": "div[id='floatingWrap_103']"},"trigger": {"url-filter": "o-jjal.com"}},
+
 {"_comment": "2017.09.04 Update","action": {"type": "block"},"trigger": {"url-filter": "corearoadbike.com/data/banner/BN_M_B_C_1504246121706_KmuFn_1sO46_Nh9UP_vPMMK_EGLGr_XfoKu.jpg"}},
 {"_comment": "2017.09.04 Update","action": {"type": "css-display-none","selector": "section[class='container gray-bg b-scroll']"},"trigger": {"url-filter": "adulti01.com"}},
 {"_comment": "2017.09.04 Update","action": {"type": "css-display-none","selector": "div[id='addon-popup-layer']"},"trigger": {"url-filter": "hite888.net"}},
