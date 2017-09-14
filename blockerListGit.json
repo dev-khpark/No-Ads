@@ -1,6 +1,11 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.09.14 Update","action": {"type": "css-display-none","selector": "div[id='dablewidget_goBGqw7e']"},"trigger": {"url-filter": "newsworks.co.kr"}},
+{"_comment": "2017.09.14 Update","action": {"type": "css-display-none","selector": "div[id='adContent']"},"trigger": {"url-filter": "newsworks.co.kr"}},
+{"_comment": "2017.09.14 Update","action": {"type": "css-display-none","selector": "div[id='dablewidget_1XDaJWoe']"},"trigger": {"url-filter": "newsworks.co.kr"}},
+
+
 {"_comment": "2017.09.11 Update","action": {"type": "css-display-none","selector": "div[class='wrap_ad10']"},"trigger": {"url-filter": "fnnews.com"}},
 
 {"_comment": "2017.09.07 Update","action": {"type": "css-display-none","selector": "div[id='floatingWrap_103']"},"trigger": {"url-filter": "o-jjal.com"}},
