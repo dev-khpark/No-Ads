@@ -1,6 +1,15 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.09.21 Update","action": {"type": "css-display-none","selector": "div[style='display:inline-block;width:320px;height:100px;max-width:100%;overflow:hidden']"},"trigger": {"url-filter": "wasabisyrup.com"}},
+{"_comment": "2017.09.21 Update","action": {"type": "css-display-none","selector": "div[style='display:inline-block;width:300px;height:250px;max-width:100%;overflow:hidden']"},"trigger": {"url-filter": "wasabisyrup.com"}},
+{"_comment": "2017.09.21 Update","action": {"type": "css-display-none","selector": "div[style='display:inline-block;width:300px;height:250px;max-width:100%;overflow:hidden']"},"trigger": {"url-filter": "wasabisyrup.com"}},
+{"_comment": "2017.09.21 Update","action": {"type": "css-display-none","selector": "div[style='display:inline-block;width:300px;height:250px;max-width:100%;overflow:hidden']"},"trigger": {"url-filter": "wasabisyrup.com"}},
+{"_comment": "2017.09.21 Update","action": {"type": "css-display-none","selector": "div[style='display:inline-block;width:320px;height:100px;max-width:100%;overflow:hidden']"},"trigger": {"url-filter": "wasabisyrup.com"}},
+{"_comment": "2017.09.21 Update","action": {"type": "css-display-none","selector": "div[style='display:inline-block;width:320px;height:100px;max-width:100%;overflow:hidden']"},"trigger": {"url-filter": "wasabisyrup.com"}},
+{"_comment": "2017.09.21 Update","action": {"type": "css-display-none","selector": "div[class='tracking']"},"trigger": {"url-filter": "wasabisyrup.com"}},
+
+
 {"_comment": "2017.09.18 Update","action": {"type": "css-display-none","selector": "div[id='livereAd']"},"trigger": {"url-filter": "sedaily.com"}},
 
 {"_comment": "2017.09.14 Update","action": {"type": "css-display-none","selector": "div[id='dablewidget_goBGqw7e']"},"trigger": {"url-filter": "newsworks.co.kr"}},
