@@ -1,6 +1,8 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.10.05 Update","action": {"type": "css-display-none","selector": "table[id='banner_mid_center']"},"trigger": {"url-filter": "webtoon.bamtoki.com"}},
+
 {"_comment": "2017.10.02 Update","action": {"type": "css-display-none","selector": "table[id='banner_top_center']"},"trigger": {"url-filter": "webtoon.bamtoki.com"}},
 {"_comment": "2017.10.02 Update","action": {"type": "css-display-none","selector": "header[id='header-anchor']"},"trigger": {"url-filter": "wasabisyrup.com"}},
 
