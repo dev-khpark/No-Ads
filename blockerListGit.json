@@ -1,91 +1,13 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.10.09 Update","action": {"type": "block"},"trigger": {"url-filter": "toonipang1.com/img/banner/*"}},
+{"_comment": "2017.10.12 Update","action": {"type": "css-display-none","selector": "div[class='top_pos']"},"trigger": {"url-filter": "myreadingmanga.info"}},
+{"_comment": "2017.10.12 Update","action": {"type": "css-display-none","selector": "section[id='about']"},"trigger": {"url-filter": "adulti03.com"}},
+
 {"_comment": "2017.10.09 Update","action": {"type": "block"},"trigger": {"url-filter": "dable.io"}},
 {"_comment": "2017.10.09 Update","action": {"type": "block"},"trigger": {"url-filter": "tjtune.com"}},
 {"_comment": "2017.10.09 Update","action": {"type": "css-display-none","selector": "div[id='tj_backgroundad_wrap']"},"trigger": {"url-filter": "acrofan.com"}},
-
-{"_comment": "2017.10.05 Update","action": {"type": "css-display-none","selector": "table[id='banner_mid_center']"},"trigger": {"url-filter": "webtoon.bamtoki.com"}},
-
-{"_comment": "2017.10.02 Update","action": {"type": "css-display-none","selector": "table[id='banner_top_center']"},"trigger": {"url-filter": "webtoon.bamtoki.com"}},
-{"_comment": "2017.10.02 Update","action": {"type": "css-display-none","selector": "header[id='header-anchor']"},"trigger": {"url-filter": "wasabisyrup.com"}},
-
-{"_comment": "2017.09.25 Update","action": {"type": "css-display-none","selector": "div[class='tracking']"},"trigger": {"url-filter": "wasabisyrup.com"}},
-{"_comment": "2017.09.25 Update","action": {"type": "css-display-none","selector": "div[class='top-group']"},"trigger": {"url-filter": "wasabisyrup.com"}},
-{"_comment": "2017.09.25 Update","action": {"type": "css-display-none","selector": "div[class='article-gallery-group viewer-hidden']"},"trigger": {"url-filter": "wasabisyrup.com"}},
-{"_comment": "2017.09.25 Update","action": {"type": "css-display-none","selector": "div[class='bottom-group']"},"trigger": {"url-filter": "wasabisyrup.com"}},
-
-
-{"_comment": "2017.09.21 Update","action": {"type": "css-display-none","selector": "div[style='display:inline-block;width:320px;height:100px;max-width:100%;overflow:hidden']"},"trigger": {"url-filter": "wasabisyrup.com"}},
-{"_comment": "2017.09.21 Update","action": {"type": "css-display-none","selector": "div[style='display:inline-block;width:300px;height:250px;max-width:100%;overflow:hidden']"},"trigger": {"url-filter": "wasabisyrup.com"}},
-{"_comment": "2017.09.21 Update","action": {"type": "css-display-none","selector": "div[style='display:inline-block;width:300px;height:250px;max-width:100%;overflow:hidden']"},"trigger": {"url-filter": "wasabisyrup.com"}},
-{"_comment": "2017.09.21 Update","action": {"type": "css-display-none","selector": "div[style='display:inline-block;width:300px;height:250px;max-width:100%;overflow:hidden']"},"trigger": {"url-filter": "wasabisyrup.com"}},
-{"_comment": "2017.09.21 Update","action": {"type": "css-display-none","selector": "div[style='display:inline-block;width:320px;height:100px;max-width:100%;overflow:hidden']"},"trigger": {"url-filter": "wasabisyrup.com"}},
-{"_comment": "2017.09.21 Update","action": {"type": "css-display-none","selector": "div[style='display:inline-block;width:320px;height:100px;max-width:100%;overflow:hidden']"},"trigger": {"url-filter": "wasabisyrup.com"}},
-{"_comment": "2017.09.21 Update","action": {"type": "css-display-none","selector": "div[class='tracking']"},"trigger": {"url-filter": "wasabisyrup.com"}},
-
-
-{"_comment": "2017.09.18 Update","action": {"type": "css-display-none","selector": "div[id='livereAd']"},"trigger": {"url-filter": "sedaily.com"}},
-
-{"_comment": "2017.09.14 Update","action": {"type": "css-display-none","selector": "div[id='dablewidget_goBGqw7e']"},"trigger": {"url-filter": "newsworks.co.kr"}},
-{"_comment": "2017.09.14 Update","action": {"type": "css-display-none","selector": "div[id='adContent']"},"trigger": {"url-filter": "newsworks.co.kr"}},
-{"_comment": "2017.09.14 Update","action": {"type": "css-display-none","selector": "div[id='dablewidget_1XDaJWoe']"},"trigger": {"url-filter": "newsworks.co.kr"}},
-
-
-{"_comment": "2017.09.11 Update","action": {"type": "css-display-none","selector": "div[class='wrap_ad10']"},"trigger": {"url-filter": "fnnews.com"}},
-
-{"_comment": "2017.09.07 Update","action": {"type": "css-display-none","selector": "div[id='floatingWrap_103']"},"trigger": {"url-filter": "o-jjal.com"}},
-
-{"_comment": "2017.09.04 Update","action": {"type": "block"},"trigger": {"url-filter": "corearoadbike.com/data/banner/BN_M_B_C_1504246121706_KmuFn_1sO46_Nh9UP_vPMMK_EGLGr_XfoKu.jpg"}},
-{"_comment": "2017.09.04 Update","action": {"type": "css-display-none","selector": "section[class='container gray-bg b-scroll']"},"trigger": {"url-filter": "adulti01.com"}},
-{"_comment": "2017.09.04 Update","action": {"type": "css-display-none","selector": "div[id='addon-popup-layer']"},"trigger": {"url-filter": "hite888.net"}},
-{"_comment": "2017.09.04 Update","action": {"type": "block"},"trigger": {"url-filter": "anisaja7.com"}},
-
-
-{"_comment": "2017.08.28 Update","action": {"type": "css-display-none","selector": "div[style='display:block;overflow:hidden;width:100%;height:85px;text-align:center;background:#495168;']"},"trigger": {"url-filter": "hungryapp.co.kr"}},
-{"_comment": "2017.08.28 Update","action": {"type": "css-display-none","selector": "div[style='display:block;overflow:hidden;width:100%;height:85px;text-align:center;background:#FFFFFF;']"},"trigger": {"url-filter": "hungryapp.co.kr"}},
-
-{"_comment": "2017.08.21 Update","action": {"type": "css-display-none","selector": "div[style='position:relative; bottom:-5px; width:100%']"},"trigger": {"url-filter": "ksilbo.co.kr"}},
-{"_comment": "2017.08.21 Update","action": {"type": "css-display-none","selector": "div[style='float:right; padding:20px 0 10px 10px; width:200px !important; height:200px !important;']"},"trigger": {"url-filter": "ksilbo.co.kr"}},
-{"_comment": "2017.08.21 Update","action": {"type": "css-display-none","selector": "div[id='dablewidget_QXeGa17e']"},"trigger": {"url-filter": "ksilbo.co.kr"}},
-{"_comment": "2017.08.21 Update","action": {"type": "css-display-none","selector": "ins[class='adsbygoogle']"},"trigger": {"url-filter": "ksilbo.co.kr"}},
-{"_comment": "2017.08.21 Update","action": {"type": "css-display-none","selector": "section[class='advertisment']"},"trigger": {"url-filter": "ksilbo.co.kr"}},
-{"_comment": "2017.08.21 Update","action": {"type": "css-display-none","selector": "div[id='adMall_popup_MF01']"},"trigger": {"url-filter": "ksilbo.co.kr"}},
-{"_comment": "2017.08.21 Update","action": {"type": "css-display-none","selector": "div[id='tjtune_floating_b_pop']"},"trigger": {"url-filter": "ksilbo.co.kr"}},
-
-{"_comment": "2017.08.14 Update","action": {"type": "css-display-none","selector": "body > center > a > img"},"trigger": {"url-filter": "torrentkim10.net"}},
-{"_comment": "2017.08.17 Update","action": {"type": "block"},"trigger": {"url-filter": "m.torrentkim10.net/banner/mobile.jpg"}},
-{"_comment": "2017.08.14 Update","action": {"type": "css-display-none","selector": "div[id='floatingWrap_103']"},"trigger": {"url-filter": "dcinside.com"}},
-
-{"_comment": "2017.08.10 Update","action": {"type": "css-display-none","selector": "iframe[id='ttx_area_1118851301_72']"},"trigger": {"url-filter": "yna.co.kr"}},
-{"_comment": "2017.08.10 Update","action": {"type": "css-display-none","selector": "div[id='mobile_recommand_banner']"},"trigger": {"url-filter": "itworld.co.kr"}},
-
-{"_comment": "2017.08.3 Update","action": {"type": "css-display-none","selector": "div[id='ad50']"},"trigger": {"url-filter": "gukjenews.com"}},
-
-{"_comment": "2017.07.31 Update","action": {"type": "css-display-none","selector": "div[id='SZBCX']"},"trigger": {"url-filter": "0082tv.com"}},
-{"_comment": "2017.07.31 Update","action": {"type": "block"},"trigger": {"url-filter": "www.0082tv.net/userfiles/koreayhadv/P3.jpg"}},
-{"_comment": "2017.07.31 Update","action": {"type": "css-display-none","selector": "div[id='mobile-ad-T1']"},"trigger": {"url-filter": "boroboromi.com"}},
-{"_comment": "2017.07.31 Update","action": {"type": "css-display-none","selector": "div[id='lxdxJyy']"},"trigger": {"url-filter": "boroboromi.com"}},
-
-{"_comment": "2017.07.27 Update","action": {"type": "css-display-none","selector": "div[id='xPkfyHmgq']"},"trigger": {"url-filter": "boroboromi.com"}},
-
-{"_comment": "2017.07.24 Update","action": {"type": "block"},"trigger": {"url-filter": "adpingpong.co.kr"}},
-
-{"_comment": "2017.07.17 Update","action": {"type": "css-display-none","selector": "div[id='left_out']"},"trigger": {"url-filter": "tvnamu.com"}},
-{"_comment": "2017.07.17 Update","action": {"type": "css-display-none","selector": "div[id='right_out']"},"trigger": {"url-filter": "tvnamu.com"}},
-{"_comment": "2017.07.17 Update","action": {"type": "css-display-none","selector": "div[class='each_adv_center']"},"trigger": {"url-filter": "tvnamu.com"}},
-{"_comment": "2017.07.17 Update","action": {"type": "css-display-none","selector": "div[id='load_check_app']"},"trigger": {"url-filter": "tvnamu.com"}},
-
-{"_comment": "2017.07.17 Update","action": {"type": "css-display-none","selector": "div[id='header-ad']"},"trigger": {"url-filter": "kkull.tv"}},
-{"_comment": "2017.07.17 Update","action": {"type": "css-display-none","selector": "div[id='single-pin-below-ad']"},"trigger": {"url-filter": "kkull.tv"}},
-{"_comment": "2017.07.17 Update","action": {"type": "css-display-none","selector": "div[class='banner_btm_mobile']"},"trigger": {"url-filter": "avdbs.com"}},
-
-{"_comment": "2017.07.13 Update","action": {"type": "css-display-none","selector": "div[class='st_ad_center']"},"trigger": {"url-filter": "sposay.com"}},
-{"_comment": "2017.07.13 Update","action": {"type": "css-display-none","selector": "div[class='ss_ad_center']"},"trigger": {"url-filter": "sposay.com"}},
-{"_comment": "2017.07.13 Update","action": {"type": "css-display-none","selector": "div[class='mbanner']"},"trigger": {"url-filter": "sposay.com"}},
-{"_comment": "2017.07.13 Update","action": {"type": "css-display-none","selector": "div[class='adslot_5-container']"},"trigger": {"url-filter": "eposting.co.kr"}},
-
-{"_comment": "2017.07.12 Update","action": {"type": "css-display-none","selector": "div[id='afuera']"},"trigger": {"url-filter": "ruliweb.com"}},
 
 {"_comment": "End","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}}
   ]
