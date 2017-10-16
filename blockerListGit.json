@@ -1,7 +1,9 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
-{"_comment": "2017.10.09 Update","action": {"type": "block"},"trigger": {"url-filter": "toonipang1.com/img/banner/*"}},
+{"_comment": "2017.10.16 Update","action": {"type": "block"},"trigger": {"url-filter": "ad.tomatos.co.kr"}},
+
+{"_comment": "2017.10.12 Update","action": {"type": "block"},"trigger": {"url-filter": "toonipang1.com/img/banner/*"}},
 {"_comment": "2017.10.12 Update","action": {"type": "css-display-none","selector": "div[class='top_pos']"},"trigger": {"url-filter": "myreadingmanga.info"}},
 {"_comment": "2017.10.12 Update","action": {"type": "css-display-none","selector": "section[id='about']"},"trigger": {"url-filter": "adulti03.com"}},
 
