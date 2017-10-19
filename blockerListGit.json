@@ -1,6 +1,8 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.10.19 Update","action": {"type": "css-display-none","selector": "div[class='power_link_area']"},"trigger": {"url-filter": "wemakeprice.com"}},
+
 {"_comment": "2017.10.16 Update","action": {"type": "block"},"trigger": {"url-filter": "ad.tomatos.co.kr"}},
 
 {"_comment": "2017.10.12 Update","action": {"type": "block"},"trigger": {"url-filter": "toonipang1.com/img/banner/*"}},
