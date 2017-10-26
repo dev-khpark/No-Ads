@@ -1,6 +1,8 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.10.26 Update","action": {"type": "css-display-none","selector": "div[id='view_bottom_ad']"},"trigger": {"url-filter": "ygosu.com"}},
+
 {"_comment": "2017.10.23 Update","action": {"type": "css-display-none","selector": "div[id='floatingWrap_103']"},"trigger": {"url-filter": "unnya.com"}},
 {"_comment": "2017.10.23 Update","action": {"type": "css-display-none","selector": "div[id='_popIn_recommend_footer']"},"trigger": {"url-filter": "unnya.com"}},
 {"_comment": "2017.10.23 Update","action": {"type": "css-display-none","selector": "div[id='_popIn_recommend_up']"},"trigger": {"url-filter": "unnya.com"}},
