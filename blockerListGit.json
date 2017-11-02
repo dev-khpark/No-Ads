@@ -1,6 +1,8 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.11.02 Update","action": {"type": "css-display-none","selector": "div[id='ff_banner_wrap']"},"trigger": {"url-filter": "asiatoday.co.kr"}},
+
 {"_comment": "2017.10.30 Update","action": {"type": "css-display-none","selector": "div[id='bt_adop_area']"},"trigger": {"url-filter": "kpinews.co.kr"}},
 {"_comment": "2017.10.30 Update","action": {"type": "css-display-none","selector": "section[id='about']"},"trigger": {"url-filter": "adulti01.com"}},
 
