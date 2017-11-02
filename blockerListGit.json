@@ -5,8 +5,8 @@
 {"_comment": "2017.11.02 Update","action": {"type": "css-display-none","selector": "div[class='adrrr ad_300_608']"},"trigger": {"url-filter": "ruliweb.com"}},
 {"_comment": "2017.11.02 Update","action": {"type": "css-display-none","selector": "div[class='adrrr ad_300_250']"},"trigger": {"url-filter": "ruliweb.com"}},
 {"_comment": "2017.11.02 Update","action": {"type": "css-display-none","selector": "div[class='adrrr ad_1150_90']"},"trigger": {"url-filter": "ruliweb.com"}},
-{"_comment": "2017.11.02 Update","action": {"type": "css-display-none","selector": "div[class='adrrr ad_*']"},"trigger": {"url-filter": "ruliweb.com"}},
-{"_comment": "2017.11.02 Update","action": {"type": "css-display-none","selector": "div[id='ad_board_*']"},"trigger": {"url-filter": "ruliweb.com"}},
+{"_comment": "2017.11.02 Update","action": {"type": "css-display-none","selector": "div[class*='adrrr ad_']"},"trigger": {"url-filter": "ruliweb.com"}},
+{"_comment": "2017.11.02 Update","action": {"type": "css-display-none","selector": "div[id*='ad_board*']"},"trigger": {"url-filter": "ruliweb.com"}},
 
 {"_comment": "2017.11.02 Update","action": {"type": "css-display-none","selector": "div[id='ff_banner_wrap']"},"trigger": {"url-filter": "asiatoday.co.kr"}},
 
