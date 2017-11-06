@@ -1,6 +1,18 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.11.06 Update","action": {"type": "css-display-none","selector": "aside[class='sidebar sidebar-primary widget-area']"},"trigger": {"url-filter": "ppss.kr"}},
+{"_comment": "2017.11.06 Update","action": {"type": "css-display-none","selector": "div[class='hank-fixed-banner']"},"trigger": {"url-filter": "ppss.kr"}},
+
+{"_comment": "2017.11.06 Update","action": {"type": "css-display-none","selector": "iframe[src='http://www.issuein.com/da.html']"},"trigger": {"url-filter": "issuein.com"}},
+
+{"_comment": "2017.11.06 Update","action": {"type": "css-display-none","selector": "div[style='padding:10px 0;overflow:hidden;']"},"trigger": {"url-filter": "koreanz.com.au"}},
+{"_comment": "2017.11.06 Update","action": {"type": "css-display-none","selector": "div[style='float:left;width:100%;max-width:600px;height:90px;']"},"trigger": {"url-filter": "koreanz.com.au"}},
+
+{"_comment": "2017.11.06 Update","action": {"type": "css-display-none","selector": "div[id='ad_sticky_footer']"},"trigger": {"url-filter": "ilbe.com"}},
+{"_comment": "2017.11.06 Update","action": {"type": "css-display-none","selector": "div[id='bannaerMainlay']"},"trigger": {"url-filter": "ilbe.com"}},
+{"_comment": "2017.11.06 Update","action": {"type": "css-display-none","selector": "div[id='bannaerMainlay2']"},"trigger": {"url-filter": "ilbe.com"}},
+
 {"_comment": "2017.11.02 Update","action": {"type": "css-display-none","selector": "div[class='adrrr ad_1160_91']"},"trigger": {"url-filter": "ruliweb.com"}},
 {"_comment": "2017.11.02 Update","action": {"type": "css-display-none","selector": "div[class='adrrr ad_300_608']"},"trigger": {"url-filter": "ruliweb.com"}},
 {"_comment": "2017.11.02 Update","action": {"type": "css-display-none","selector": "div[class='adrrr ad_300_250']"},"trigger": {"url-filter": "ruliweb.com"}},
