@@ -1,6 +1,8 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.11.09 Update","action": {"type": "css-display-none","selector": "div[id='adpost']"},"trigger": {"url-filter": "fmkorea.com"}},
+
 {"_comment": "2017.11.06 Update","action": {"type": "css-display-none","selector": "aside[class='sidebar sidebar-primary widget-area']"},"trigger": {"url-filter": "ppss.kr"}},
 {"_comment": "2017.11.06 Update","action": {"type": "css-display-none","selector": "div[class='hank-fixed-banner']"},"trigger": {"url-filter": "ppss.kr"}},
 
