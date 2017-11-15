@@ -1,9 +1,6 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
-{"_comment": "2017.11.16 Update","action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["daumdn.com"]}},
-{"_comment": "2017.11.16 Update","action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["daumcdn.net"]}},
-
 {"_comment": "2017.11.13 Update","action": {"type": "css-display-none","selector": "div[class='col-md-12 mobile-banner']"},"trigger": {"url-filter": "toonimoa.com"}},
 {"_comment": "2017.11.13 Update","action": {"type": "css-display-none","selector": "div[class='each_adv_center']"},"trigger": {"url-filter": "anidas.co"}},
 
