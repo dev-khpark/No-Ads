@@ -11,7 +11,6 @@
 
 {"_comment": "2017.11.06 Update","action": {"type": "css-display-none","selector": "aside[class='sidebar sidebar-primary widget-area']"},"trigger": {"url-filter": "ppss.kr"}},
 {"_comment": "2017.11.06 Update","action": {"type": "css-display-none","selector": "div[class='hank-fixed-banner']"},"trigger": {"url-filter": "ppss.kr"}},
-
 {"_comment": "2017.11.06 Update","action": {"type": "css-display-none","selector": "iframe[src='http://www.issuein.com/da.html']"},"trigger": {"url-filter": "issuein.com"}},
 
 {"_comment": "2017.11.06 Update","action": {"type": "css-display-none","selector": "div[style='padding:10px 0;overflow:hidden;']"},"trigger": {"url-filter": "koreanz.com.au"}},
