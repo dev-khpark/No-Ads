@@ -1,6 +1,9 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.11.27 Update","action": {"type": "css-display-none","selector": "div[class='_popIn_recommend_container']"},"trigger": {"url-filter": "dcinside.com"}},
+{"_comment": "2017.11.27 Update","action": {"type": "css-display-none","selector": "div[class='adpost adpost_m m']"},"trigger": {"url-filter": "fmkorea.com"}},
+
 {"_comment": "2017.11.20 Update","action": {"type": "css-display-none","selector": "div[id='adpost adpost_m m']"},"trigger": {"url-filter": "fmkorea.com"}},
 {"_comment": "2017.11.20 Update","action": {"type": "css-display-none","selector": "div[id='foin_00NU']"},"trigger": {"url-filter": "sisunnews.co.kr"}},
 {"_comment": "2017.11.20 Update","action": {"type": "css-display-none","selector": "div[id='mobile_top_banner']"},"trigger": {"url-filter": "dvdprime.com"}},
