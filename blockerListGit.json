@@ -1,6 +1,15 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+
+{"_comment": "2017.12.04 Update","action": {"type": "css-display-none","selector": "div[id='_popIn_recommend_footer']"},"trigger": {"url-filter": "pickis.co.kr"}},
+{"_comment": "2017.12.04 Update","action": {"type": "css-display-none","selector": "div[id*='floatingWrap_']"},"trigger": {"url-filter": "pickis.co.kr"}},
+{"_comment": "2017.12.04 Update","action": {"type": "css-display-none","selector": "iframe[src*='http://zone5.adpopcon.com']"},"trigger": {"url-filter": "whitepaper.co.kr"}},
+{"_comment": "2017.12.04 Update","action": {"type": "css-display-none","selector": "div[id='Cpg145394691ekrnh']"},"trigger": {"url-filter": "ggmee.com"}},
+{"_comment": "2017.12.04 Update","action": {"type": "css-display-none","selector": "div[id='k-top']"},"trigger": {"url-filter": "ggmee.com"}},
+{"_comment": "2017.12.04 Update","action": {"type": "css-display-none","selector": "div[id='320_50_ad']"},"trigger": {"url-filter": "etoday.co.kr"}},
+{"_comment": "2017.12.04 Update","action": {"type": "css-display-none","selector": "div[class*='adpost']"},"trigger": {"url-filter": "fmkorea.com"}},
+
 {"_comment": "2017.11.27 Update","action": {"type": "css-display-none","selector": "div[class='_popIn_recommend_container']"},"trigger": {"url-filter": "dcinside.com"}},
 {"_comment": "2017.11.27 Update","action": {"type": "css-display-none","selector": "div[class='adpost adpost_m m']"},"trigger": {"url-filter": "fmkorea.com"}},
 
