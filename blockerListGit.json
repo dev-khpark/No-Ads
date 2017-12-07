@@ -1,6 +1,9 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.12.04 Update","action": {"type": "css-display-none","selector": "div[id *='floatingWrap']"},"trigger": {"url-filter": "wikitree.co.kr"}},
+{"_comment": "2017.12. 04 Update","action": {"type": "block"},"trigger": {"url-filter": "lovelala.cn"}},
+{"_comment": "2017.12.04 Update","action": {"type": "css-display-none","selector": "div[id='div5601']"},"trigger": {"url-filter": "pickis.co.kr"}},
 
 {"_comment": "2017.12.04 Update","action": {"type": "css-display-none","selector": "div[id='_popIn_recommend_footer']"},"trigger": {"url-filter": "pickis.co.kr"}},
 {"_comment": "2017.12.04 Update","action": {"type": "css-display-none","selector": "div[id*='floatingWrap_']"},"trigger": {"url-filter": "pickis.co.kr"}},
