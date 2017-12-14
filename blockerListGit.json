@@ -1,6 +1,13 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.12.14 Update","action": {"type": "css-display-none","selector": "ins[class *='ads']"},"trigger": {"url-filter": "newsinside.kr"}},
+{"_comment": "2017.12.14 Update","action": {"type": "css-display-none","selector": "ins[id *='aswift']"},"trigger": {"url-filter": "newsinside.kr"}},
+
+{"_comment": "2017.12.14 Update","action": {"type": "css-display-none","selector": "div[class *='ad']"},"trigger": {"url-filter": "wikitree.co.kr"}},
+{"_comment": "2017.12.14 Update","action": {"type": "css-display-none","selector": "div[id ='contBanner']"},"trigger": {"url-filter": "wikitree.co.kr"}},
+{"_comment": "2017.12.14 Update","action": {"type": "css-display-none","selector": "div[id ='contentMidBanner']"},"trigger": {"url-filter": "wikitree.co.kr"}},
+
 {"_comment": "2017.12.11 Update","action": {"type": "css-display-none","selector": "div[class='post_naver']"},"trigger": {"url-filter": "clien.net"}},
 {"_comment": "2017.12.11 Update","action": {"type": "css-display-none","selector": "div[class='main_top_ad']"},"trigger": {"url-filter": "clien.net"}},
 {"_comment": "2017.12.11 Update","action": {"type": "css-display-none","selector": "div[class='main_center_ad']"},"trigger": {"url-filter": "clien.net"}},
