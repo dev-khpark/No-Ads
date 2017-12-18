@@ -1,6 +1,10 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.12. 18 Update","action": {"type": "block"},"trigger": {"url-filter": "dispatch.cdnserbe.net/ad*"}},
+{"_comment": "2017.12. 18 Update","action": {"type": "block"},"trigger": {"url-filter": "dispatch.cdnserbe.be/ad*"}},
+{"_comment": "2017.12.18 Update","action": {"type": "css-display-none","selector": "div[id ='dp-bottom-fixed-ad']"},"trigger": {"url-filter": "dispatch.co.kr"}},
+
 {"_comment": "2017.12.14 Update","action": {"type": "css-display-none","selector": "ins[class *='ads']"},"trigger": {"url-filter": "newsinside.kr"}},
 {"_comment": "2017.12.14 Update","action": {"type": "css-display-none","selector": "ins[id *='aswift']"},"trigger": {"url-filter": "newsinside.kr"}},
 
