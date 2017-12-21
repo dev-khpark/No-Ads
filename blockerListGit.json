@@ -1,6 +1,11 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.12.21 Update","action": {"type": "css-display-none","selector": "div[id ='minor_list_top']"},"trigger": {"url-filter": "dcinside.com"}},
+{"_comment": "2017.12.21 Update","action": {"type": "css-display-none","selector": "div[style ='margin-top:10px;margin-bottom:10px;padding-bottom:0px;text-align:center;height:250px;']"},"trigger": {"url-filter": "dcinside.com"}},
+
+{"_comment": "2017.12.21 Update","action": {"type": "css-display-none","selector": "div[id ='mnbDownBanner']"},"trigger": {"url-filter": "esquirekorea.co.kr"}},
+
 {"_comment": "2017.12. 18 Update","action": {"type": "block"},"trigger": {"url-filter": "dispatch.cdnserbe.net/ad*"}},
 {"_comment": "2017.12. 18 Update","action": {"type": "block"},"trigger": {"url-filter": "dispatch.cdnserbe.be/ad*"}},
 {"_comment": "2017.12.18 Update","action": {"type": "css-display-none","selector": "div[id ='dp-bottom-fixed-ad']"},"trigger": {"url-filter": "dispatch.co.kr"}},
