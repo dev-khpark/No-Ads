@@ -1,6 +1,8 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.12.25 Update","action": {"type": "css-display-none","selector": "div[id ='daum_ad_banner']"},"trigger": {"url-filter": "pandora.tv"}},
+
 {"_comment": "2017.12.21 Update","action": {"type": "css-display-none","selector": "div[id ='minor_list_top']"},"trigger": {"url-filter": "dcinside.com"}},
 {"_comment": "2017.12.21 Update","action": {"type": "css-display-none","selector": "div[style ='margin-top:10px;margin-bottom:10px;padding-bottom:0px;text-align:center;height:250px;']"},"trigger": {"url-filter": "dcinside.com"}},
 
