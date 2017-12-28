@@ -1,8 +1,9 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2017.12. 28 Update","action": {"type": "block"},"trigger": {"url-filter": "newspic.kr/rss/content/*"}},
 {"_comment": "2017.12.28 Update","action": {"type": "css-display-none","selector": "iframe[src ='newspic.kr/rss/content/etobang.html']"},"trigger": {"url-filter": "etorrent.co.kr"}},
-{"_comment": "2017.12.28 Update","action": {"type": "css-display-none","selector": "iframe[src *='etorrent.co.kr/etoad']"},"trigger": {"url-filter": "etorrent.co.kr"}},
+{"_comment": "2017.12.28 Update","action": {"type": "css-display-none","selector": "iframe[src ='etorrent.co.kr/etoad*']"},"trigger": {"url-filter": "etorrent.co.kr"}},
 {"_comment": "2017.12.28 Update","action": {"type": "css-display-none","selector": "iframe[name ='300_250']"},"trigger": {"url-filter": "etorrent.co.kr"}},
 
 {"_comment": "2017.12.25 Update","action": {"type": "css-display-none","selector": "div[id ='daum_ad_banner']"},"trigger": {"url-filter": "pandora.tv"}},
