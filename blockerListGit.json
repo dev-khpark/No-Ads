@@ -1,6 +1,10 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.01.01 Update","action": {"type": "css-display-none","selector": "div[id ='text_size']"},"trigger": {"url-filter": "tomovie.net"}},
+{"_comment": "2018.01.01 Update","action": {"type": "css-display-none","selector": "div[class *='popup_layer_']"},"trigger": {"url-filter": "pandora.tv"}},
+{"_comment": "2018.01.01 Update","action": {"type": "css-display-none","selector": "div[style ='overflow:hidden; width:100%; height:40px; position: fixed; bottom:0; padding:0; z-index:999;']"},"trigger": {"url-filter": "pandora.tv"}},
+
 {"_comment": "2017.12. 28 Update","action": {"type": "block"},"trigger": {"url-filter": "newspic.kr/rss/content/*"}},
 {"_comment": "2017.12.28 Update","action": {"type": "css-display-none","selector": "iframe[src ='newspic.kr/rss/content/etobang.html']"},"trigger": {"url-filter": "etorrent.co.kr"}},
 {"_comment": "2017.12.28 Update","action": {"type": "css-display-none","selector": "iframe[src ='etorrent.co.kr/etoad*']"},"trigger": {"url-filter": "etorrent.co.kr"}},
