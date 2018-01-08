@@ -1,6 +1,8 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.01.08 Update","action": {"type": "css-display-none","selector": "div[class ='col-md-12 mobile-banner']"},"trigger": {"url-filter": "toonkor.com"}},
+
 {"_comment": "2018.01.07 Update","action": {"type": "css-display-none","selector": "div[style ='background:#fff; margin:10px; border:1px #000 solid; padding:1px;']"},"trigger": {"url-filter": "ttocorps.com"}},
 
 {"_comment": "2018.01.01 Update","action": {"type": "css-display-none","selector": "div[id ='text_size']"},"trigger": {"url-filter": "tomovie.net"}},
