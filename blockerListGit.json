@@ -1,6 +1,9 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.01.11 Update","action": {"type": "css-display-none","selector": "div[class ='td-a-rec td-a-rec-id-custom_ad_5  ']"},"trigger": {"url-filter": "tivico.net"}},
+{"_comment": "2018.01.11 Update","action": {"type": "css-display-none","selector": "div[class ='td-a-rec td-a-rec-id-custom_ad_3  td-rec-hide-on-tl td-rec-hide-on-tp ']"},"trigger": {"url-filter": "tivico.net"}},
+
 {"_comment": "2018.01.08 Update","action": {"type": "css-display-none","selector": "div[class ='col-md-12 mobile-banner']"},"trigger": {"url-filter": "toonkor.com"}},
 
 {"_comment": "2018.01.07 Update","action": {"type": "css-display-none","selector": "div[style ='background:#fff; margin:10px; border:1px #000 solid; padding:1px;']"},"trigger": {"url-filter": "ttocorps.com"}},
