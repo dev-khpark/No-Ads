@@ -1,6 +1,8 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "Check!! 2018.01.15 Update","action": {"type": "css-display-none","selector": "#mw_mobile_head3 > iframe"},"trigger": {"url-filter": "etorrent.co.kr"}},
+
 {"_comment": "2018.01.11 Update","action": {"type": "css-display-none","selector": "div[class ='td-a-rec td-a-rec-id-custom_ad_5  ']"},"trigger": {"url-filter": "tivico.net"}},
 {"_comment": "2018.01.11 Update","action": {"type": "css-display-none","selector": "div[class ='td-a-rec td-a-rec-id-custom_ad_3  td-rec-hide-on-tl td-rec-hide-on-tp ']"},"trigger": {"url-filter": "tivico.net"}},
 
