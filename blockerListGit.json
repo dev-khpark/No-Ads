@@ -1,6 +1,11 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.01.22 Update","action": {"type": "css-display-none","selector": "#dpArticleBlocksWrapper > div:nth-child(2) > div.delimiter-margin-top.bg-panel.adArea"},"trigger": {"url-filter": "dispatch.co.kr"}},
+{"_comment": "2018.01.22 Update","action": {"type": "css-display-none","selector": "#dpArticleBlocksWrapper > div:nth-child(1) > div:nth-child(3)"},"trigger": {"url-filter": "dispatch.co.kr"}},
+{"_comment": "2018.01.22 Update","action": {"type": "css-display-none","selector": "#AD_LIVE_AREA_21544480"},"trigger": {"url-filter": "dispatch.co.kr"}},
+{"_comment": "2018.01.22 Update","action": {"type": "css-display-none","selector": "body > div.content-wrapper > div > section > header > div.abc.abchttpsdispatchcdnserbewpcontentuploads20180120180122110351pagejpg0"},"trigger": {"url-filter": "dispatch.co.kr"}},
+
 {"_comment": "2018.01.19 Update","action": {"type": "css-display-none","selector": "div[class ='banner_area']"},"trigger": {"url-filter": "fomos.kr"}},
 
 {"_comment": "Check!! 2018.01.15 Update","action": {"type": "css-display-none","selector": "#mw_mobile_head3 > iframe"},"trigger": {"url-filter": "etorrent.co.kr"}},
