@@ -1,6 +1,8 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.01.25 Update","action": {"type": "css-display-none","selector": "#mw_mobile > div:nth-child(19)"},"trigger": {"url-filter": "etorrent.co.kr"}},
+
 {"_comment": "2018.01.22 Update","action": {"type": "css-display-none","selector": "#dpArticleBlocksWrapper > div:nth-child(2) > div.delimiter-margin-top.bg-panel.adArea"},"trigger": {"url-filter": "dispatch.co.kr"}},
 {"_comment": "2018.01.22 Update","action": {"type": "css-display-none","selector": "#dpArticleBlocksWrapper > div:nth-child(1) > div:nth-child(3)"},"trigger": {"url-filter": "dispatch.co.kr"}},
 {"_comment": "2018.01.22 Update","action": {"type": "css-display-none","selector": "#AD_LIVE_AREA_21544480"},"trigger": {"url-filter": "dispatch.co.kr"}},
