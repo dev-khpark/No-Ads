@@ -1,6 +1,16 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.01.29 Update","action": {"type": "css-display-none","selector": "body > div.list_bottom_ad"},"trigger": {"url-filter": "clien.net"}},
+
+{"_comment": "2018.01.29 Update","action": {"type": "css-display-none","selector": "#realssp_hardopen00003_10359"},"trigger": {"url-filter": "issueopen.com"}},
+{"_comment": "2018.01.29 Update","action": {"type": "css-display-none","selector": "#hd_wrapper > center:nth-child(5)"},"trigger": {"url-filter": "issueopen.com"}},
+{"_comment": "2018.01.29 Update","action": {"type": "css-display-none","selector": "#hd_wrapper > center:nth-child(8)"},"trigger": {"url-filter": "issueopen.com"}},
+{"_comment": "2018.01.29 Update","action": {"type": "css-display-none","selector": "#hd_wrapper > center:nth-child(11)"},"trigger": {"url-filter": "issueopen.com"}},
+{"_comment": "2018.01.29 Update","action": {"type": "css-display-none","selector": "#hd_wrapper > center:nth-child(14)"},"trigger": {"url-filter": "issueopen.com"}},
+{"_comment": "2018.01.29 Update","action": {"type": "css-display-none","selector": "#hd_wrapper > center:nth-child(19)"},"trigger": {"url-filter": "issueopen.com"}},
+{"_comment": "2018.01.29 Update","action": {"type": "css-display-none","selector": "#hd_wrapper > center:nth-child(21)"},"trigger": {"url-filter": "issueopen.com"}},
+
 {"_comment": "2018.01.25 Update","action": {"type": "css-display-none","selector": "#mw_mobile > div:nth-child(19)"},"trigger": {"url-filter": "etorrent.co.kr"}},
 
 {"_comment": "2018.01.22 Update","action": {"type": "css-display-none","selector": "#dpArticleBlocksWrapper > div:nth-child(2) > div.delimiter-margin-top.bg-panel.adArea"},"trigger": {"url-filter": "dispatch.co.kr"}},
