@@ -1,6 +1,8 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.02.08 Update","action": {"type": "css-display-none","selector": "#main > div:nth-child(3) > div"},"trigger": {"url-filter": "wasabisyrup.com"}},
+
 {"_comment": "2018.02.05 Update","action": {"type": "block"},"trigger": {"url-filter": "webtoon.bamtoki.com/assets/banner/*"}},
 
 {"_comment": "2018.01.29 Update","action": {"type": "css-display-none","selector": "body > div.list_bottom_ad"},"trigger": {"url-filter": "clien.net"}},
