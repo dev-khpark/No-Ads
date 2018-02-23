@@ -1,6 +1,8 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.02.23 Update","action": {"type": "css-display-none","selector": "#tabs-container"},"trigger": {"url-filter": "ppomppu.co.kr"}},
+
 {"_comment": "2018.02.19 Update","action": {"type": "css-display-none","selector": "#thema_wrapper > div > div > div > div.view-wrap > div > div.bn.bnt"},"trigger": {"url-filter": "toonkor.com"}},
 {"_comment": "2018.02.19 Update","action": {"type": "css-display-none","selector": "#thema_wrapper > div > div > div > div.view-wrap > div > a"},"trigger": {"url-filter": "toonkor.com"}},
 {"_comment": "2018.02.19 Update","action": {"type": "css-display-none","selector": "#bo_list > div.clearfix"},"trigger": {"url-filter": "toonkor.com"}},
