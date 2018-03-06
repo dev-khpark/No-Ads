@@ -1,6 +1,25 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.03.06 Update","action": {"type": "css-display-none","selector": "#_popIn_recommend_down"},"trigger": {"url-filter": "gukjenews.com"}},
+
+{"_comment": "2018.03.06 Update","action": {"type": "css-display-none","selector": "#_2BEONEY4LLLLFLAYER"},"trigger": {"url-filter": "mediatoday.co.kr"}},
+{"_comment": "2018.03.06 Update","action": {"type": "css-display-none","selector": "#s3dpop_container_divID01"},"trigger": {"url-filter": "mediatoday.co.kr"}},
+
+{"_comment": "2018.03.06 Update","action": {"type": "css-display-none","selector": "#ncad1"},"trigger": {"url-filter": "bestfeed.co.kr"}},
+
+{"_comment": "2018.03.06 Update","action": {"type": "css-display-none","selector": "#recent-manga > center:nth-child(9)"},"trigger": {"url-filter": "zangsisi.net"}},
+{"_comment": "2018.03.06 Update","action": {"type": "css-display-none","selector": "#recent-manga > center:nth-child(11)"},"trigger": {"url-filter": "zangsisi.net"}},
+
+{"_comment": "2018.03.06 Update","action": {"type": "css-display-none","selector": "#dkWrap > div.upf"},"trigger": {"url-filter": "zmdzmd.net"}},
+
+{"_comment": "2018.03.06 Update","action": {"type": "css-display-none","selector": "#_popIn_recommend_down"},"trigger": {"url-filter": "unnya.com"}},
+{"_comment": "2018.03.06 Update","action": {"type": "css-display-none","selector": "#_2BEONTT6LLLLFLAYER"},"trigger": {"url-filter": "unnya.com"}},
+
+{"_comment": "2018.03.06 Update","action": {"type": "css-display-none","selector": "body > div.pubg.pubg--player > section > div.ads--top"},"trigger": {"url-filter": "pubg.op.gg"}},
+{"_comment": "2018.03.06 Update","action": {"type": "css-display-none","selector": "body > div.vm-footer"},"trigger": {"url-filter": "pubg.op.gg"}},
+{"_comment": "2018.03.06 Update","action": {"type": "css-display-none","selector": "body > div.pubg.pubg--player > section > div.ads--bottom"},"trigger": {"url-filter": "pubg.op.gg"}},
+
 {"_comment": "2018.02.23 Update","action": {"type": "css-display-none","selector": "#tabs-container"},"trigger": {"url-filter": "ppomppu.co.kr"}},
 {"_comment": "2018.02.23 Update","action": {"type": "css-display-none","selector": "#_2BEON6B4LLLLFLAYER"},"trigger": {"url-filter": "sports.khan.co.kr"}},
 
