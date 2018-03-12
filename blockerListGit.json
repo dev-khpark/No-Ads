@@ -1,6 +1,10 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.03.12 Update","action": {"type": "css-display-none","selector": "#wrap > div.bottom-controller"},"trigger": {"url-filter": "tvchosun.com"}},
+{"_comment": "2018.03.12 Update","action": {"type": "css-display-none","selector": "#recent-manga > center"},"trigger": {"url-filter": "zangsisi.net"}},
+{"_comment": "2018.03.12 Update","action": {"type": "css-display-none","selector": "#recent-manga > center:nth-child(8)"},"trigger": {"url-filter": "zangsisi.net"}},
+
 {"_comment": "2018.03.06 Update","action": {"type": "css-display-none","selector": "#_popIn_recommend_down"},"trigger": {"url-filter": "gukjenews.com"}},
 
 {"_comment": "2018.03.06 Update","action": {"type": "css-display-none","selector": "#_2BEONEY4LLLLFLAYER"},"trigger": {"url-filter": "mediatoday.co.kr"}},
