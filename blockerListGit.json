@@ -1,6 +1,9 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.03.15 Update","action": {"type": "css-display-none","selector": "body > div:nth-child(10)"},"trigger": {"url-filter": "issuebbang.simboard.kr"}},
+{"_comment": "2018.03.15 Update","action": {"type": "css-display-none","selector": "body > div.mo_banner_top"},"trigger": {"url-filter": "fun.star-post.com"}},
+
 {"_comment": "2018.03.12 Update","action": {"type": "css-display-none","selector": "#wrap > div.bottom-controller"},"trigger": {"url-filter": "tvchosun.com"}},
 {"_comment": "2018.03.12 Update","action": {"type": "css-display-none","selector": "#recent-manga > center"},"trigger": {"url-filter": "zangsisi.net"}},
 {"_comment": "2018.03.12 Update","action": {"type": "css-display-none","selector": "#recent-manga > center:nth-child(8)"},"trigger": {"url-filter": "zangsisi.net"}},
