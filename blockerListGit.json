@@ -1,6 +1,8 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.03.19 Update","action": {"type": "css-display-none","selector": "#mw_mobile > div:nth-child(19)"},"trigger": {"url-filter": "etorrent.co.kr"}},
+
 {"_comment": "2018.03.15 Update","action": {"type": "css-display-none","selector": "body > div:nth-child(10)"},"trigger": {"url-filter": "issuebbang.simboard.kr"}},
 {"_comment": "2018.03.15 Update","action": {"type": "css-display-none","selector": "body > div.mo_banner_top"},"trigger": {"url-filter": "fun.star-post.com"}},
 
