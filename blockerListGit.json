@@ -1,6 +1,10 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.03.26 Update","action": {"type": "css-display-none","selector": "#tt-body-page > div.container > div > div.card.clearfix > article > div.article.clearfix > div:nth-child(12)"},"trigger": {"url-filter": "macguyver.kr"}},
+{"_comment": "2018.03.26 Update","action": {"type": "css-display-none","selector": "#_2BEONWX4LLLLFLAYER"},"trigger": {"url-filter": "mbn.co.kr"}},
+{"_comment": "2018.03.26 Update","action": {"type": "css-display-none","selector": "#_2BEONGU6LLLLFLAYER"},"trigger": {"url-filter": "sisunnews.co.kr"}},
+
 {"_comment": "2018.03.19 Update","action": {"type": "css-display-none","selector": "#mw_mobile > div:nth-child(19)"},"trigger": {"url-filter": "etorrent.co.kr"}},
 
 {"_comment": "2018.03.15 Update","action": {"type": "css-display-none","selector": "body > div:nth-child(10)"},"trigger": {"url-filter": "issuebbang.simboard.kr"}},
