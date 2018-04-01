@@ -1,6 +1,9 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.04.02 Update","action": {"type": "css-display-none","selector": "#_2BEONQJ6LLLLFLAYER"},"trigger": {"url-filter": "spotvnews.co.kr"}},
+{"_comment": "2018.04.02 Update","action": {"type": "css-display-none","selector": "#ad_09"},"trigger": {"url-filter": "star.mt.co.kr"}},
+
 {"_comment": "2018.03.26 Update","action": {"type": "css-display-none","selector": "#tt-body-page > div.container > div > div.card.clearfix > article > div.article.clearfix > div:nth-child(12)"},"trigger": {"url-filter": "macguyver.kr"}},
 {"_comment": "2018.03.26 Update","action": {"type": "css-display-none","selector": "#_2BEONWX4LLLLFLAYER"},"trigger": {"url-filter": "mbn.co.kr"}},
 {"_comment": "2018.03.26 Update","action": {"type": "css-display-none","selector": "#_2BEONGU6LLLLFLAYER"},"trigger": {"url-filter": "sisunnews.co.kr"}},
