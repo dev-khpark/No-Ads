@@ -4,9 +4,17 @@
 {"_comment": "2018.04.09 Update","action": {"type": "css-display-none","selector": "#SideBarToggleElement > div.layout__content > div > div.life-owner.LifeOwnerGlobal320"},"trigger": {"url-filter": "og.gg"}},
 {"_comment": "2018.04.09 Update","action": {"type": "css-display-none","selector": "body > div.vm-footer"},"trigger": {"url-filter": "og.gg"}},
 {"_comment": "2018.04.09 Update","action": {"type": "css-display-none","selector": "#_MM_WRAP_nmap_news_2"},"trigger": {"url-filter": "naver.com"}},
+{"_comment": "2018.04.09 Update","action": {"type": "css-display-none","selector": "#_MM_WRAP_nmap_sports_1"},"trigger": {"url-filter": "naver.com"}},
+{"_comment": "2018.04.09 Update","action": {"type": "css-display-none","selector": "#_MM_WRAP_nmap_sports_2"},"trigger": {"url-filter": "naver.com"}},
+{"_comment": "2018.04.09 Update","action": {"type": "css-display-none","selector": "#_MM_WRAP_nmap_ent_1"},"trigger": {"url-filter": "naver.com"}},
+{"_comment": "2018.04.09 Update","action": {"type": "css-display-none","selector": "#_MM_WRAP_nmap_ent_2"},"trigger": {"url-filter": "naver.com"}},
+{"_comment": "2018.04.09 Update","action": {"type": "css-display-none","selector": "#_MM_WRAP_nmap_sports_1"},"trigger": {"url-filter": "naver.com"}},
+{"_comment": "2018.04.09 Update","action": {"type": "css-display-none","selector": "#_MM_WRAP_nmap_sports_2"},"trigger": {"url-filter": "naver.com"}},
+{"_comment": "2018.01.19 Update","action": {"type": "css-display-none","selector": "div[data-info ='adBanner/-/-']"},"trigger": {"url-filter": "naver.com"}},
 
-{"_comment": "2018.04.03 Update","action": {"type": "css-display-none","selector": " #_MM_WRAP_nmap_news_1"},"trigger": {"url-filter": "naver.com"}},
-{"_comment": "2018.04.03 Update","action": {"type": "css-display-none","selector": " #main_news_specialda_1"},"trigger": {"url-filter": "naver.com"}},
+
+{"_comment": "2018.04.03 Update","action": {"type": "css-display-none","selector": "#_MM_WRAP_nmap_news_1"},"trigger": {"url-filter": "naver.com"}},
+{"_comment": "2018.04.03 Update","action": {"type": "css-display-none","selector": "#main_news_specialda_1"},"trigger": {"url-filter": "naver.com"}},
 
 {"_comment": "2018.04.02 Update","action": {"type": "css-display-none","selector": "#_2BEONQJ6LLLLFLAYER"},"trigger": {"url-filter": "spotvnews.co.kr"}},
 {"_comment": "2018.04.02 Update","action": {"type": "css-display-none","selector": "#ad_09"},"trigger": {"url-filter": "star.mt.co.kr"}},
