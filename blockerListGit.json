@@ -1,6 +1,10 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.04.09 Update","action": {"type": "css-display-none","selector": "#SideBarToggleElement > div.layout__content > div > div.life-owner.LifeOwnerGlobal320"},"trigger": {"url-filter": "og.gg"}},
+{"_comment": "2018.04.09 Update","action": {"type": "css-display-none","selector": "body > div.vm-footer"},"trigger": {"url-filter": "og.gg"}},
+{"_comment": "2018.04.09 Update","action": {"type": "css-display-none","selector": "#_MM_WRAP_nmap_news_2"},"trigger": {"url-filter": "naver.com"}},
+
 {"_comment": "2018.04.03 Update","action": {"type": "css-display-none","selector": " #_MM_WRAP_nmap_news_1"},"trigger": {"url-filter": "naver.com"}},
 {"_comment": "2018.04.03 Update","action": {"type": "css-display-none","selector": " #main_news_specialda_1"},"trigger": {"url-filter": "naver.com"}},
 
