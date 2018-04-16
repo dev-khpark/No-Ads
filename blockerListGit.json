@@ -1,6 +1,10 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.04.16 Update","action": {"type": "css-display-none","selector": "body > div:nth-child(5)"},"trigger": {"url-filter": "marumaru.in"}},
+{"_comment": "2018.04.16 Update","action": {"type": "css-display-none","selector": "#s3dpop_container_s3dpop_divID01"},"trigger": {"url-filter": "mediatoday.co.kr"}},
+{"_comment": "2018.04.16 Update","action": {"type": "css-display-none","selector": "#minor_prevNextList_bottom"},"trigger": {"url-filter": "dcinside.com"}},
+
 {"_comment": "2018.04.09 Update","action": {"type": "css-display-none","selector": "#SideBarToggleElement > div.layout__content > div > div.life-owner.LifeOwnerGlobal320"},"trigger": {"url-filter": "og.gg"}},
 {"_comment": "2018.04.09 Update","action": {"type": "css-display-none","selector": "body > div.vm-footer"},"trigger": {"url-filter": "og.gg"}},
 {"_comment": "2018.04.09 Update","action": {"type": "css-display-none","selector": "#_MM_WRAP_nmap_news_2"},"trigger": {"url-filter": "naver.com"}},
