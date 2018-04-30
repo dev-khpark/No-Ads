@@ -1,6 +1,8 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.04.30 Update","action": {"type": "css-display-none","selector": "#kakaoAdWrap"},"trigger": {"url-filter": "insight.co.kr"}},
+
 {"_comment": "2018.04.23 Update","action": {"type": "block"},"trigger": {"url-filter": "mytving.com/img/ad/*"}},
 {"_comment": "2018.04.23 Update","action": {"type": "css-display-none","selector": "body > div.c_img"},"trigger": {"url-filter": "hoducomics.com"}},
 
