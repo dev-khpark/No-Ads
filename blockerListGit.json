@@ -1,6 +1,8 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.05.21 Update","action": {"type": "css-display-none","selector": "body > table:nth-child(7)"},"trigger": {"url-filter": "corearoadbike.com"}},
+
 {"_comment": "2018.05.14 Update","action": {"type": "css-display-none","selector": "body > div.wrap-all.unit-article > section > div.banner"},"trigger": {"url-filter": "christiantoday.co.kr"}},
 
 {"_comment": "2018.05.08 Update","action": {"type": "css-display-none","selector": "#mw_mobile_head3"},"trigger": {"url-filter": "etoland.co.kr"}},
