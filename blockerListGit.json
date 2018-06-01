@@ -1,6 +1,14 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.06.01 Update","action": {"type": "css-display-none","selector": "#grid-content > div > center:nth-child(2)"},"trigger": {"url-filter": "coinpan.com"}},
+{"_comment": "2018.06.01 Update","action": {"type": "css-display-none","selector": "#grid-content > div > center:nth-child(6)"},"trigger": {"url-filter": "coinpan.com"}},
+{"_comment": "2018.06.01 Update","action": {"type": "css-display-none","selector": "#_2BEON71CLLLLFLAYER > div.banner_wrap"},"trigger": {"url-filter": "fomos.kr"}},
+{"_comment": "2018.06.01 Update","action": {"type": "css-display-none","selector": "body > div.renewal17_bltl_basiclist"},"trigger": {"url-filter": "hoducomics.com"}},
+{"_comment": "2018.06.01 Update","action": {"type": "css-display-none","selector": "#divOpenX300Advertisement"},"trigger": {"url-filter": "bada.tv"}},
+{"_comment": "2018.06.01 Update","action": {"type": "css-display-none","selector": "#at-main > div.main-box"},"trigger": {"url-filter": "koreanz.co"}},
+{"_comment": "2018.06.01 Update","action": {"type": "css-display-none","selector": "#wt_list > div.banner_wrapper"},"trigger": {"url-filter": "moatoon.com"}},
+
 {"_comment": "2018.05.21 Update","action": {"type": "css-display-none","selector": "body > table:nth-child(7)"},"trigger": {"url-filter": "corearoadbike.com"}},
 
 {"_comment": "2018.05.14 Update","action": {"type": "css-display-none","selector": "body > div.wrap-all.unit-article > section > div.banner"},"trigger": {"url-filter": "christiantoday.co.kr"}},
