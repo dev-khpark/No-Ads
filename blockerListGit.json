@@ -1,6 +1,13 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.06.07 Update","action": {"type": "css-display-none","selector": "body > div.bd > div:nth-child(1) > div"},"trigger": {"url-filter": "dogdrip.net"}},
+{"_comment": "2018.06.07 Update","action": {"type": "css-display-none","selector": "body > div.bd > div:nth-child(7)"},"trigger": {"url-filter": "dogdrip.net"}},
+{"_comment": "2018.06.07 Update","action": {"type": "css-display-none","selector": "body > div.bd > div:nth-child(26)"},"trigger": {"url-filter": "dogdrip.net"}},
+
+{"_comment": "2018.06.07 Update","action": {"type": "css-display-none","selector": "#wrapper_bg > section > section.content_left > div:nth-child(1) > div.anime_video_body > div.ads_upper_video"},"trigger": {"url-filter": "gogoanime.in"}},
+{"_comment": "2018.06.07 Update","action": {"type": "css-display-none","selector": "#MarketGidComposite222358"},"trigger": {"url-filter": "gogoanime.in"}},
+
 {"_comment": "2018.06.01 Update","action": {"type": "css-display-none","selector": "#grid-content > div > center:nth-child(2)"},"trigger": {"url-filter": "coinpan.com"}},
 {"_comment": "2018.06.01 Update","action": {"type": "css-display-none","selector": "#grid-content > div > center:nth-child(6)"},"trigger": {"url-filter": "coinpan.com"}},
 {"_comment": "2018.06.01 Update","action": {"type": "css-display-none","selector": "#_2BEON71CLLLLFLAYER > div.banner_wrap"},"trigger": {"url-filter": "fomos.kr"}},
