@@ -1,6 +1,10 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.06.14 Update","action": {"type": "css-display-none","selector": "#_2BEON71CLLLLFLAYER > div.banner_wrap"},"trigger": {"url-filter": "xportsnews.com"}},
+{"_comment": "2018.06.14 Update","action": {"type": "css-display-none","selector": "#_2BEON71CLLLLFLAYER > div.banner_wrap"},"trigger": {"url-filter": "story369.com"}},
+{"_comment": "2018.06.14 Update","action": {"type": "css-display-none","selector": "body > table"},"trigger": {"url-filter": "hoducomics.com"}},
+
 {"_comment": "2018.06.07 Update","action": {"type": "css-display-none","selector": "body > div.bd > div:nth-child(1) > div"},"trigger": {"url-filter": "dogdrip.net"}},
 {"_comment": "2018.06.07 Update","action": {"type": "css-display-none","selector": "body > div.bd > div:nth-child(7)"},"trigger": {"url-filter": "dogdrip.net"}},
 {"_comment": "2018.06.07 Update","action": {"type": "css-display-none","selector": "body > div.bd > div:nth-child(26)"},"trigger": {"url-filter": "dogdrip.net"}},
