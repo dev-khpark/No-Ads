@@ -1,6 +1,9 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.07.20 Update","action": {"type": "css-display-none","selector": "body > div.top.vtop.toprelative > div.vtop_sns"},"trigger": {"url-filter": "webdaily.co.kr"}},
+{"_comment": "2018.07.20 Update","action": {"type": "css-display-none","selector": "#_2BEON*"},"trigger": {"url-filter": ".*"}},
+
 {"_comment": "2018.07.13 Update","action": {"type": "css-display-none","selector": "#s3dpop_container_s3dpop_divID01"},"trigger": {"url-filter": ".*"}},
 {"_comment": "2018.07.13 Update","action": {"type": "css-display-none","selector": "#_2BEONKOGLLLLF"},"trigger": {"url-filter": ".*"}},
 {"_comment": "2018.07.13 Update","action": {"type": "css-display-none","selector": "#nhnacepopup1531450264907"},"trigger": {"url-filter": "viva100.com"}},
