@@ -1,6 +1,15 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.08.03 Update","action": {"type": "css-display-none","selector": "body > div:nth-child(5)"},"trigger": {"url-filter": "dailian.co.kr"}},
+{"_comment": "2018.08.03 Update","action": {"type": "css-display-none","selector": "#genesis-content > article > div.entry-content > p:nth-child(5) > iframe"},"trigger": {"url-filter": "ppss.kr"}},
+{"_comment": "2018.08.03 Update","action": {"type": "css-display-none","selector": "body > div.wrapper > div > div.basic-body.container > div > div.basic-body-main.left-main.col-md-85 > div.row.row-75.main-banner.padding-bottom-10"},"trigger": {"url-filter": "torrenthaja.com"}},
+{"_comment": "2018.08.03 Update","action": {"type": "css-display-none","selector": "body > div.wrapper > div > div.basic-body.container > div > div.basic-body-side.right-side.col-md-35 > div.row.row-75.side-banner"},"trigger": {"url-filter": "torrenthaja.com"}},
+{"_comment": "2018.08.03 Update","action": {"type": "css-display-none","selector": "#thema_wrapper > div.at-body > div > div.mo_banner_bottom"},"trigger": {"url-filter": "dream-post.com"}},
+{"_comment": "2018.08.03 Update","action": {"type": "css-display-none","selector": "#_2BEONX1GLLLLFLAYER"},"trigger": {"url-filter": ".*"}},
+{"_comment": "2018.08.03 Update","action": {"type": "css-display-none","selector": "body > div:nth-child(4)"},"trigger": {"url-filter": "ggilbo.com"}},
+
+
 {"_comment": "2018.07.20 Update","action": {"type": "css-display-none","selector": "body > div:nth-child(6)"},"trigger": {"url-filter": "ggilbo.com"}},
 
 {"_comment": "2018.07.20 Update","action": {"type": "css-display-none","selector": "body > div.top.vtop.toprelative > div.vtop_sns"},"trigger": {"url-filter": "webdaily.co.kr"}},
