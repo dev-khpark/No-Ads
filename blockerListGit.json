@@ -1,6 +1,10 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.08.10 Update","action": {"type": "css-display-none","selector": "#_2BEONRZGLLLLFLAYER"},"trigger": {"url-filter": ".*"}},
+{"_comment": "2018.08.10 Update","action": {"type": "css-display-none","selector": "#header > section:nth-child(5)"},"trigger": {"url-filter": "gnmaeil.com"}},
+
+
 {"_comment": "2018.08.03 Update","action": {"type": "css-display-none","selector": "body > div:nth-child(5)"},"trigger": {"url-filter": "dailian.co.kr"}},
 {"_comment": "2018.08.03 Update","action": {"type": "css-display-none","selector": "#genesis-content > article > div.entry-content > p:nth-child(5) > iframe"},"trigger": {"url-filter": "ppss.kr"}},
 {"_comment": "2018.08.03 Update","action": {"type": "css-display-none","selector": "body > div.wrapper > div > div.basic-body.container > div > div.basic-body-main.left-main.col-md-85 > div.row.row-75.main-banner.padding-bottom-10"},"trigger": {"url-filter": "torrenthaja.com"}},
