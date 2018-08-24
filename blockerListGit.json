@@ -1,6 +1,10 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.08.24 Update","action": {"type": "css-display-none","selector": "div[class *='pushAD']"},"trigger": {"url-filter": ".*"}},
+{"_comment": "2018.08.24 Update","action": {"type": "css-display-none","selector": "div[id *='_2BEON']"},"trigger": {"url-filter": ".*"}},
+{"_comment": "2018.08.24 Update","action": {"type": "css-display-none","selector": "body > table"},"trigger": {"url-filter": "hodu8.com"}},
+
 {"_comment": "2018.08.17 Update","action": {"type": "css-display-none","selector": "#content > div:nth-child(5) > a > img"},"trigger": {"url-filter": "principlesofknowledge.kr"}},
 
 {"_comment": "2018.08.10 Update","action": {"type": "css-display-none","selector": "#_2BEONRZGLLLLFLAYER"},"trigger": {"url-filter": ".*"}},
