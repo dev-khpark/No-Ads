@@ -1,6 +1,8 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.08.31 Update","action": {"type": "css-display-none","selector": "#about"},"trigger": {"url-filter": "adulti18.com"}},
+
 {"_comment": "2018.08.24 Update","action": {"type": "css-display-none","selector": "div[class *='pushAD']"},"trigger": {"url-filter": ".*"}},
 {"_comment": "2018.08.24 Update","action": {"type": "css-display-none","selector": "div[id *='_2BEON']"},"trigger": {"url-filter": ".*"}},
 {"_comment": "2018.08.24 Update","action": {"type": "css-display-none","selector": "body > table"},"trigger": {"url-filter": "hodu8.com"}},
