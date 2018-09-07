@@ -1,6 +1,9 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.09.07 Update","action": {"type": "css-display-none","selector": "#nctl > div:nth-child(3)"},"trigger": {"url-filter": "kookje.co.kr"}},
+{"_comment": "2018.09.07 Update","action": {"type": "css-display-none","selector": "#content > tbody > tr:nth-child(1) > td:nth-child(2) > table:nth-child(10)"},"trigger": {"url-filter": "corearoadbike.com"}},
+
 {"_comment": "2018.08.31 Update","action": {"type": "css-display-none","selector": "#about"},"trigger": {"url-filter": "adulti18.com"}},
 
 {"_comment": "2018.08.24 Update","action": {"type": "css-display-none","selector": "div[class *='pushAD']"},"trigger": {"url-filter": ".*"}},
