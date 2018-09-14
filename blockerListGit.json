@@ -1,6 +1,9 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.09.14 Update","action": {"type": "css-display-none","selector": "#modal_wc"},"trigger": {"url-filter": "card-gorilla.com"}},
+{"_comment": "2018.09.14 Update","action": {"type": "css-display-none","selector": "#toastLayerWrap"},"trigger": {"url-filter": "card-gorilla.com"}},
+
 {"_comment": "2018.09.08 Update","action": {"type": "css-display-none","selector": "#wrap > div.ct > div.all_list"},"trigger": {"url-filter": "ppomppu.co.kr"}},
 {"_comment": "2018.09.08 Update","action": {"type": "css-display-none","selector": "#mainList2"},"trigger": {"url-filter": "ppomppu.co.kr"}},
 
