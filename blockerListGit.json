@@ -1,6 +1,12 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.09.21 Update","action": {"type": "css-display-none","selector": "#content_wrapper > div > div > div > div.at-main > div.main-box-ad"},"trigger": {"url-filter": "tzoy.me"}},
+{"_comment": "2018.09.21 Update","action": {"type": "css-display-none","selector": "#deckUpperAd"},"trigger": {"url-filter": "dda.ac"}},
+{"_comment": "2018.09.21 Update","action": {"type": "css-display-none","selector": "#content-bottom"},"trigger": {"url-filter": "manhwa-manga.xyz"}},
+{"_comment": "2018.09.21 Update","action": {"type": "css-display-none","selector": "#custom_html-11"},"trigger": {"url-filter": "manhwa-manga.xyz"}},
+{"_comment": "2018.09.21 Update","action": {"type": "css-display-none","selector": "#jwrk69i9xij5880191933-ps"},"trigger": {"url-filter": "manhwa-manga.xyz"}},
+
 {"_comment": "2018.09.14 Update","action": {"type": "css-display-none","selector": "#modal_wc"},"trigger": {"url-filter": "card-gorilla.com"}},
 {"_comment": "2018.09.14 Update","action": {"type": "css-display-none","selector": "#toastLayerWrap"},"trigger": {"url-filter": "card-gorilla.com"}},
 
