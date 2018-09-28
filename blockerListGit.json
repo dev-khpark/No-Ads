@@ -1,6 +1,9 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.09.28 Update","action": {"type": "css-display-none","selector": "#container > div:nth-child(1)"},"trigger": {"url-filter": "tomovie.net"}},
+{"_comment": "2018.09.28 Update","action": {"type": "css-display-none","selector": "#divExoLayerWrapper"},"trigger": {"url-filter": "tomovie.net"}},
+
 {"_comment": "2018.09.21 Update","action": {"type": "css-display-none","selector": "#content_wrapper > div > div > div > div.at-main > div.main-box-ad"},"trigger": {"url-filter": "tzoy.me"}},
 {"_comment": "2018.09.21 Update","action": {"type": "css-display-none","selector": "#deckUpperAd"},"trigger": {"url-filter": "dda.ac"}},
 {"_comment": "2018.09.21 Update","action": {"type": "css-display-none","selector": "#content-bottom"},"trigger": {"url-filter": "manhwa-manga.xyz"}},
