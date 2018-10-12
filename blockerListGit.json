@@ -1,5 +1,8 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
+
+{"_comment": "2018.10.12 Update","action": {"type": "css-display-none","selector": "#vkwpgeslcifjmdtruxhoqn"},"trigger": {"url-filter": "bam7979.com"}},
+
 {"_comment": "2018.10.05 Update","action": {"type": "css-display-none","selector": "#articleFooter"},"trigger": {"url-filter": "gyotongn.com"}},
 
 {"_comment": "2018.09.28 Update","action": {"type": "css-display-none","selector": "#container > div:nth-child(1)"},"trigger": {"url-filter": "tomovie.net"}},
