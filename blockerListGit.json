@@ -1,6 +1,10 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.10.26 Update","action": {"type": "css-display-none","selector": "#thema_wrapper > div.at-body > div > div > div.col-md-9.at-col.at-main > center:nth-child(3)"},"trigger": {"url-filter": "torrentgaja.com"}},
+{"_comment": "2018.10.26 Update","action": {"type": "css-display-none","selector": "#thema_wrapper > div.at-body > div > div > div.col-md-9.at-col.at-main > center:nth-child(1)"},"trigger": {"url-filter": "torrentgaja.com"}},
+{"_comment": "2018.10.26 Update","action": {"type": "css-display-none","selector": "#content_wrapper > div:nth-child(2)"},"trigger": {"url-filter": "http://totoria.co"}},
+
 {"_comment": "2018.10.19 Update","action": {"type": "css-display-none","selector": "#content > tbody > tr:nth-child(1) > td:nth-child(2) > table:nth-child(13)"},"trigger": {"url-filter": "corearoadbike.com"}},
 {"_comment": "2018.10.19 Update","action": {"type": "css-display-none","selector": "#div-gpt-ad-1443135719513-0"},"trigger": {"url-filter": "bobaedream.co.kr"}},
 
