@@ -1,6 +1,11 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.11.02 Update","action": {"type": "css-display-none","selector": "#mdnw-productList-powerLinkContainer"},"trigger": {"url-filter": "danawa.com"}},
+{"_comment": "2018.11.02 Update","action": {"type": "css-display-none","selector": "#banner_top_center"},"trigger": {"url-filter": "speedtoon.com"}},
+{"_comment": "2018.11.02 Update","action": {"type": "css-display-none","selector": "#thema_wrapper > header > div > div.at-body > div > div > center"},"trigger": {"url-filter": "speedtoon.com"}},
+{"_comment": "2018.11.02 Update","action": {"type": "css-display-none","selector": "#banner_top_center1"},"trigger": {"url-filter": "speedtoon.com"}},
+
 {"_comment": "2018.10.26 Update","action": {"type": "css-display-none","selector": "#thema_wrapper > div.at-body > div > div > div.col-md-9.at-col.at-main > center:nth-child(3)"},"trigger": {"url-filter": "torrentgaja.com"}},
 {"_comment": "2018.10.26 Update","action": {"type": "css-display-none","selector": "#thema_wrapper > div.at-body > div > div > div.col-md-9.at-col.at-main > center:nth-child(1)"},"trigger": {"url-filter": "torrentgaja.com"}},
 {"_comment": "2018.10.26 Update","action": {"type": "css-display-none","selector": "#content_wrapper > div:nth-child(2)"},"trigger": {"url-filter": "http://totoria.co"}},
