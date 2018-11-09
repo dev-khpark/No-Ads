@@ -1,6 +1,11 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.11.09 Update","action": {"type": "css-display-none","selector": "#wg_m_implay_1541682730"},"trigger": {"url-filter": "kyeonggi.com"}},
+{"_comment": "2018.11.09 Update","action": {"type": "css-display-none","selector": "#container > div:nth-child(2)"},"trigger": {"url-filter": "torrentmap.com"}},
+{"_comment": "2018.11.09 Update","action": {"type": "css-display-none","selector": "#MRead > div.container_le > div.photonews"},"trigger": {"url-filter": "breaknews.com"}},
+{"_comment": "2018.11.09 Update","action": {"type": "css-display-none","selector": "#tree_p_2_line"},"trigger": {"url-filter": "breaknews.com"}},
+
 {"_comment": "2018.11.02 Update","action": {"type": "css-display-none","selector": "#mdnw-productList-powerLinkContainer"},"trigger": {"url-filter": "danawa.com"}},
 {"_comment": "2018.11.02 Update","action": {"type": "css-display-none","selector": "#banner_top_center"},"trigger": {"url-filter": "speedtoon.com"}},
 {"_comment": "2018.11.02 Update","action": {"type": "css-display-none","selector": "#thema_wrapper > header > div > div.at-body > div > div > center"},"trigger": {"url-filter": "speedtoon.com"}},
