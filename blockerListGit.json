@@ -2,6 +2,7 @@
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
 {"_comment": "2018.11.16 Update","action": {"type": "css-display-none","selector": "body > div:nth-child(28)"},"trigger": {"url-filter": "ohfun.net"}},
+{"_comment": "2018.11.16 Update","action": {"type": "css-display-none","selector": "body > div.nav_container > div.content_view_list > div.list_bottom_ad"},"trigger": {"url-filter": "clien.net"}},
 
 {"_comment": "2018.11.09 Update","action": {"type": "css-display-none","selector": "#wg_m_implay_1541682730"},"trigger": {"url-filter": "kyeonggi.com"}},
 {"_comment": "2018.11.09 Update","action": {"type": "css-display-none","selector": "#container > div:nth-child(2)"},"trigger": {"url-filter": "torrentmap.com"}},
