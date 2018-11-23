@@ -1,6 +1,11 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.11.23 Update","action": {"type": "css-display-none","selector": "#articleBody > div.teads-inread.xs-screen"},"trigger": {"url-filter": "motorgraph.com"}},
+{"_comment": "2018.11.23 Update","action": {"type": "css-display-none","selector": "#body_sec > div.section.mobile-banner.top_hr > div > div.row > div.col-md-12.mobile-banner"},"trigger": {"url-filter": "toonkor.blog"}},
+{"_comment": "2018.11.23 Update","action": {"type": "css-display-none","selector": "body > div > div > div > section:nth-child(2)"},"trigger": {"url-filter": "dcinside.com"}},
+{"_comment": "2018.11.23 Update","action": {"type": "css-display-none","selector": "body > div > div > div > section:nth-child(3) > ul.gall-detail-lst > li.adv-inner"},"trigger": {"url-filter": "dcinside.com"}},
+
 {"_comment": "2018.11.16 Update","action": {"type": "css-display-none","selector": "body > div:nth-child(28)"},"trigger": {"url-filter": "ohfun.net"}},
 {"_comment": "2018.11.16 Update","action": {"type": "css-display-none","selector": "body > div.nav_container > div.content_view_list > div.list_bottom_ad"},"trigger": {"url-filter": "clien.net"}},
 
