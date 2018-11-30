@@ -1,6 +1,8 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.11.30 Update","action": {"type": "css-display-none","selector": "#wrap > div:nth-child(19)"},"trigger": {"url-filter": "ebn.co.kr"}},
+
 {"_comment": "2018.11.23 Update","action": {"type": "css-display-none","selector": "#articleBody > div.teads-inread.xs-screen"},"trigger": {"url-filter": "motorgraph.com"}},
 {"_comment": "2018.11.23 Update","action": {"type": "css-display-none","selector": "#body_sec > div.section.mobile-banner.top_hr > div > div.row > div.col-md-12.mobile-banner"},"trigger": {"url-filter": "toonkor.blog"}},
 {"_comment": "2018.11.23 Update","action": {"type": "css-display-none","selector": "body > div > div > div > section:nth-child(2)"},"trigger": {"url-filter": "dcinside.com"}},
