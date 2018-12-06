@@ -1,6 +1,9 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.12.07 Update","action": {"type": "css-display-none","selector": "#main-banner-view"},"trigger": {"url-filter": "brotoon.com"}},
+{"_comment": "2018.12.07 Update","action": {"type": "css-display-none","selector": "#main-banner-view"},"trigger": {"url-filter": "newtoki.com"}},
+
 {"_comment": "2018.11.30 Update","action": {"type": "css-display-none","selector": "#wrap > div:nth-child(19)"},"trigger": {"url-filter": "ebn.co.kr"}},
 
 {"_comment": "2018.11.23 Update","action": {"type": "css-display-none","selector": "#articleBody > div.teads-inread.xs-screen"},"trigger": {"url-filter": "motorgraph.com"}},
