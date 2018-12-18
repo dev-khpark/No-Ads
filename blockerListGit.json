@@ -1,6 +1,8 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2018.12.18 Update","action": {"type": "css-display-none","selector": "#content_wrapper > div.content > div > div:nth-child(3)"},"trigger": {"url-filter": "brotoon.com"}},
+
 {"_comment": "2018.12.14 Update","action": {"type": "css-display-none","selector": "#body_sec > div.section.mobile-banner.top_hr > div.container > div > div.col-md-12.mobile-banner"},"trigger": {"url-filter": "sixtoon.com"}},
 {"_comment": "2018.12.14 Update","action": {"type": "css-display-none","selector": "#mainList2"},"trigger": {"url-filter": "ppomppu.co.kr"}},
 {"_comment": "2018.12.14 Update","action": {"type": "css-display-none","selector": "#wrap > div.ct > div.bbs > ul > div"},"trigger": {"url-filter": "ppomppu.co.kr"}},
