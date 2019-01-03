@@ -1,6 +1,10 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2019.01.02 Update","action": {"type": "css-display-none","selector": "body > div.ranking_list_re.clearfix > div > ul > div"},"trigger": {"url-filter": "hodu24.com"}},
+{"_comment": "2019.01.02 Update","action": {"type": "css-display-none","selector": "body > table"},"trigger": {"url-filter": "hodu24.com"}},
+{"_comment": "2019.01.02 Update","action": {"type": "css-display-none","selector": "#div_new_power_link"},"trigger": {"url-filter": "ppomppu.co.kr"}},
+
 {"_comment": "2018.12.28 Update","action": {"type": "css-display-none","selector": "#body > div > div:nth-child(5)"},"trigger": {"url-filter": "coolani.net"}},
 
 {"_comment": "2018.12.26 Update","action": {"type": "css-display-none","selector": "#body > div > div:nth-child(7)"},"trigger": {"url-filter": "coolani.net"}},
