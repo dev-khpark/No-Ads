@@ -1,9 +1,10 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+
+
 {"_comment": "2019.01.02 Update","action": {"type": "css-display-none","selector": "body > div.ranking_list_re.clearfix > div > ul > div"},"trigger": {"url-filter": "hodu24.com"}},
 {"_comment": "2019.01.02 Update","action": {"type": "css-display-none","selector": "body > table"},"trigger": {"url-filter": "hodu24.com"}},
-{"_comment": "2019.01.02 Update","action": {"type": "css-display-none","selector": "#div_new_power_link"},"trigger": {"url-filter": "ppomppu.co.kr"}},
 
 {"_comment": "2018.12.28 Update","action": {"type": "css-display-none","selector": "#body > div > div:nth-child(5)"},"trigger": {"url-filter": "coolani.net"}},
 
@@ -14,9 +15,6 @@
 {"_comment": "2018.12.18 Update","action": {"type": "css-display-none","selector": "#content_wrapper > div.content > div > div:nth-child(3)"},"trigger": {"url-filter": "brotoon.com"}},
 
 {"_comment": "2018.12.14 Update","action": {"type": "css-display-none","selector": "#body_sec > div.section.mobile-banner.top_hr > div.container > div > div.col-md-12.mobile-banner"},"trigger": {"url-filter": "sixtoon.com"}},
-{"_comment": "2018.12.14 Update","action": {"type": "css-display-none","selector": "#mainList2"},"trigger": {"url-filter": "ppomppu.co.kr"}},
-{"_comment": "2018.12.14 Update","action": {"type": "css-display-none","selector": "#wrap > div.ct > div.bbs > ul > div"},"trigger": {"url-filter": "ppomppu.co.kr"}},
-{"_comment": "2018.12.14 Update","action": {"type": "css-display-none","selector": "#wrap > div:nth-child(8)"},"trigger": {"url-filter": "ppomppu.co.kr"}},
 
 {"_comment": "2018.12.11 Update","action": {"type": "css-display-none","selector": "body > div:nth-child(30)"},"trigger": {"url-filter": "speconomy.com"}},
 
@@ -66,8 +64,6 @@
 {"_comment": "2018.09.14 Update","action": {"type": "css-display-none","selector": "#modal_wc"},"trigger": {"url-filter": "card-gorilla.com"}},
 {"_comment": "2018.09.14 Update","action": {"type": "css-display-none","selector": "#toastLayerWrap"},"trigger": {"url-filter": "card-gorilla.com"}},
 
-{"_comment": "2018.09.08 Update","action": {"type": "css-display-none","selector": "#wrap > div.ct > div.all_list"},"trigger": {"url-filter": "ppomppu.co.kr"}},
-{"_comment": "2018.09.08 Update","action": {"type": "css-display-none","selector": "#mainList2"},"trigger": {"url-filter": "ppomppu.co.kr"}},
 
 {"_comment": "2018.09.07 Update","action": {"type": "css-display-none","selector": "#nctl > div:nth-child(3)"},"trigger": {"url-filter": "kookje.co.kr"}},
 {"_comment": "2018.09.07 Update","action": {"type": "css-display-none","selector": "#content > tbody > tr:nth-child(1) > td:nth-child(2) > table:nth-child(10)"},"trigger": {"url-filter": "corearoadbike.com"}},
@@ -201,7 +197,6 @@
 {"_comment": "2018.03.06 Update","action": {"type": "css-display-none","selector": "body > div.vm-footer"},"trigger": {"url-filter": "pubg.op.gg"}},
 {"_comment": "2018.03.06 Update","action": {"type": "css-display-none","selector": "body > div.pubg.pubg--player > section > div.ads--bottom"},"trigger": {"url-filter": "pubg.op.gg"}},
 
-{"_comment": "2018.02.23 Update","action": {"type": "css-display-none","selector": "#tabs-container"},"trigger": {"url-filter": "ppomppu.co.kr"}},
 {"_comment": "2018.02.23 Update","action": {"type": "css-display-none","selector": "#_2BEON6B4LLLLFLAYER"},"trigger": {"url-filter": "sports.khan.co.kr"}},
 
 {"_comment": "2018.02.19 Update","action": {"type": "css-display-none","selector": "#thema_wrapper > div > div > div > div.view-wrap > div > div.bn.bnt"},"trigger": {"url-filter": "toonkor.com"}},
