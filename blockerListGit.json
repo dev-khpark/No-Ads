@@ -1,10 +1,12 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2019.01.10 Update","action": {"type": "css-display-none","selector": "body > div:nth-child(2)"},"trigger": {"url-filter": "ppomppu.co.kr"}},
+{"_comment": "2019.01.10 Update","action": {"type": "css-display-none","selector": "body > div:nth-child(5)"},"trigger": {"url-filter": "ppomppu.co.kr"}},
+
 {"_comment": "2019.01.02 Update","action": {"type": "css-display-none","selector": "#div_new_power_link"},"trigger": {"url-filter": "ppomppu.co.kr"}},
 {"_comment": "2018.12.14 Update","action": {"type": "css-display-none","selector": "#mainList2"},"trigger": {"url-filter": "ppomppu.co.kr"}},
 {"_comment": "2018.12.14 Update","action": {"type": "css-display-none","selector": "#wrap > div.ct > div.bbs > ul > div"},"trigger": {"url-filter": "ppomppu.co.kr"}},
-{"_comment": "2019.01.10 Update","action": {"type": "css-display-none","selector": "body > div:nth-child(2)"},"trigger": {"url-filter": "ppomppu.co.kr"}},
 {"_comment": "2018.09.08 Update","action": {"type": "css-display-none","selector": "#wrap > div.ct > div.all_list"},"trigger": {"url-filter": "ppomppu.co.kr"}},
 {"_comment": "2018.09.08 Update","action": {"type": "css-display-none","selector": "#mainList2"},"trigger": {"url-filter": "ppomppu.co.kr"}},
 {"_comment": "2018.02.23 Update","action": {"type": "css-display-none","selector": "#tabs-container"},"trigger": {"url-filter": "ppomppu.co.kr"}},
