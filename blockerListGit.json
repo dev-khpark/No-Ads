@@ -2,7 +2,7 @@
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
 {"_comment": "2019.01.17 Update","action": {"type": "css-display-none","selector": "body > ins"},"trigger": {"url-filter": "jjang0u.com"}},
-{"_comment": "2019.01.17 Update","action": {"type": "#user-container > div > div.user-content > section > div > div:nth-child(8)"},"trigger": {"url-filter": "sporbiz.co.kr"}},
+{"_comment": "2019.01.17 Update","action": {"type": "css-display-none","selector": "#user-container > div > div.user-content > section > div > div:nth-child(8)"},"trigger": {"url-filter": "sporbiz.co.kr"}},
 {"_comment": "2019.01.17 Update","action": {"type": "css-display-none","selector": "body > div.container > div > div > section:nth-child(4)"},"trigger": {"url-filter": "dcinside.com"}},
 {"_comment": "2019.01.17 Update","action": {"type": "css-display-none","selector": "body > section:nth-child(5)"},"trigger": {"url-filter": "dcinside.com"}},
 {"_comment": "2019.01.17 Update","action": {"type": "css-display-none","selector": "body > section:nth-child(6)"},"trigger": {"url-filter": "dcinside.com"}},
