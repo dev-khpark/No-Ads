@@ -1,6 +1,26 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+
+{"_comment": "2019.02.07 Update","action": {"type": "css-display-none","selector": "#articleViewContainer > div.border_box.container_right > section:nth-child(15)"},"trigger": {"url-filter": "kns.tv"}},
+{"_comment": "2019.02.07 Update","action": {"type": "css-display-none","selector": "#articleFooter > section:nth-child(9)"},"trigger": {"url-filter": "kns.tv"}},
+{"_comment": "2019.02.07 Update","action": {"type": "css-display-none","selector": "#articleFooter > section:nth-child(8)"},"trigger": {"url-filter": "kns.tv"}},
+{"_comment": "2019.02.07 Update","action": {"type": "css-display-none","selector": "#articleFooter > section.advertisment.margin_bottom_15.margin_top_25"},"trigger": {"url-filter": "kns.tv"}},
+{"_comment": "2019.02.07 Update","action": {"type": "css-display-none","selector": "#articleBody > div.body.word_break > center"},"trigger": {"url-filter": "kns.tv"}},
+{"_comment": "2019.02.07 Update","action": {"type": "css-display-none","selector": "#articleBody > div.body.word_break > div:nth-child(2)"},"trigger": {"url-filter": "kns.tv"}},
+{"_comment": "2019.02.07 Update","action": {"type": "css-display-none","selector": "#articleViewContainer > div.border_box.container_left > section:nth-child(1)"},"trigger": {"url-filter": "kns.tv"}},
+
+
+{"_comment": "2019.02.07 Update","action": {"type": "css-display-none","selector": "#news_padding > div:nth-child(9)"},"trigger": {"url-filter": "mtvdaily.asiae.co.kr"}},
+{"_comment": "2019.02.07 Update","action": {"type": "css-display-none","selector": "#news_padding > div:nth-child(1)"},"trigger": {"url-filter": "mtvdaily.asiae.co.kr"}},
+
+{"_comment": "2019.02.07 Update","action": {"type": "css-display-none","selector": "#contents > article:nth-child(1)"},"trigger": {"url-filter": "fomos.kr"}},
+{"_comment": "2019.02.07 Update","action": {"type": "css-display-none","selector": "#section > div.main_wrap > div.main_side02 > div:nth-child(10)"},"trigger": {"url-filter": "ihalla.com"}},
+{"_comment": "2019.02.07 Update","action": {"type": "css-display-none","selector": "#section > div.main_wrap > div.main_side02 > div:nth-child(3)"},"trigger": {"url-filter": "ihalla.com"}},
+{"_comment": "2019.02.07 Update","action": {"type": "css-display-none","selector": "#section > div.main_wrap > div.main_side02 > div:nth-child(2)"},"trigger": {"url-filter": "ihalla.com"}},
+{"_comment": "2019.02.07 Update","action": {"type": "css-display-none","selector": "#section > div.main_wrap > div.main_side02 > div.list_cont > div.jul > iframe"},"trigger": {"url-filter": "ihalla.com"}},
+{"_comment": "2019.02.07 Update","action": {"type": "css-display-none","selector": "#section > div.main_wrap > div.main_side02 > div.list_cont > div:nth-child(4)"},"trigger": {"url-filter": "ihalla.com"}},
+
 {"_comment": "2019.01.31 Update","action": {"type": "css-display-none","selector": "#container > div.content > section > div.title-wrap.clearfix"},"trigger": {"url-filter": "coinpan.com"}},
 {"_comment": "2019.01.31 Update","action": {"type": "css-display-none","selector": "#container > div.content > section > div.m-list.m-element > ul:nth-child(2) > li:nth-child(6)"},"trigger": {"url-filter": "coinpan.com"}},
 {"_comment": "2019.01.31 Update","action": {"type": "css-display-none","selector": "#container > div.content > section > center"},"trigger": {"url-filter": "coinpan.com"}},
