@@ -2,6 +2,12 @@
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
 
+{"_comment": "2019.02.14 Update","action": {"type": "css-display-none","selector": "body > table:nth-child(3)"},"trigger": {"url-filter": "torrentwal.com"}},
+{"_comment": "2019.02.14 Update","action": {"type": "css-display-none","selector": "#main-banner-view"},"trigger": {"url-filter": "newtoki.net"}},
+{"_comment": "2019.02.14 Update","action": {"type": "css-display-none","selector": "#main-banner-view > div.col-15.col-md-3.col-sm-3 > div:nth-child(5)"},"trigger": {"url-filter": "newtoki.net"}},
+{"_comment": "2019.02.14 Update","action": {"type": "css-display-none","selector": "#adsHead"},"trigger": {"url-filter": "mkmk02.com"}},
+{"_comment": "2019.02.14 Update","action": {"type": "css-display-none","selector": "#hotdeal"},"trigger": {"url-filter": "koreadaily.com"}},
+
 {"_comment": "2019.02.07 Update","action": {"type": "css-display-none","selector": "#articleViewContainer > div.border_box.container_right > section:nth-child(15)"},"trigger": {"url-filter": "kns.tv"}},
 {"_comment": "2019.02.07 Update","action": {"type": "css-display-none","selector": "#articleFooter > section:nth-child(9)"},"trigger": {"url-filter": "kns.tv"}},
 {"_comment": "2019.02.07 Update","action": {"type": "css-display-none","selector": "#articleFooter > section:nth-child(8)"},"trigger": {"url-filter": "kns.tv"}},
