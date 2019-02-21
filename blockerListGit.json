@@ -2,6 +2,12 @@
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
 
+{"_comment": "2019.02.21 Update","action": {"type": "css-display-none","selector": "body > div:nth-child(14)"},"trigger": {"url-filter": "ani24guddo.com"}},
+{"_comment": "2019.02.21 Update","action": {"type": "css-display-none","selector": "#mw_mobile > center:nth-child(4)"},"trigger": {"url-filter": "etoland.co.kr"}},
+{"_comment": "2019.02.21 Update","action": {"type": "css-display-none","selector": "#mw_mobile > form > ul > li:nth-child(2)"},"trigger": {"url-filter": "etoland.co.kr"}},
+{"_comment": "2019.02.21 Update","action": {"type": "css-display-none","selector": "#mw_mobile > center:nth-child(9)"},"trigger": {"url-filter": "etoland.co.kr"}},
+
+
 {"_comment": "2019.02.14 Update","action": {"type": "css-display-none","selector": "body > table:nth-child(3)"},"trigger": {"url-filter": "torrentwal.com"}},
 {"_comment": "2019.02.14 Update","action": {"type": "css-display-none","selector": "#main-banner-view"},"trigger": {"url-filter": "newtoki.net"}},
 {"_comment": "2019.02.14 Update","action": {"type": "css-display-none","selector": "#main-banner-view > div.col-15.col-md-3.col-sm-3 > div:nth-child(5)"},"trigger": {"url-filter": "newtoki.net"}},
