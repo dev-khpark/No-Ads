@@ -2,6 +2,8 @@
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
 
+{"_comment": "2019.02.28 Update","action": {"type": "css-display-none","selector": "#left_contain > div:nth-child(1)"},"trigger": {"url-filter": "joynews24.com"}},
+
 {"_comment": "2019.02.21 Update","action": {"type": "css-display-none","selector": "body > div:nth-child(14)"},"trigger": {"url-filter": "ani24guddo.com"}},
 {"_comment": "2019.02.21 Update","action": {"type": "css-display-none","selector": "#mw_mobile > center:nth-child(4)"},"trigger": {"url-filter": "etoland.co.kr"}},
 {"_comment": "2019.02.21 Update","action": {"type": "css-display-none","selector": "#mw_mobile > form > ul > li:nth-child(2)"},"trigger": {"url-filter": "etoland.co.kr"}},
