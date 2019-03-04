@@ -1,6 +1,7 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2019.03.04 Update","action": {"type": "css-display-none","selector": "body > div > div > div > div > div > div > section.grid.clkhigh"},"trigger": {"url-filter": "m.dcinside.com"}},
 
 {"_comment": "2019.02.28 Update","action": {"type": "css-display-none","selector": "#left_contain > div:nth-child(1)"},"trigger": {"url-filter": "joynews24.com"}},
 
