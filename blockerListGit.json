@@ -1,6 +1,12 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2019.03.22 Update","action": {"type": "css-display-none","selector": "#tmpILSA_Container"},"trigger": {"url-filter": "newstown.co.kr"}},
+{"_comment": "2019.03.22 Update","action": {"type": "css-display-none","selector": "#user-container > div.float-center.max-width-0 > div.user-content > section > div > article.article-veiw-body.view-page.font-size17 > div:nth-child(1)"},"trigger": {"url-filter": "newstown.co.kr"}},
+{"_comment": "2019.03.22 Update","action": {"type": "css-display-none","selector": "#article-view-content-div > iframe:nth-child(3)"},"trigger": {"url-filter": "newstown.co.kr"}},
+{"_comment": "2019.03.22 Update","action": {"type": "css-display-none","selector": "#article-view-content-div > iframe:nth-child(30)"},"trigger": {"url-filter": "newstown.co.kr"}},
+{"_comment": "2019.03.22 Update","action": {"type": "css-display-none","selector": "#mw_mobile > center:nth-child(6)"},"trigger": {"url-filter": "etoland.co.kr"}},
+
 {"_comment": "2019.03.15 Update","action": {"type": "css-display-none","selector": "#mw_mobile > center:nth-child(2)"},"trigger": {"url-filter": "etoland.co.kr"}},
 
 {"_comment": "2019.03.04 Update","action": {"type": "css-display-none","selector": "body > div > div > div > div > div > div > section.grid.clkhigh"},"trigger": {"url-filter": "m.dcinside.com"}},
