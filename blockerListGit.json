@@ -2,6 +2,17 @@
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
 
+{"_comment": "2019.04.05 Update","action": {"type": "css-display-none","selector": "#mobonDivBanner_18002"},"trigger": {"url-filter": "sportschosun.com"}},
+{"_comment": "2019.04.05 Update","action": {"type": "css-display-none","selector": "#wrapper > div.content-top-ad"},"trigger": {"url-filter": "gamemeca.com"}},
+{"_comment": "2019.04.05 Update","action": {"type": "css-display-none","selector": "#xf730e7_wrap"},"trigger": {"url-filter": "humoruniv.com"}},
+{"_comment": "2019.04.05 Update","action": {"type": "css-display-none","selector": "body > div.container > div > div > section:nth-child(3) > div.gall-thum-btm > div > div.adv-groupin"},"trigger": {"url-filter": "dcinside.com"}},
+{"_comment": "2019.04.05 Update","action": {"type": "css-display-none","selector": "#lumi_ad"},"trigger": {"url-filter": "ilyosisa.co.kr"}},
+{"_comment": "2019.04.05 Update","action": {"type": "css-display-none","selector": "#article-view-content-div > center:nth-child(1) > iframe"},"trigger": {"url-filter": "ilyosisa.co.kr"}},
+{"_comment": "2019.04.05 Update","action": {"type": "css-display-none","selector": "#article-view-content-div > center:nth-child(6) > iframe"},"trigger": {"url-filter": "ilyosisa.co.kr"}},
+{"_comment": "2019.04.05 Update","action": {"type": "css-display-none","selector": "#article-view-content-div > center:nth-child(17) > center > div.view-copyright > center:nth-child(4) > iframe"},"trigger": {"url-filter": "ilyosisa.co.kr"}},
+{"_comment": "2019.04.05 Update","action": {"type": "css-display-none","selector": "#article-view-content-div > center:nth-child(17) > center > div.view-copyright > iframe:nth-child(7)"},"trigger": {"url-filter": "ilyosisa.co.kr"}},
+
+
 {"_comment": "2019.03.29 Update","action": {"type": "css-display-none","selector": "#mw_mobile > center:nth-child(8)"},"trigger": {"url-filter": "etoland.co.kr"}},
 {"_comment": "2019.03.29 Update","action": {"type": "css-display-none","selector": "#mw_mobile > center:nth-child(15)"},"trigger": {"url-filter": "etoland.co.kr"}},
 {"_comment": "2019.03.29 Update","action": {"type": "css-display-none","selector": "#body > div > div:nth-child(1)"},"trigger": {"url-filter": "coolani.net"}},
