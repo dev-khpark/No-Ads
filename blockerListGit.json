@@ -1,6 +1,7 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2019.04.19 Update","action": {"type": "css-display-none","selector": "#article > article > iframe"},"trigger": {"url-filter": "ohmynews.com"}},
 
 {"_comment": "2019.04.05 Update","action": {"type": "css-display-none","selector": "#mobonDivBanner_18002"},"trigger": {"url-filter": "sportschosun.com"}},
 {"_comment": "2019.04.05 Update","action": {"type": "css-display-none","selector": "#wrapper > div.content-top-ad"},"trigger": {"url-filter": "gamemeca.com"}},
