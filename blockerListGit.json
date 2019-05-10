@@ -1,6 +1,8 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2019.05.10 Update","action": {"type": "css-display-none","selector": "#container > table"},"trigger": {"url-filter": "torrentken.net"}},
+
 {"_comment": "2019.05.03 Update","action": {"type": "css-display-none","selector": "#_popIn_recommend_photo"},"trigger": {"url-filter": "ecomedia.co.kr"}},
 {"_comment": "2019.05.03 Update","action": {"type": "css-display-none","selector": "body > div.bd > div.co > div:nth-child(2)"},"trigger": {"url-filter": "ilbe.com"}},
 {"_comment": "2019.05.03 Update","action": {"type": "css-display-none","selector": "#sponser_ad_0"},"trigger": {"url-filter": "ilbe.com"}},
