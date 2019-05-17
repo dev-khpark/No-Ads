@@ -1,6 +1,11 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2019.05.17 Update","action": {"type": "css-display-none","selector": "#wrap > div:nth-child(9)"},"trigger": {"url-filter": "asiae.co.kr"}},
+{"_comment": "2019.05.17 Update","action": {"type": "css-display-none","selector": "#read_frame > div:nth-child(3)"},"trigger": {"url-filter": "asiae.co.kr"}},
+{"_comment": "2019.05.17 Update","action": {"type": "css-display-none","selector": "#read_frame > div:nth-child(6)"},"trigger": {"url-filter": "asiae.co.kr"}},
+{"_comment": "2019.05.17 Update","action": {"type": "css-display-none","selector": "#inbnetListingP"},"trigger": {"url-filter": "asiae.co.kr"}},
+
 {"_comment": "2019.05.10 Update","action": {"type": "css-display-none","selector": "#container > table"},"trigger": {"url-filter": "torrentken.net"}},
 
 {"_comment": "2019.05.03 Update","action": {"type": "css-display-none","selector": "#_popIn_recommend_photo"},"trigger": {"url-filter": "ecomedia.co.kr"}},
