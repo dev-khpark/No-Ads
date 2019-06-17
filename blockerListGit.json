@@ -1,10 +1,12 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2019.06.17 Update","action": {"type": "css-display-none","selector": "#fixmenu > header > section"},"trigger": {"url-filter": "dongascience.com"}},
+{"_comment": "2019.06.17 Update","action": {"type": "css-display-none","selector": "#post-55497 > div.post-content > div.teads-inread.xs-screen"},"trigger": {"url-filter": "maisonkorea.com"}},
+
 {"_comment": "2019.06.04 Update","action": {"type": "css-display-none","selector": "#thema_wrapper > div.at-body > div > div > div.col-md-9.at-col.at-main > div:nth-child(1)"},"trigger": {"url-filter": "manamoa6.net"}},
 {"_comment": "2019.06.04 Update","action": {"type": "css-display-none","selector": "#thema_wrapper > div.at-body > div > div > div.col-md-9.at-col.at-main > div:nth-child(2)"},"trigger": {"url-filter": "manamoa6.net"}},
 {"_comment": "2019.06.04 Update","action": {"type": "css-display-none","selector": "#thema_wrapper > div.at-body > div > div > div.col-md-9.at-col.at-main > div:nth-child(3)"},"trigger": {"url-filter": "manamoa6.net"}},
-
 
 {"_comment": "2019.05.17 Update","action": {"type": "css-display-none","selector": "#wrap > div:nth-child(9)"},"trigger": {"url-filter": "asiae.co.kr"}},
 {"_comment": "2019.05.17 Update","action": {"type": "css-display-none","selector": "#read_frame > div:nth-child(3)"},"trigger": {"url-filter": "asiae.co.kr"}},
