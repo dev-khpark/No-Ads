@@ -1,6 +1,9 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2019.07.01 Update","action": {"type": "css-display-none","selector": "#thema_wrapper > div.at-body > div > div > div.col-md-9.at-col.at-main > div.viewer-container.view-wrap > div:nth-child(4)"},"trigger": {"url-filter": "manamoa8.net"}},
+{"_comment": "2019.07.01 Update","action": {"type": "css-display-none","selector": "#thema_wrapper > div.at-body > div > div > div.col-md-9.at-col.at-main > section > div > div.widget-box > div"},"trigger": {"url-filter": "manamoa8.net"}},
+
 {"_comment": "2019.06.17 Update","action": {"type": "css-display-none","selector": "#fixmenu > header > section"},"trigger": {"url-filter": "dongascience.com"}},
 {"_comment": "2019.06.17 Update","action": {"type": "css-display-none","selector": "#post-55497 > div.post-content > div.teads-inread.xs-screen"},"trigger": {"url-filter": "maisonkorea.com"}},
 
