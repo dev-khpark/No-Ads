@@ -1,6 +1,9 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2019.07.15 Update","action": {"type": "css-display-none","selector": "#thema_wrapper > div.at-body > div > div > div.col-md-9.at-col.at-main > div"},"trigger": {"url-filter": "manamoa10.net"}},
+{"_comment": "2019.07.15 Update","action": {"type": "css-display-none","selector": "#thema_wrapper > div.at-body > div > div > div.col-md-9.at-col.at-main > section > div > div.widget-box"},"trigger": {"url-filter": "manamoa10.net"}},
+
 {"_comment": "2019.07.01 Update","action": {"type": "css-display-none","selector": ".viewer-container > div:nth-child(4) > div:nth-child(1)"},"trigger": {"url-filter": "manamoa8.net"}},
 {"_comment": "2019.07.01 Update","action": {"type": "css-display-none","selector": "div.widget-box:nth-child(3) > div:nth-child(1)"},"trigger": {"url-filter": "manamoa8.net"}},
 
