@@ -1,6 +1,10 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2019.08.12 Update","action": {"type": "css-display-none","selector": "#bd_876581316_0 > div > table > tbody > tr:nth-child(1)"},"trigger": {"url-filter": "theqoo.ne"}},
+{"_comment": "2019.08.12 Update","action": {"type": "css-display-none","selector": ".col-md-9 > div:nth-child(1)"},"trigger": {"url-filter": "manamoa10.net"}},
+{"_comment": "2019.08.12 Update","action": {"type": "css-display-none","selector": ".viewer-container > div:nth-child(4)"},"trigger": {"url-filter": "manamoa10.net"}},
+{"_comment": "2019.08.12 Update","action": {"type": "css-display-none","selector": "div.widget-box:nth-child(3)"},"trigger": {"url-filter": "manamoa10.net"}},
 
 {"_comment": "2019.07.29 Update","action": {"type": "css-display-none","selector": "#thema_wrapper > div.at-body > div > div > div.col-md-9.at-col.at-main > div"},"trigger": {"url-filter": "manamoa9.net"}},
 {"_comment": "2019.07.29 Update","action": {"type": "css-display-none","selector": "#thema_wrapper > div.at-body > div > div > div.col-md-9.at-col.at-main > section > div > div.widget-box"},"trigger": {"url-filter": "manamoa9.net"}},
