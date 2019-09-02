@@ -1,6 +1,8 @@
  [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2019.09.03Update","action": {"type": "css-display-none","selector": "#foin_02AS"},"trigger": {"url-filter": "heraldcorp.com"}},
+
 {"_comment": "2019.08.12 Update","action": {"type": "css-display-none","selector": "#bd_876581316_0 > div > table > tbody > tr:nth-child(1)"},"trigger": {"url-filter": "theqoo.ne"}},
 {"_comment": "2019.08.12 Update","action": {"type": "css-display-none","selector": ".col-md-9 > div:nth-child(1)"},"trigger": {"url-filter": "manamoa10.net"}},
 {"_comment": "2019.08.12 Update","action": {"type": "css-display-none","selector": ".viewer-container > div:nth-child(4)"},"trigger": {"url-filter": "manamoa10.net"}},
