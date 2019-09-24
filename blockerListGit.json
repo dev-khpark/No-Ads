@@ -1,5 +1,11 @@
- [
+[
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
+
+{"_comment": "2019.09.24 Update","action": {"type": "css-display-none","selector": "#contents > div > div.article_body.newsContents.ar_content > iframe"},"trigger": {"url-filter": "wikitree.co.kr"}},
+{"_comment": "2019.09.24 Update","action": {"type": "css-display-none","selector": "#tmpILSA_Container"},"trigger": {"url-filter": "wikitree.co.kr"}},
+{"_comment": "2019.09.24 Update","action": {"type": "css-display-none","selector": "#contents > div > div.article_body.newsContents.ar_content > div:nth-child(14)"},"trigger": {"url-filter": "wikitree.co.kr"}},
+{"_comment": "2019.09.24 Update","action": {"type": "css-display-none","selector": "#tmpILSA_Container"},"trigger": {"url-filter": "wikitree.co.kr"}},
+{"_comment": "2019.09.24 Update","action": {"type": "css-display-none","selector": "#flex_ad_image"},"trigger": {"url-filter": "comic.naver.com"}},
 
 {"_comment": "2019.09.03Update","action": {"type": "css-display-none","selector": "#foin_02AS"},"trigger": {"url-filter": "heraldcorp.com"}},
 
