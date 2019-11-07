@@ -1,6 +1,8 @@
 [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2019.11.7 Update","action": {"type": "css-display-none","selector": "#container > div > div.naver_ad"},"trigger": {"url-filter": "mlbpark.donga.com"}},
+
 {"_comment": "2019.10.15 Update","action": {"type": "css-display-none","selector": "#inbnetDCM"},"trigger": {"url-filter": "ruliweb.com"}},
 
 {"_comment": "2019.09.24 Update","action": {"type": "css-display-none","selector": "#contents > div > div.article_body.newsContents.ar_content > iframe"},"trigger": {"url-filter": "wikitree.co.kr"}},
