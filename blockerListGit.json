@@ -1,6 +1,8 @@
 [
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
+{"_comment": "2021.09.21 Update","action": {"type": "css-display-none","selector": "div[class='shop_naver']"},"trigger": {"url-filter": "clien.net"}},
+
 {"_comment": "2020.05.29 Update","action": {"type": "css-display-none","selector": "#container > div.contents > div.left_cont > div.naver"},"trigger": {"url-filter": "mlbpark.donga.com"}},
 {"_comment": "2020.05.29 Update","action": {"type": "css-display-none","selector": "#p776cca_wrap"},"trigger": {"url-filter": "humoruniv.com"}},
 {"_comment": "2020.05.29 Update","action": {"type": "css-display-none","selector": "#k776ccaf4"},"trigger": {"url-filter": "humoruniv.com"}},
