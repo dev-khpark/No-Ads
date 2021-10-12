@@ -2,6 +2,7 @@
 {"_comment": "Start","action": {"type": "block"},"trigger": {"url-filter": "tistory24.com"}},
 
 {"_comment": "2021.10.12 Update","action": {"type": "css-display-none","selector": "div[class='power-link2']"},"trigger": {"url-filter": "ppomppu.co.kr"}},
+{"_comment": "2021.10.12 Update","action": {"type": "css-display-none","selector": "div[class='google-ad']"},"trigger": {"url-filter": "ppomppu.co.kr"}},
 
 {"_comment": "2021.09.21 Update","action": {"type": "css-display-none","selector": "div[class='shop_naver']"},"trigger": {"url-filter": "clien.net"}},
 
